@@ -1,0 +1,66 @@
+name: Renumber Q&A
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch: {}
+jobs:
+  renumber:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run renumber script
+        run: |
+          mkdir -p scripts
+          cat > scripts/renumber_qna.py <<'PY'
+#!/usr/bin/env python3
+import re, sys, pathlib
+# Renumber Q#) lines in these files (add more paths if needed)
+FILES = ["README.md", "latest/AWS_Interview_QA_2025.md"]
+pattern = re.compile(r'^(?P<prefix>\s*(?:\*\*)?)Q\d+\)(?P<rest>.*)$')
+def renumber_file(path: pathlib.Path):
+    n = 1; out = []
+    with path.open("r", encoding="utf-8") as f:
+        for line in f:
+            m = pattern.match(line)
+            if m:
+                out.append(f"{m.group('prefix')}Q{n}){m.group('rest')}\n" if not line.endswith("\n")
+                           else f"{m.group('prefix')}Q{n}){m.group('rest')}")
+                n += 1
+            else:
+                out.append(line)
+    text_new = "".join(out)
+    text_old = path.read_text(encoding="utf-8")
+    if text_new != text_old:
+        path.write_text(text_new, encoding="utf-8")
+        print(f"[renumbered] {path}")
+        return True
+    print(f"[no changes] {path}")
+    return False
+def main():
+    changed = False
+    for f in FILES:
+        p = pathlib.Path(f)
+        if p.exists():
+            changed |= renumber_file(p)
+        else:
+            print(f"[skip] {f} (not found)")
+    sys.exit(0)
+if __name__ == "__main__":
+    main()
+PY
+          python3 scripts/renumber_qna.py
+      - name: Commit changes (if any)
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: auto-renumber Q/A sequence"
+            git push
+          else
+            echo "No renumbering changes."
+          fi
