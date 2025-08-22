@@ -17,3 +17,18 @@ Click a question below to expand the answer
   <p>Key-pairs are secure login information for your instances/virtual machines. To connect to the instances we use key-pairs that contain a public-key and private-key.</p>
 </details>
 
+<details>
+  <summary><strong>Q4) What is S3?</strong></summary>
+  <p>S3 stands for Simple Storage Service. It is a storage service that provides an interface that you can use to store any amount of data, at any time, from anywhere in the world. With S3 you pay only for what you use and the payment model is pay-as-you-go.</p>
+</details>
+
+<details>
+  <summary><strong>Q5) What are the pricing models for EC2instances?</strong></summary>
+  <p>The different pricing model for EC2 instances are as below, On-demand Reserved Spot Scheduled Dedicated</p>
+</details>
+
+<details>
+  <summary><strong>Q6) What are the types of volumes for EC2 instances?</strong></summary>
+  <p>There are two types of volumes, Instance store volumes EBS  ElasticBlockStores</p>
+</details>
+
