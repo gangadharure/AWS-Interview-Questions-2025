@@ -1,57 +1,87 @@
-name: Add Daily Q&A
+#!/usr/bin/env python3
+import os, re, pathlib, json
 
-on:
-  schedule:
-    - cron: "30 3 * * *"   # daily ~09:00 IST
-  workflow_dispatch: {}
+ROOT = pathlib.Path(__file__).resolve().parents[2]
+PUBLISHED_FILE = ROOT / "AWS_Interview_QA_2025_details.md"
+STATE_FILE = ROOT / ".data" / "published_index.json"
 
-permissions:
-  contents: write
+BATCH = int(os.getenv("BATCH_SIZE", "3"))
+SOURCE_LOCAL_FILE = os.getenv("SOURCE_LOCAL_FILE")  # e.g., "source/all_questions.md"
 
-env:
-  BATCH_SIZE: "3"          # publish 3/day (set "2" if you prefer 2/day)
+def parse_items(text: str):
+    """Parse Q&A lines:
+       Q123) Question text...
+       Answer: Answer body..."""
+    items = []
+    q_pat = re.compile(r'^\s*(Q\d+\))\s*(.+)$')
+    lines = text.splitlines()
+    current_q, buf = None, []
+    for line in lines:
+        m = q_pat.match(line)
+        if m:
+            if current_q:
+                items.append((current_q, " ".join(buf).strip()))
+                buf = []
+            current_q = f"{m.group(1)} {m.group(2).strip()}"
+        elif line.strip().lower().startswith("answer:"):
+            buf.append(line.split(":",1)[1].strip())
+        else:
+            if current_q:
+                buf.append(line.strip())
+    if current_q:
+        items.append((current_q, " ".join(buf).strip()))
+    return [(q,a) for q,a in items if q and a]
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      # 1) Checkout THIS public repo
-      - uses: actions/checkout@v4
+def load_state() -> int:
+    if STATE_FILE.exists():
+        try:
+            return int(json.loads(STATE_FILE.read_text()).get("published_count", 0))
+        except Exception:
+            return 0
+    return 0
 
-      # 2) Checkout your PRIVATE repo into ./source using your PAT
-      - name: Checkout private source repo
-        uses: actions/checkout@v4
-        with:
-          repository: ${{ secrets.SOURCE_REPO }}      # e.g., gangadharure/AWS-Interview-Questions
-          ref: ${{ secrets.SOURCE_BRANCH }}           # e.g., main
-          token: ${{ secrets.SOURCE_TOKEN }}          # PAT with Contents:read for the private repo
-          path: source
+def save_state(count: int):
+    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    STATE_FILE.write_text(json.dumps({"published_count": count}), encoding="utf-8")
 
-      # 3) Sanity check (helps debug paths quickly)
-      - name: List source dir
-        run: |
-          echo "Listing ./source ..."
-          ls -la source
-          echo "Looking for file: source/${{ secrets.SOURCE_FILE }}"
-          test -f "source/${{ secrets.SOURCE_FILE }}" && echo "Found." || (echo "NOT FOUND"; exit 2)
+def ensure_header():
+    if not PUBLISHED_FILE.exists():
+        PUBLISHED_FILE.write_text("# AWS Interview Q&A (Daily Updates)\n\n", encoding="utf-8")
 
-      # 4) Append next Q&As into the public file
-      - name: Append new Q&As
-        run: |
-          python3 .github/scripts/add_qna.py
-        env:
-          SOURCE_LOCAL_FILE: source/${{ secrets.SOURCE_FILE }}  # <- read from checked-out private repo
-          BATCH_SIZE: ${{ env.BATCH_SIZE }}
+def append_blocks(pairs, start, batch=BATCH):
+    ensure_header()
+    content = PUBLISHED_FILE.read_text(encoding="utf-8")
+    appended = 0
+    for i in range(batch):
+        idx = start + i
+        if idx >= len(pairs): break
+        q, a = pairs[idx]
+        block = f"<details>\n  <summary><strong>{q.strip()}</strong></summary>\n  <p>{a.strip()}</p>\n</details>\n\n"
+        content += block
+        appended += 1
+    if appended:
+        PUBLISHED_FILE.write_text(content, encoding="utf-8")
+    return appended
 
-      # 5) Commit/push if changed
-      - name: Commit changes (if any)
-        run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add -A
-            git commit -m "chore: add daily Q&As"
-            git push
-          else
-            echo "Nothing to publish."
-          fi
+def main():
+    if not SOURCE_LOCAL_FILE:
+        print("ERROR: SOURCE_LOCAL_FILE env var not set."); return 2
+    src = ROOT / SOURCE_LOCAL_FILE
+    if not src.exists():
+        print(f"ERROR: Source file not found: {src}"); return 2
+
+    items = parse_items(src.read_text(encoding="utf-8"))
+    if not items:
+        print("ERROR: No Q&A items parsed."); return 3
+
+    published = load_state()
+    added = append_blocks(items, published, BATCH)
+    if added:
+        save_state(published + added)
+        print(f"Appended {added} items. Total published: {published + added}/{len(items)}")
+    else:
+        print("No more items to append.")
+    return 0
+
+if __name__ == "__main__":
+    raise SystemExit(main())
