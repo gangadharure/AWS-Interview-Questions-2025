@@ -27,19 +27,27 @@ def clone_private_source(tmpdir: pathlib.Path) -> pathlib.Path:
     return dest
 
 def parse_items(text: str):
+    """Parse lines like:
+       Q123) Question text...
+       Answer: ......
+    """
     items = []
-    q_pat = re.compile(r'^\s*Q\d+\)\s*(.+)$', re.IGNORECASE)
+    q_pat = re.compile(r'^\s*(Q\d+\))\s*(.+)$')
     lines = text.splitlines()
-    current_q, buf = None, []
+    current_q, current_label, buf = None, None, []
     for line in lines:
         m = q_pat.match(line)
         if m:
+            # flush previous
             if current_q:
                 items.append((current_q, " ".join(buf).strip()))
                 buf = []
-            current_q = f"Q) {m.group(1).strip()}"
+            # new question
+            current_q = f"{m.group(1)} {m.group(2).strip()}"
+            current_label = None
         elif line.strip().lower().startswith("answer:"):
             buf.append(line.split(":",1)[1].strip())
+            current_label = "answer"
         else:
             if current_q:
                 buf.append(line.strip())
@@ -69,11 +77,9 @@ def append_details_blocks(pairs, start_index, batch=DEFAULT_BATCH):
     for i in range(batch):
         idx = n0 + i
         if idx >= len(pairs): break
-        q_raw, a_raw = pairs[idx]
-        qline = q_raw.strip()
-        if not re.match(r'Q\d+\)', qline):
-            qline = f"Q{idx+1}) {qline}"
-        abody = a_raw.strip()
+        qline, abody = pairs[idx]
+        qline = qline.strip()
+        abody = abody.strip()
         block = f"""<details>
   <summary><strong>{qline}</strong></summary>
   <p>{abody}</p>
