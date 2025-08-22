@@ -2,30 +2,29 @@ name: Add Daily Q&A
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # daily at 03:30 UTC ≈ 09:00 IST
-  workflow_dispatch: {}     # allow manual trigger from Actions tab
+    - cron: "30 3 * * *"   # runs daily at ~09:00 IST
+  workflow_dispatch: {}
 
 permissions:
   contents: write
 
 env:
-  SOURCE_REPO: ${{ secrets.SOURCE_REPO }}
-  SOURCE_BRANCH: ${{ secrets.SOURCE_BRANCH }}
-  SOURCE_FILE: ${{ secrets.SOURCE_FILE }}
-  SOURCE_TOKEN: ${{ secrets.SOURCE_TOKEN }}
-  BATCH_SIZE: "3"           # change to "2" if you prefer 2/day
+  BATCH_SIZE: "3"
 
 jobs:
-  update-qna:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Add new Q&As
-        run: |
-          python3 .github/scripts/add_qna.py
-
-      - name: Commit changes (if any)
+      - name: Append new Q&As
+        run: python3 .github/scripts/add_qna.py
+        env:
+          SOURCE_REPO: ${{ secrets.SOURCE_REPO }}
+          SOURCE_BRANCH: ${{ secrets.SOURCE_BRANCH }}
+          SOURCE_FILE: ${{ secrets.SOURCE_FILE }}
+          SOURCE_TOKEN: ${{ secrets.SOURCE_TOKEN }}
+          BATCH_SIZE: ${{ env.BATCH_SIZE }}
+      - name: Commit changes
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "github-actions[bot]"
@@ -34,5 +33,5 @@ jobs:
             git commit -m "chore: add daily Q&As"
             git push
           else
-            echo "No changes to commit."
+            echo "Nothing to publish."
           fi
