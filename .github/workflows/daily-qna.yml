@@ -2,14 +2,16 @@ name: Add Daily Q&A
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # daily ~09:00 IST
+    # Run 5 times a day
+    - cron: "0 0,4,8,12,16 * * *"
   workflow_dispatch: {}
+
 
 permissions:
   contents: write
 
 env:
-  BATCH_SIZE: "3"
+  BATCH_SIZE: "1"
 
 jobs:
   update:
