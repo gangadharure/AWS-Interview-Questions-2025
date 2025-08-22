@@ -40,3 +40,8 @@
   <p>Following are the types of volumes in EBS, General purpose Provisioned IOPS Magnetic Cold HDD Throughput optimized</p>
 </details>
 
+<details>
+  <summary><strong>Q9) What are the different types of instances?</strong></summary>
+  <p>Following are the types of instances, General purpose Computer Optimized Storage Optimized Memory Optimized Accelerated Computing</p>
+</details>
+
