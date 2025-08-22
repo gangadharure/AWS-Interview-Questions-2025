@@ -9,48 +9,42 @@ permissions:
   contents: write
 
 env:
-  BATCH_SIZE: "3"          # publish 3/day (set "2" if you prefer 2/day)
+  BATCH_SIZE: "3"
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      # 1) Checkout THIS public repo
       - uses: actions/checkout@v4
 
-      # 2) Checkout your PRIVATE repo into ./source using your PAT
       - name: Checkout private source repo
         uses: actions/checkout@v4
         with:
-          repository: ${{ secrets.SOURCE_REPO }}      # e.g., gangadharure/AWS-Interview-Questions
-          ref: ${{ secrets.SOURCE_BRANCH }}           # e.g., main
-          token: ${{ secrets.SOURCE_TOKEN }}          # PAT with Contents:read for the private repo
+          repository: ${{ secrets.SOURCE_REPO }}      # gangadharure/AWS-Interview-Questions
+          ref: ${{ secrets.SOURCE_BRANCH }}           # main
+          token: ${{ secrets.SOURCE_TOKEN }}          # PAT with Contents:read
           path: source
 
-      - name: Checkout private source repo
-        uses: actions/checkout@v4
-        with:
-          repository: gangadharure/AWS-Interview-Questions   # <-- exact owner/repo
-          ref: main
-          token: ${{ secrets.SOURCE_TOKEN }}
-          path: source
-      # 3) Sanity check (helps debug paths quickly)
-      - name: List source dir
+      - name: Sanity check
         run: |
-          echo "Listing ./source ..."
-          ls -la source
-          echo "Looking for file: source/${{ secrets.SOURCE_FILE }}"
-          test -f "source/${{ secrets.SOURCE_FILE }}" && echo "Found." || (echo "NOT FOUND"; exit 2)
+          echo "Expect: source/${{ secrets.SOURCE_FILE }}"
+          ls -la source || true
+          test -f "source/${{ secrets.SOURCE_FILE }}" || (echo "Source file not found"; exit 2)
 
-      # 4) Append next Q&As into the public file
-      - name: Append new Q&As
-        run: |
-          python3 .github/scripts/add_qna.py
+      # >>> NEW: normalize messy file into a clean machine-parseable file
+      - name: Normalize source Q&A
+        run: python3 .github/scripts/normalize_qna.py
         env:
-          SOURCE_LOCAL_FILE: source/${{ secrets.SOURCE_FILE }}  # <- read from checked-out private repo
+          SOURCE_LOCAL_FILE: source/${{ secrets.SOURCE_FILE }}
+          OUTPUT_FILE: source/cleaned_all_questions.md
+          RENUMBER: "true"
+
+      - name: Append new Q&As
+        run: python3 .github/scripts/add_qna.py
+        env:
+          SOURCE_LOCAL_FILE: source/cleaned_all_questions.md   # <<< use cleaned
           BATCH_SIZE: ${{ env.BATCH_SIZE }}
 
-      # 5) Commit/push if changed
       - name: Commit changes (if any)
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
