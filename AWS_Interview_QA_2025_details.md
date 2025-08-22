@@ -35,3 +35,8 @@
   <p>EBS stands for Elastic Block Stores. They are persistent volumes that you can attach to the instances. With EBS volumes, your data will be preserved even when you stop your instances, unlike your instance store volumes where the data is deleted when you stop the instances.</p>
 </details>
 
+<details>
+  <summary><strong>Q8) What are the types of volumes in EBS?</strong></summary>
+  <p>Following are the types of volumes in EBS, General purpose Provisioned IOPS Magnetic Cold HDD Throughput optimized</p>
+</details>
+
