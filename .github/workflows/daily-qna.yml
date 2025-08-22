@@ -27,6 +27,13 @@ jobs:
           token: ${{ secrets.SOURCE_TOKEN }}          # PAT with Contents:read for the private repo
           path: source
 
+      - name: Checkout private source repo
+        uses: actions/checkout@v4
+        with:
+          repository: gangadharure/AWS-Interview-Questions   # <-- exact owner/repo
+          ref: main
+          token: ${{ secrets.SOURCE_TOKEN }}
+          path: source
       # 3) Sanity check (helps debug paths quickly)
       - name: List source dir
         run: |
