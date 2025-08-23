@@ -60,3 +60,8 @@
   <p>AMI stands for Amazon Machine Image. AMI is a template that contains the software configurations, launch permission and a block device mapping that specifies the volume to attach to the instance when it is launched.</p>
 </details>
 
+<details>
+  <summary><strong>Q13) What is an EIP?</strong></summary>
+  <p>EIP stands for Elastic IP address. It is designed for dynamic cloud computing. When you want to have a static IP address for your instances when you stop and restart your instances, you will be using EIP address.</p>
+</details>
+
