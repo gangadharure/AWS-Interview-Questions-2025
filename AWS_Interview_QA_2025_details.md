@@ -50,3 +50,8 @@
   <p>Auto scaling allows you to automatically scale-up and scale-down the number of instances depending on the CPU utilization or memory utilization. There are 2 components in Auto scaling, they are Auto-scaling groups and Launch Configuration. Get AWS Online Training</p>
 </details>
 
+<details>
+  <summary><strong>Q11) What are reserved instances?</strong></summary>
+  <p>Reserved instances are the instance that you can reserve a fixed capacity of EC2 instances. In reserved instances you will have to get into a contract of 1 year or 3 years.</p>
+</details>
+
