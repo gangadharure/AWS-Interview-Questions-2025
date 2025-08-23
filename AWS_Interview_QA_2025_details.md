@@ -55,3 +55,8 @@
   <p>Reserved instances are the instance that you can reserve a fixed capacity of EC2 instances. In reserved instances you will have to get into a contract of 1 year or 3 years.</p>
 </details>
 
+<details>
+  <summary><strong>Q12) What is an AMI?</strong></summary>
+  <p>AMI stands for Amazon Machine Image. AMI is a template that contains the software configurations, launch permission and a block device mapping that specifies the volume to attach to the instance when it is launched.</p>
+</details>
+
