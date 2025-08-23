@@ -65,3 +65,8 @@
   <p>EIP stands for Elastic IP address. It is designed for dynamic cloud computing. When you want to have a static IP address for your instances when you stop and restart your instances, you will be using EIP address.</p>
 </details>
 
+<details>
+  <summary><strong>Q14) What is Cloudwatch?</strong></summary>
+  <p>Cloudwatch is a monitoring tool that you can use to monitor your various AWS resources. Like health check, network, Application, etc.</p>
+</details>
+
