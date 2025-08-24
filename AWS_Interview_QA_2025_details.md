@@ -80,3 +80,8 @@
   <p>Diskreads, Diskwrites, CPU utilization, networkpacketsIn, networkpacketsOut, networkIn, networkOut, CPUCreditUsage, CPUCreditBalance.</p>
 </details>
 
+<details>
+  <summary><strong>Q17) What is the minimum and maximum size of individual objects that you can store in S3</strong></summary>
+  <p>The minimum size of individual objects that you can store in S3 is 0 bytes and the maximum bytes that you can store for individual objects is 5TB.</p>
+</details>
+
