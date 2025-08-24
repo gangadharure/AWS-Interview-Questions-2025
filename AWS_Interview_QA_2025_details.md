@@ -75,3 +75,8 @@
   <p>There are 2 types in cloudwatch. Basic monitoring and detailed monitoring. Basic monitoring is free and detailed monitoring is chargeable.</p>
 </details>
 
+<details>
+  <summary><strong>Q16) What are the cloudwatch metrics that are available for EC2 instances?</strong></summary>
+  <p>Diskreads, Diskwrites, CPU utilization, networkpacketsIn, networkpacketsOut, networkIn, networkOut, CPUCreditUsage, CPUCreditBalance.</p>
+</details>
+
