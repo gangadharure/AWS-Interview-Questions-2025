@@ -70,3 +70,8 @@
   <p>Cloudwatch is a monitoring tool that you can use to monitor your various AWS resources. Like health check, network, Application, etc.</p>
 </details>
 
+<details>
+  <summary><strong>Q15) What are the types in cloudwatch?</strong></summary>
+  <p>There are 2 types in cloudwatch. Basic monitoring and detailed monitoring. Basic monitoring is free and detailed monitoring is chargeable.</p>
+</details>
+
