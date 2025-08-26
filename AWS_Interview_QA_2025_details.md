@@ -130,3 +130,8 @@
   <p>Policies are permissions that you can attach to the users that you create. These policies will contain that access that you have provided to the users that you have created. There are 2 types of policies. Managed policies Inline policies</p>
 </details>
 
+<details>
+  <summary><strong>Q27) What is cloudfront?</strong></summary>
+  <p>Cloudfront is an AWS web service that provided businesses and application developers an easy and efficient way to distribute their content with low latency and high data transfer speeds. Cloudfront is content delivery network of AWS.</p>
+</details>
+
