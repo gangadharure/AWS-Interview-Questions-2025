@@ -125,3 +125,8 @@
   <p>Roles are used to provide permissions to entities that you trust within your AWS account. Roles are users in another account. Roles are similar to users but with roles you do not need to create any username and password to work with the resources.</p>
 </details>
 
+<details>
+  <summary><strong>Q26) What are policies and what are the types of policies?</strong></summary>
+  <p>Policies are permissions that you can attach to the users that you create. These policies will contain that access that you have provided to the users that you have created. There are 2 types of policies. Managed policies Inline policies</p>
+</details>
+
