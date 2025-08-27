@@ -145,3 +145,8 @@
   <p>You can store a maximum individual archive of upto 40 TB. Get AWS 100% Practical Training</p>
 </details>
 
+<details>
+  <summary><strong>Q30) What is VPC?</strong></summary>
+  <p>VPC stands for Virtual Private Cloud. VPC allows you to easily customize your networking configuration. VPC is a network that is logically isolated from other network in the cloud. It allows you to have your own IP address range, subnets, internet gateways, NAT gateways and security groups.</p>
+</details>
+
