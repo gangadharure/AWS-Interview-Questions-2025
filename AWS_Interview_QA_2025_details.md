@@ -165,3 +165,8 @@
   <p>You can use security groups and NACL (Network Access Control List) to control the security to your VPC.</p>
 </details>
 
+<details>
+  <summary><strong>Q34) What are the different types of storage gateway?</strong></summary>
+  <p>Following are the types of storage gateway. File gateway Volume gateway Tape gateway</p>
+</details>
+
