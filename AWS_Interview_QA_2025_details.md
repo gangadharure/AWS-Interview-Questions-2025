@@ -150,3 +150,8 @@
   <p>VPC stands for Virtual Private Cloud. VPC allows you to easily customize your networking configuration. VPC is a network that is logically isolated from other network in the cloud. It allows you to have your own IP address range, subnets, internet gateways, NAT gateways and security groups.</p>
 </details>
 
+<details>
+  <summary><strong>Q31) What is VPC peering connection?</strong></summary>
+  <p>VPC peering connection allows you to connect 1 VPC with another VPC. Instances in these VPC behave as if they are in the same network.</p>
+</details>
+
