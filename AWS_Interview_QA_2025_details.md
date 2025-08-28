@@ -170,3 +170,8 @@
   <p>Following are the types of storage gateway. File gateway Volume gateway Tape gateway</p>
 </details>
 
+<details>
+  <summary><strong>Q35) What is a snowball?</strong></summary>
+  <p>Snowball is a data transport solution that used source appliances to transfer large amounts of data into and out of AWS. Using snowball, you can move huge amount of data from one place to another which reduces your network costs, long transfer times and also provides better security.</p>
+</details>
+
