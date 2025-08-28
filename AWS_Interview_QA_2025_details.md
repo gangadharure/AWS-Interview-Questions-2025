@@ -190,3 +190,8 @@
   <p>SNS stands for Simple Notification Service. SNS is a web service that makes it easy to notifications from the cloud. You can set up SNS to receive email notification or message notification.</p>
 </details>
 
+<details>
+  <summary><strong>Q39) What are the types of routing polices in route53?</strong></summary>
+  <p>Following are the types of routing policies in route53, Simple routing Latency routing Failover routing Geolocation routing Weighted routing Multivalue answer</p>
+</details>
+
