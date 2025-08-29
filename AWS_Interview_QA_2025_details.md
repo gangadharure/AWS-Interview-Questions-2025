@@ -205,3 +205,8 @@
   <p>There are 2 types of queues in SQS. Standard queue FIFO (First In First Out)</p>
 </details>
 
+<details>
+  <summary><strong>Q42) What is multi-AZ RDS?</strong></summary>
+  <p>Multi-AZ (Availability Zone) RDS allows you to have a replica of your production database in another availability zone. Multi-AZ (Availability Zone) database is used for disaster recovery. You will have an exact copy of your database. So when your primary database goes down, your application will automatically failover to the standby database.</p>
+</details>
+
