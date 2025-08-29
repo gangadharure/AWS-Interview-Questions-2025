@@ -195,3 +195,8 @@
   <p>Following are the types of routing policies in route53, Simple routing Latency routing Failover routing Geolocation routing Weighted routing Multivalue answer</p>
 </details>
 
+<details>
+  <summary><strong>Q40) What is the maximum size of messages in SQS?</strong></summary>
+  <p>The maximum size of messages in SQS is 256 KB.</p>
+</details>
+
