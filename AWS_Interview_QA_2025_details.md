@@ -210,3 +210,8 @@
   <p>Multi-AZ (Availability Zone) RDS allows you to have a replica of your production database in another availability zone. Multi-AZ (Availability Zone) database is used for disaster recovery. You will have an exact copy of your database. So when your primary database goes down, your application will automatically failover to the standby database.</p>
 </details>
 
+<details>
+  <summary><strong>Q43) What are the types of backups in RDS database?</strong></summary>
+  <p>There are 2 types of backups in RDS database. Automated backups Manual backups which are known as snapshots.</p>
+</details>
+
