@@ -220,3 +220,8 @@
   <p>Security Groups Network access control list Can control the access at the instance level Can control access at the subnet level Can add rules for "allow" only Can add rules for both "allow" and "deny" Evaluates all rules before allowing the traffic Rules are processed in order number when allowing traffic. Can assign unlimited number of security groups Can assign upto 5 security groups. Statefull filtering Stateless filtering</p>
 </details>
 
+<details>
+  <summary><strong>Q45) What are the types of load balancers in EC2?</strong></summary>
+  <p>There are 3 types of load balancers, Application load balancer Network load balancer Classic load balancer Become an AWS Certified Expert in 25Hours</p>
+</details>
+
