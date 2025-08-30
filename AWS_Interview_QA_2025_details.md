@@ -225,3 +225,8 @@
   <p>There are 3 types of load balancers, Application load balancer Network load balancer Classic load balancer Become an AWS Certified Expert in 25Hours</p>
 </details>
 
+<details>
+  <summary><strong>Q46) What is and ELB?</strong></summary>
+  <p>ELB stands for Elastic Load balancing. ELB automatically distributes the incoming application traffic or network traffic across multiple targets like EC2, containers, IP addresses.</p>
+</details>
+
