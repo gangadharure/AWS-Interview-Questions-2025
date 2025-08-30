@@ -2,10 +2,9 @@ name: Add Daily Q&A
 
 on:
   schedule:
-    # Run 5 times a day
+    # Run 5 times a day (UTC)
     - cron: "0 0,4,8,12,16 * * *"
   workflow_dispatch: {}
-
 
 permissions:
   contents: write
@@ -17,14 +16,17 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      # Fetch full history so commits/pushes work cleanly
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Checkout private source repo
         uses: actions/checkout@v4
         with:
-          repository: ${{ secrets.SOURCE_REPO }}      # gangadharure/AWS-Interview-Questions
-          ref: ${{ secrets.SOURCE_BRANCH }}           # main
-          token: ${{ secrets.SOURCE_TOKEN }}          # PAT with Contents:read
+          repository: ${{ secrets.SOURCE_REPO }}      # e.g. gangadharure/AWS-Interview-Questions
+          ref: ${{ secrets.SOURCE_BRANCH }}           # e.g. main
+          token: ${{ secrets.SOURCE_TOKEN }}          # PAT with repo read
           path: source
 
       - name: Sanity check
@@ -33,7 +35,7 @@ jobs:
           ls -la source || true
           test -f "source/${{ secrets.SOURCE_FILE }}" || (echo "Source file not found"; exit 2)
 
-      # >>> NEW: normalize messy file into a clean machine-parseable file
+      # Normalize messy file into a clean machine-parseable file
       - name: Normalize source Q&A
         run: python3 .github/scripts/normalize_qna.py
         env:
@@ -44,16 +46,23 @@ jobs:
       - name: Append new Q&As
         run: python3 .github/scripts/add_qna.py
         env:
-          SOURCE_LOCAL_FILE: source/cleaned_all_questions.md   # <<< use cleaned
+          SOURCE_LOCAL_FILE: source/cleaned_all_questions.md
           BATCH_SIZE: ${{ env.BATCH_SIZE }}
 
-      - name: Commit changes (if any)
+      - name: Commit changes (if any) as you
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
+            # Use your verified identity from repository secrets
+            git config user.name "${{ secrets.GIT_AUTHOR_NAME }}"
+            git config user.email "${{ secrets.GIT_AUTHOR_EMAIL }}"
+            export GIT_AUTHOR_NAME="${{ secrets.GIT_AUTHOR_NAME }}"
+            export GIT_AUTHOR_EMAIL="${{ secrets.GIT_AUTHOR_EMAIL }}"
+            export GIT_COMMITTER_NAME="${{ secrets.GIT_AUTHOR_NAME }}"
+            export GIT_COMMITTER_EMAIL="${{ secrets.GIT_AUTHOR_EMAIL }}"
+
             git add -A
-            git commit -m "chore: add daily Q&As"
+            git commit -m "chore: add daily Q&As" || echo "No changes to commit"
+            # Push to the same branch the workflow ran on (default branch)
             git push
           else
             echo "Nothing to publish."
