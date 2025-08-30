@@ -230,3 +230,4 @@
   <p>ELB stands for Elastic Load balancing. ELB automatically distributes the incoming application traffic or network traffic across multiple targets like EC2, containers, IP addresses.</p>
 </details>
 
+
