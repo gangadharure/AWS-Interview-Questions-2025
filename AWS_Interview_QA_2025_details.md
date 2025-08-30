@@ -231,3 +231,8 @@
 </details>
 
 
+<details>
+  <summary><strong>Q47) creating users?</strong></summary>
+  <p>Following are the two types of access that you can create. Programmatic access Console access</p>
+</details>
+
