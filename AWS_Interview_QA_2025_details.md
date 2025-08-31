@@ -266,3 +266,8 @@
   <p>A large section of IP Address divided in to chunks are known as subnets</p>
 </details>
 
+<details>
+  <summary><strong>Q54) How can you convert a public subnet to private subnet?</strong></summary>
+  <p>Remove IGW & add NAT Gateway, Associate subnet in Private route table</p>
+</details>
+
