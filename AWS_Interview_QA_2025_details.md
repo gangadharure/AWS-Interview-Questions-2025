@@ -251,3 +251,8 @@
   <p>SharedAMIsaretheAMIthatarecreatedbyotherdevelo other developed to use.</p>
 </details>
 
+<details>
+  <summary><strong>Q51) load balancer?</strong></summary>
+  <p>Dynamic port mapping, multiple port multiple listeners is used in Application Load Balancer, One port one listener is achieved via Classic Load Balancer</p>
+</details>
+
