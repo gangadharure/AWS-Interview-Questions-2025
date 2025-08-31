@@ -271,3 +271,8 @@
   <p>Remove IGW & add NAT Gateway, Associate subnet in Private route table</p>
 </details>
 
+<details>
+  <summary><strong>Q55) Answer: noitsnotpossible , wecanincreaseitbutnotreducethe Q56) What is the use of elastic ip are they charged by AWS?</strong></summary>
+  <p>These are ipv4 address which are used to connect the instance from internet, they are charged if the instances are not attached to it</p>
+</details>
+
