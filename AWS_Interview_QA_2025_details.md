@@ -291,3 +291,8 @@
   <p>yes its possible from console use modify volumes in section give the size u need then for windows go to disk management for Linux mount it to achieve the modification Get AWS Online Training</p>
 </details>
 
+<details>
+  <summary><strong>Q59) Answer: Yesitspossibletostoprds . Instancewhicharenon - prod Q61) What is meant by parameter groups in rds. And what is the use of it?</strong></summary>
+  <p>Since RDS is a managed service AWS offers a wide set of parameter in RDS as parameter group which is modified as per requirement</p>
+</details>
+
