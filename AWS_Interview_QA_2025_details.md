@@ -296,3 +296,8 @@
   <p>Since RDS is a managed service AWS offers a wide set of parameter in RDS as parameter group which is modified as per requirement</p>
 </details>
 
+<details>
+  <summary><strong>Q60) What is the use of tags and how they are useful?</strong></summary>
+  <p>Tags are used for identification and grouping AWS Resources</p>
+</details>
+
