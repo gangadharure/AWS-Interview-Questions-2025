@@ -281,3 +281,8 @@
   <p>If versioning is enabled we can easily restore them</p>
 </details>
 
+<details>
+  <summary><strong>Q57) to fix the issue?</strong></summary>
+  <p>By default AWS offer service limit of 20 running instances per region, to fix the issue we need to contact AWS support to increase the limit based on the requirement</p>
+</details>
+
