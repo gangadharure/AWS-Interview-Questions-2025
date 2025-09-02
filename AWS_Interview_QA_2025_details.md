@@ -311,3 +311,8 @@
   <p>5 elastic ip per region</p>
 </details>
 
+<details>
+  <summary><strong>Q63) instance?</strong></summary>
+  <p>Binds the user session with a specific instance</p>
+</details>
+
