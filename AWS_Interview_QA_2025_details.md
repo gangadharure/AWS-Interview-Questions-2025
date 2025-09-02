@@ -316,3 +316,8 @@
   <p>Binds the user session with a specific instance</p>
 </details>
 
+<details>
+  <summary><strong>Q64) Which type of load balancer makes routing decisions at either the transport layer or the Application layer and supports either EC2 or VPC.</strong></summary>
+  <p>Classic Load Balancer</p>
+</details>
+
