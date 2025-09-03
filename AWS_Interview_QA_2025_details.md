@@ -336,3 +336,8 @@
   <p>Changes are automatically applied to windows instances</p>
 </details>
 
+<details>
+  <summary><strong>Q68) Load Balancer and DNS service comes under which type of cloud service?</strong></summary>
+  <p>IAAS-Storage</p>
+</details>
+
