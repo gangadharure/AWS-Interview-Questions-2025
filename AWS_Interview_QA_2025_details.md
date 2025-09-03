@@ -331,3 +331,8 @@
   <p>To verify that there is a rule that allows traffic from EC2 Instance to your computer</p>
 </details>
 
+<details>
+  <summary><strong>Q67) Security group. How will these changes be effective?</strong></summary>
+  <p>Changes are automatically applied to windows instances</p>
+</details>
+
