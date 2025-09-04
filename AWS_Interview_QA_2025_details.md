@@ -371,3 +371,8 @@
   <p>Primary db instance does not working.</p>
 </details>
 
+<details>
+  <summary><strong>Q75) e-commerce data for the near by real-time analysis?</strong></summary>
+  <p>Good of Amazon DynamoDB.</p>
+</details>
+
