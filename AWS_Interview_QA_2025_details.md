@@ -356,3 +356,8 @@
   <p>Instance Store backed, EBS Backed</p>
 </details>
 
+<details>
+  <summary><strong>Q72) always attached to a Single instance. What setting can you use?</strong></summary>
+  <p>Sticky session</p>
+</details>
+
