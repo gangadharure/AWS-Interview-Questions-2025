@@ -366,3 +366,8 @@
   <p>If you have do batch-oriented is workloads.</p>
 </details>
 
+<details>
+  <summary><strong>Q74) instance?</strong></summary>
+  <p>Primary db instance does not working.</p>
+</details>
+
