@@ -391,3 +391,8 @@
   <p>Introduce Amazon Elasticache to the cache reads from the Amazon DynamoDB table and to reduce the provisioned read throughput.</p>
 </details>
 
+<details>
+  <summary><strong>Q79) approaches to the meet these requirements?</strong></summary>
+  <p>The Deploy Elasti Cache in-memory cache is running in each availability zone and Then Increase the RDS MySQL Instance size and the Implement provisioned IOPS.</p>
+</details>
+
