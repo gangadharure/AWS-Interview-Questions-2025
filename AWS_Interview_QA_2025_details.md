@@ -376,3 +376,8 @@
   <p>Good of Amazon DynamoDB.</p>
 </details>
 
+<details>
+  <summary><strong>Q76) providestothesolutionforcompanysrequirements ?</strong></summary>
+  <p>An web application provide on Amazon DynamoDB solution.</p>
+</details>
+
