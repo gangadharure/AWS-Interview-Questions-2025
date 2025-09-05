@@ -396,3 +396,8 @@
   <p>The Deploy Elasti Cache in-memory cache is running in each availability zone and Then Increase the RDS MySQL Instance size and the Implement provisioned IOPS.</p>
 </details>
 
+<details>
+  <summary><strong>Q80) analyze it. Which setup of following would you be prefer?</strong></summary>
+  <p>The Replace the RDS instance with an 6 node Redshift cluster with take 96TB of storage.</p>
+</details>
+
