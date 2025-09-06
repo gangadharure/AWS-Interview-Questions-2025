@@ -421,3 +421,8 @@
   <p>The re-routes traffic from the instances which are to be updated (or) failed an health to check.</p>
 </details>
 
+<details>
+  <summary><strong>Q85) new ones, which of the services does that?</strong></summary>
+  <p>The survice make a fault tolerance.</p>
+</details>
+
