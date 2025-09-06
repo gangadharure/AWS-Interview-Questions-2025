@@ -416,3 +416,8 @@
   <p>Let Create a load balancer, and Give register the Amazon EC2 instance with it.</p>
 </details>
 
+<details>
+  <summary><strong>Q84) What does the Connection of draining do?</strong></summary>
+  <p>The re-routes traffic from the instances which are to be updated (or) failed an health to check.</p>
+</details>
+
