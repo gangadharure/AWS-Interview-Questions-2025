@@ -446,3 +446,8 @@
   <p>May be the selected on Route 53 Record Sets.</p>
 </details>
 
+<details>
+  <summary><strong>Q90) select option should he choose for his application?</strong></summary>
+  <p>The condition should be Enable to AWS CloudTrail for the loadbalancers.</p>
+</details>
+
