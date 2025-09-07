@@ -441,3 +441,8 @@
   <p>The Immediately to all the instances in security groups.</p>
 </details>
 
+<details>
+  <summary><strong>Q89) to be recreated in second region?</strong></summary>
+  <p>May be the selected on Route 53 Record Sets.</p>
+</details>
+
