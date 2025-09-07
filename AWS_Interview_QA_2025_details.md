@@ -431,3 +431,8 @@
   <p>They are used to the put an additional taken wait time to the scale in or scale out events. Are You Interested in AWS Course ? Click here</p>
 </details>
 
+<details>
+  <summary><strong>Q87) be happen to the Auto Scaling in the condition?</strong></summary>
+  <p>The auto Scaling will be suspend to the scaling process.</p>
+</details>
+
