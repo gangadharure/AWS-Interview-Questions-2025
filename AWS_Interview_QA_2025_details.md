@@ -466,3 +466,8 @@
   <p>The Key should be working in the same region.</p>
 </details>
 
+<details>
+  <summary><strong>Q94) AWS services to can accomplish this?</strong></summary>
+  <p>The monitoring on Amazon CloudWatch</p>
+</details>
+
