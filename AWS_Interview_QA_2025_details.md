@@ -451,3 +451,8 @@
   <p>The condition should be Enable to AWS CloudTrail for the loadbalancers.</p>
 </details>
 
+<details>
+  <summary><strong>Q91) Which of the services to you would not use to deploy an app?</strong></summary>
+  <p>Lambda app not used on deploy.</p>
+</details>
+
