@@ -456,3 +456,8 @@
   <p>Lambda app not used on deploy.</p>
 </details>
 
+<details>
+  <summary><strong>Q92) How do the Elastic Beanstalk can apply to updates?</strong></summary>
+  <p>By a duplicate ready with a updates prepare before swapping.</p>
+</details>
+
