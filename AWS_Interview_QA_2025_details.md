@@ -486,3 +486,8 @@
   <p>An Create an IAM role for the EC2 that allows list access to objects in S3 buckets. Launch toinstancewiththisrole , andretrieveanrolescredentialsfrom Q101) You use the Amazon CloudWatch as your primary monitoring system for web application. After a recent to software deployment, your users are to getting Intermittent the 500 Internal Server to the Errors, when you using web application. You want to create the CloudWatch alarm, and notify the on-call engineer let when these occur. How can you accomplish the using the AWS</p>
 </details>
 
+<details>
+  <summary><strong>Q98) services?</strong></summary>
+  <p>An Create a CloudWatch get Logs to group and A define metric filters that assure capture 500 Internal Servers should be Errors. Set a CloudWatch alarm on the metric and By Use of Amazon Simple to create a Notification Service to notify an the on-call engineers when prepare CloudWatch alarm is triggered.</p>
+</details>
+
