@@ -491,3 +491,8 @@
   <p>An Create a CloudWatch get Logs to group and A define metric filters that assure capture 500 Internal Servers should be Errors. Set a CloudWatch alarm on the metric and By Use of Amazon Simple to create a Notification Service to notify an the on-call engineers when prepare CloudWatch alarm is triggered.</p>
 </details>
 
+<details>
+  <summary><strong>Q99) most cost effective and Like performance efficient the architecture setup?</strong></summary>
+  <p>Assign to multiple ELBs an EC2 instance or group of EC2 take instances running to common component of the web application, one ELB change for each platform type.Take Session will be stickiness and SSL termination are done for the ELBs.</p>
+</details>
+
