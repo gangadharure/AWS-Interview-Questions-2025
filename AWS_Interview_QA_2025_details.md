@@ -496,3 +496,8 @@
   <p>Assign to multiple ELBs an EC2 instance or group of EC2 take instances running to common component of the web application, one ELB change for each platform type.Take Session will be stickiness and SSL termination are done for the ELBs.</p>
 </details>
 
+<details>
+  <summary><strong>Q100) scalability and high availability?</strong></summary>
+  <p>File a change request to get implement of Proxy Protocol support in the application. Use of ELB with TCP Listener and A Proxy Protocol enabled to distribute the load on two application servers in the different AZs.</p>
+</details>
+
