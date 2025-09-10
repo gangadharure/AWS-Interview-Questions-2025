@@ -516,3 +516,8 @@
   <p>Use TCP load balancing on load balancer system, SSL termination on Amazon to create EC2 instances, OS-level disk take encryption on Amazon EBS volumes, and The amazon S3 with server-side to encryption and Use the SSL termination on load balancers, an SSL listener on the Amazon to create EC2 instances, Amazon EBS encryption on the EBS volumes containing the PHI, and Amazon S3 with a server-side of encryption.</p>
 </details>
 
+<details>
+  <summary><strong>Q104) servers?</strong></summary>
+  <p>Result of cloud is re-configure the load-testing software to the re-resolve DNS for each web request.</p>
+</details>
+
