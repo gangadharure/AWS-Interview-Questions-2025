@@ -521,3 +521,8 @@
   <p>Result of cloud is re-configure the load-testing software to the re-resolve DNS for each web request.</p>
 </details>
 
+<details>
+  <summary><strong>Q105) c3 . 2xlargeinstanceshavesignificanttocapacitythat option is the most of cost effective and uses EC2 capacity most of effectively?</strong></summary>
+  <p>To use a separate ELB for the each instance type and the distribute load to ELBs with a Route 53 weighted round of robin.</p>
+</details>
+
