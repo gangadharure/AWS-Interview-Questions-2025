@@ -541,3 +541,8 @@
   <p>Cloud computing means it provides services to access programs, application, storage, network, server over the internet through browser or client side application on your PC, Laptop, Mobile by the end user without installing, updating and maintaining them. Cloud computing is a cloud platform service that provides you with theon-demand services that can range from compute, databases, storage, networking, applications and so on. Cloud computing follows your pay-as-you-go model where you are going to pay only for what you are using.</p>
 </details>
 
+<details>
+  <summary><strong>Q109) Why we go for Cloud Computing?</strong></summary>
+  <p>Lower computing cost Improved Performance No IT Maintenance Business connectivity Easily upgraded Device Independent</p>
+</details>
+
