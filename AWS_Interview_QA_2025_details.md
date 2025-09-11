@@ -536,3 +536,8 @@
   <p>By Using a VPC, they could be create an the extension to their data center and to make use of resilient hardware IPSEC on tunnels, they could then have two domain consider to controller instances that are joined to the existing domain and reside within the different subnets in the different availability zones. Get AWS Online Training!</p>
 </details>
 
+<details>
+  <summary><strong>Q108) What is Cloud Computing?</strong></summary>
+  <p>Cloud computing means it provides services to access programs, application, storage, network, server over the internet through browser or client side application on your PC, Laptop, Mobile by the end user without installing, updating and maintaining them. Cloud computing is a cloud platform service that provides you with theon-demand services that can range from compute, databases, storage, networking, applications and so on. Cloud computing follows your pay-as-you-go model where you are going to pay only for what you are using.</p>
+</details>
+
