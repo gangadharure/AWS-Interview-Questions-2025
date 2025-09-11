@@ -546,3 +546,8 @@
   <p>Lower computing cost Improved Performance No IT Maintenance Business connectivity Easily upgraded Device Independent</p>
 </details>
 
+<details>
+  <summary><strong>Q110) What are the deployment models using in Cloud?</strong></summary>
+  <p>Private Cloud Public Cloud Hybrid cloud Community cloud 4</p>
+</details>
+
