@@ -531,3 +531,8 @@
   <p>The configure to the web application get authenticate end-users against the centralized access on the management system. Have a web application provision trusted to users STS tokens an entitling the download of the approved data directly from a Amazon S3.</p>
 </details>
 
+<details>
+  <summary><strong>Q107) time-efficient way?</strong></summary>
+  <p>By Using a VPC, they could be create an the extension to their data center and to make use of resilient hardware IPSEC on tunnels, they could then have two domain consider to controller instances that are joined to the existing domain and reside within the different subnets in the different availability zones. Get AWS Online Training!</p>
+</details>
+
