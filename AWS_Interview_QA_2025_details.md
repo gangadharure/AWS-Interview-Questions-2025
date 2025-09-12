@@ -571,3 +571,8 @@
   <p>Region: An independent collection of AWS resources in a defined geography. A collection of Data centers (Availability zones). All availability zones in a region connected by high bandwidth. Availability Zones: An Availability zone is a simply a data center. Designed as independent failure zone. High speed connectivity, Low latency. Edge Locations: Edge location are the important part of AWS Infrastructure. Edge locations are CDN endpoints for cloud front to deliver content to end user with low latency</p>
 </details>
 
+<details>
+  <summary><strong>Q115) How to access AWS Platform?</strong></summary>
+  <p>AWS Console AWS CLI (Command line interface) AWS SDK (Software Development Kit)</p>
+</details>
+
