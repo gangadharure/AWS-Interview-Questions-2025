@@ -566,3 +566,8 @@
   <p>Amazon web service is a secure cloud services platform offering compute, power, database, storage, content delivery and other functionality to help business scale and grow. AWS is fully on-demand AWS is Flexibility, availability and Scalability AWS is Elasticity: scale up and scale down as needed.</p>
 </details>
 
+<details>
+  <summary><strong>Q114) What is mean by Region, Availability Zone and Edge Location?</strong></summary>
+  <p>Region: An independent collection of AWS resources in a defined geography. A collection of Data centers (Availability zones). All availability zones in a region connected by high bandwidth. Availability Zones: An Availability zone is a simply a data center. Designed as independent failure zone. High speed connectivity, Low latency. Edge Locations: Edge location are the important part of AWS Infrastructure. Edge locations are CDN endpoints for cloud front to deliver content to end user with low latency</p>
+</details>
+
