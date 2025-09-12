@@ -561,3 +561,8 @@
   <p>Pay per use Scalability Elasticity High Availability Increase speed and Agility Go global in Minutes</p>
 </details>
 
+<details>
+  <summary><strong>Q113) What is AWS?</strong></summary>
+  <p>Amazon web service is a secure cloud services platform offering compute, power, database, storage, content delivery and other functionality to help business scale and grow. AWS is fully on-demand AWS is Flexibility, availability and Scalability AWS is Elasticity: scale up and scale down as needed.</p>
+</details>
+
