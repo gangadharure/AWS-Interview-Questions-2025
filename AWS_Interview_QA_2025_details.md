@@ -576,3 +576,8 @@
   <p>AWS Console AWS CLI (Command line interface) AWS SDK (Software Development Kit)</p>
 </details>
 
+<details>
+  <summary><strong>Q116) What are the pricing models available in AWS EC2?</strong></summary>
+  <p>On-Demand Instances Reserved Instances Spot Instances Dedicated Host</p>
+</details>
+
