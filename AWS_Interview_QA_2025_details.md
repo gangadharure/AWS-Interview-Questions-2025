@@ -586,3 +586,8 @@
   <p>General Purpose Compute Optimized Memory optimized Storage Optimized Accelerated Computing (GPU Based)</p>
 </details>
 
+<details>
+  <summary><strong>Q118) What is AMI? What are the types in AMI?</strong></summary>
+  <p>Amazon machine image is a special type of virtual appliance that is used to create a virtual machine within the amazon Elastic compute cloud. AMI defines the initial software that will be in an instance when it is launched. Types of AMI: Published by AWS AWS Marketplace Generated from existing instances Uploaded virtual server</p>
+</details>
+
