@@ -616,3 +616,8 @@
   <p>AWS Elastic Beanstalk is the fastest and simplest way to get an application up and running on AWS.Developers can simply upload their code and the service automatically handle all the details such as resource provisioning, load balancing, Auto scaling and Monitoring.</p>
 </details>
 
+<details>
+  <summary><strong>Q124) What is Amazon Lightsail?</strong></summary>
+  <p>Lightsail designed to be the easiest way to launch and manage a virtual private server with AWS.Lightsail plans include everything you need to jumpstart your project a virtual machine, ssd based storage, data transfer, DNS Management and a static ip.</p>
+</details>
+
