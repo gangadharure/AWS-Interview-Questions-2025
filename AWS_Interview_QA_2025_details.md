@@ -606,3 +606,8 @@
   <p>Retired state only available in Reserved instances. Once the reserved instance reserving time (1 yr/3 yr) ends it shows Retired state.</p>
 </details>
 
+<details>
+  <summary><strong>Q122) instance stop and start. What is the reason for that and explain solution?</strong></summary>
+  <p>AWSassignedPublicIPautomaticallybutitschangedynathatcaseweneedtoassignElasticIPforthatinstance , onceassi automatically.</p>
+</details>
+
