@@ -666,3 +666,8 @@
   <p>Fully managed service File system grows and shrinks automatically to petabytes Can support thousands of concurrent connections Multi AZ replication Throughput scales automatically to ensure consistent low latency Disadvantages: Not available in all region Cross region capability not available More complicated to provision compared to S3 and EBS</p>
 </details>
 
+<details>
+  <summary><strong>Q134) what are the things we need to remember while creating s3 bucket?</strong></summary>
+  <p>Amazon S3 and Bucket names are This means bucket names must be unique across all AWS Bucket names can contain upto 63 lowercase letters, numbers, hyphens and You can create and use multiple buckets You can have upto 100 per account by</p>
+</details>
+
