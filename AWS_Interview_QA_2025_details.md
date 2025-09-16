@@ -671,3 +671,8 @@
   <p>Amazon S3 and Bucket names are This means bucket names must be unique across all AWS Bucket names can contain upto 63 lowercase letters, numbers, hyphens and You can create and use multiple buckets You can have upto 100 per account by</p>
 </details>
 
+<details>
+  <summary><strong>Q135) What are the storage class available in Amazon s3?</strong></summary>
+  <p>Amazon S3 Standard Amazon S3 Standard-Infrequent Access Amazon S3 Reduced Redundancy Storage Amazon Glacier Get AWS Online Training</p>
+</details>
+
