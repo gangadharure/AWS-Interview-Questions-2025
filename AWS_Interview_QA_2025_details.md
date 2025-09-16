@@ -661,3 +661,8 @@
   <p>Block Storage: Block storage operates at lower level, raw storage device level and manages data as a set of numbered, fixed size blocks. File Storage: File storage operates at a higher level, the operating system level and manage data as a named hierarchy of files and folders.</p>
 </details>
 
+<details>
+  <summary><strong>Q133) What are the advantage and disadvantage of EFS? Advantages:</strong></summary>
+  <p>Fully managed service File system grows and shrinks automatically to petabytes Can support thousands of concurrent connections Multi AZ replication Throughput scales automatically to ensure consistent low latency Disadvantages: Not available in all region Cross region capability not available More complicated to provision compared to S3 and EBS</p>
+</details>
+
