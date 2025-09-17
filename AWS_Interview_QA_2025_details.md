@@ -676,3 +676,8 @@
   <p>Amazon S3 Standard Amazon S3 Standard-Infrequent Access Amazon S3 Reduced Redundancy Storage Amazon Glacier Get AWS Online Training</p>
 </details>
 
+<details>
+  <summary><strong>Q136) Explain Amazon s3 lifecycle rules?</strong></summary>
+  <p>Amazon S3 lifecycle configuration rules, you can significantly reduce your storage costs by automatically transitioning data from one storage class to another or even automatically delete data after a period of time. Store backup data initially in Amazon S3 Standard After 30 days, transition to Amazon Standard IA After 90 days, transition to Amazon Glacier After 3 years, delete</p>
+</details>
+
