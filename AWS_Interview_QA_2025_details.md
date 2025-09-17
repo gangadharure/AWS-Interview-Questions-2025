@@ -681,3 +681,8 @@
   <p>Amazon S3 lifecycle configuration rules, you can significantly reduce your storage costs by automatically transitioning data from one storage class to another or even automatically delete data after a period of time. Store backup data initially in Amazon S3 Standard After 30 days, transition to Amazon Standard IA After 90 days, transition to Amazon Glacier After 3 years, delete</p>
 </details>
 
+<details>
+  <summary><strong>Q137) What is the relation between Amazon S3 and AWS KMS?</strong></summary>
+  <p>To encrypt Amazon S3 data at rest, you can use several variations of Server-Side Encryption. Amazon S3 encrypts your data at the object level as it writes it to disks in its data centersanddecryptitforyouwhenyouaccessitllSSEperformed Management Service (AWS KMS) uses the 256-bit Advanced Encryption Standard (AES).</p>
+</details>
+
