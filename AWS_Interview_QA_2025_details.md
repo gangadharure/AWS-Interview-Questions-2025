@@ -711,3 +711,8 @@
   <p>AmazonVPCpeeringconnectionisanetworkingconnectio that enables instances in either Amazon VPC to communicate with each other as if they are within the same network. You can create amazon VPC peering connection between your own Amazon</p>
 </details>
 
+<details>
+  <summary><strong>Q143) VPCsorAmazonVPCinanotherAWSaccountwithinasingleregio Q147) What is MFA in AWS?</strong></summary>
+  <p>Multi factor Authentication can add an extra layer of security to your infrastructure by adding a second method of authentication beyond just password or access key.</p>
+</details>
+
