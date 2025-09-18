@@ -721,3 +721,8 @@
   <p>User Name/Password Access Key Access Key/ Session Token</p>
 </details>
 
+<details>
+  <summary><strong>Q145) What is mean by Multi-AZ in RDS?</strong></summary>
+  <p>Multi AZ allows you to place a secondary copy of your database in another availability zone for disaster recovery purpose. Multi AZ deployments are available for all types of Amazon RDS Database engines. When you create s Multi-AZ DB instance a primary instance is created in one Availability Zone and a secondary instance is created by another Availability zone.</p>
+</details>
+
