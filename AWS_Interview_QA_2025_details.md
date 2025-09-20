@@ -751,3 +751,8 @@
   <p>Basic Monitoring: Basic monitoring sends data points to Amazon cloud watch every five minutes for a limited number of preselected metrics at no charge. Detailed Monitoring: Detailed monitoring sends data points to amazon CloudWatch every minute and allows data aggregation for an additional charge.</p>
 </details>
 
+<details>
+  <summary><strong>Q151) What is the relationship between Route53 and Cloud front?</strong></summary>
+  <p>In Cloud front we will deliver content to edge location wise so here we can use Route 53 for Content Delivery Network. Additionally, if you are using Amazon CloudFront you can configure Route 53 to route Internet traffic to those resources.</p>
+</details>
+
