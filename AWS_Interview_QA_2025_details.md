@@ -781,3 +781,8 @@
   <p>lowpriceConsumeonlytheamountofcalculating , storag needed. No long-term assignation, minimum spend or up-front expenditure is required. Elastic andScalableQuicklyRiseanddecreaseresourcestoapplication and control costs. Avoid provisioning maintenance up-front for plans with variable consumption speeds or low lifetimes.</p>
 </details>
 
+<details>
+  <summary><strong>Q157) What is the way to secure data for resounding in the cloud?</strong></summary>
+  <p>Avoidstoragesensitivematerialinthecloud . & ReadtheusercontracttofindouthowyourcloudservicestorinBeseriousaboutpasswords . & Encrypt . & Use an encrypted cloud service.</p>
+</details>
+
