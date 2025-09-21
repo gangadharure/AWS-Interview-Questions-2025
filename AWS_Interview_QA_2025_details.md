@@ -776,3 +776,8 @@
   <p>Amazon Web Services is a secure cloud services stage, offering compute power, database storage, content delivery and other functionality to help industries scale and grow.</p>
 </details>
 
+<details>
+  <summary><strong>Q156) What is the importance of buffer in AWS?</strong></summary>
+  <p>lowpriceConsumeonlytheamountofcalculating , storag needed. No long-term assignation, minimum spend or up-front expenditure is required. Elastic andScalableQuicklyRiseanddecreaseresourcestoapplication and control costs. Avoid provisioning maintenance up-front for plans with variable consumption speeds or low lifetimes.</p>
+</details>
+
