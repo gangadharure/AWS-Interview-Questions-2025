@@ -791,3 +791,8 @@
   <p>Cloud computing can be damaged up into three main services: Software-as-a-Service (SaaS), Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS). PaaS in the middle, and IaaS on the lowest</p>
 </details>
 
+<details>
+  <summary><strong>Q159) What Is Lambda edge In Aws?</strong></summary>
+  <p>Lambda Edge lets you run Lambda functions to modify satisfied that Cloud Front delivers, executing the functions in AWS locations closer to the viewer. The functions run in response to Cloud Front events, without provisioning or managing server.</p>
+</details>
+
