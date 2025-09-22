@@ -816,3 +816,8 @@
   <p>In SaaS, cloud workers host and manage the software application on a pay-as-you-go pricing model Users: End Customers</p>
 </details>
 
+<details>
+  <summary><strong>Q164) Which Automation Gears Can Help With Spinup Services?</strong></summary>
+  <p>The API tools can be used for spin up services and also for the written scripts. Persons scripts could be coded in Perl, bash or other languages of your preference. There is one more option that is flowery management and stipulating tools such as a dummy or improved descendant. A tool called Scalar can also be used and finally we can go with a controlled explanation like a Right scale. Which automation gears can help with pinup service.</p>
+</details>
+
