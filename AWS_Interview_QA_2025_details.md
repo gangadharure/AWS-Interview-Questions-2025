@@ -806,3 +806,8 @@
   <p>IaaSisacloudservicethatrunsservicesonpay - for - what IaaS workers include Amazon Web Services, Microsoft Azure and Google Compute Engine Users: IT Administrators</p>
 </details>
 
+<details>
+  <summary><strong>Q162) What is PaaS?</strong></summary>
+  <p>PaaS runs cloud platforms and runtime environments to develop, test and manage software Users: Software Developers</p>
+</details>
+
