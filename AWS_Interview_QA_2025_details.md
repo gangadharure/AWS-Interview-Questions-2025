@@ -821,3 +821,8 @@
   <p>The API tools can be used for spin up services and also for the written scripts. Persons scripts could be coded in Perl, bash or other languages of your preference. There is one more option that is flowery management and stipulating tools such as a dummy or improved descendant. A tool called Scalar can also be used and finally we can go with a controlled explanation like a Right scale. Which automation gears can help with pinup service.</p>
 </details>
 
+<details>
+  <summary><strong>Q165) What Is an Ami? How Do I Build One?</strong></summary>
+  <p>An Amazon Machine Image (AMI) explains the programs and settings that will be applied when you launch an EC2 instance. Once you have finished organizing the data, services, and submissions on your ArcGIS Server instance, you can save your work as a custom AMI stored in Amazon EC2. You can scale out your site by using this institution AMI to launch added instances Use the following process to create your own AMI using the AWS Administration Console: *Configure an EC2 example and its attached EBS volumes in the exact way you want them created in the custom AMI. 1. Log out of your instance, but do not stop or terminate it. 2. Log in to the AWS Management Console, display the EC2 page for your region, then click Instances. 3. Choose the instance from which you want to create a custom AMI. 4. Click Actions and click Create Image. 5. Type a name for Image Name that is easily identifiable to you and, optionally, input text for Image Description. 6. Click Create Image. Read the message box that appears. To view the AMI standing, go to the AMIs page. Here you can see your AMI being created. It can take a though to create the AMI. Plan for at least 20 minutes, or</p>
+</details>
+
