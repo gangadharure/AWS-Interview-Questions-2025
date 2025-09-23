@@ -831,3 +831,8 @@
   <p>Amazon Cloud Front is a web service that speeds up delivery of your static and dynamic web content, such as .html, .css, .js, and image files, to your users.CloudFront delivers your content through a universal network of data centers called edge locations</p>
 </details>
 
+<details>
+  <summary><strong>Q167) What Are The Features Of The Amazon Ec2 Service?</strong></summary>
+  <p>Amazon Elastic Calculate Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud calculating easier fordesigners . AmazonEC2ssimplewebserviceinterfaceallowsyo capacity with minimal friction.</p>
+</details>
+
