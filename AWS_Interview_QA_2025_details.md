@@ -826,3 +826,8 @@
   <p>An Amazon Machine Image (AMI) explains the programs and settings that will be applied when you launch an EC2 instance. Once you have finished organizing the data, services, and submissions on your ArcGIS Server instance, you can save your work as a custom AMI stored in Amazon EC2. You can scale out your site by using this institution AMI to launch added instances Use the following process to create your own AMI using the AWS Administration Console: *Configure an EC2 example and its attached EBS volumes in the exact way you want them created in the custom AMI. 1. Log out of your instance, but do not stop or terminate it. 2. Log in to the AWS Management Console, display the EC2 page for your region, then click Instances. 3. Choose the instance from which you want to create a custom AMI. 4. Click Actions and click Create Image. 5. Type a name for Image Name that is easily identifiable to you and, optionally, input text for Image Description. 6. Click Create Image. Read the message box that appears. To view the AMI standing, go to the AMIs page. Here you can see your AMI being created. It can take a though to create the AMI. Plan for at least 20 minutes, or</p>
 </details>
 
+<details>
+  <summary><strong>Q166) slowerifyouveconnectedalotofadditionalapplicationsordata Q171) What Are The Main Features Of Amazon Cloud Front?</strong></summary>
+  <p>Amazon Cloud Front is a web service that speeds up delivery of your static and dynamic web content, such as .html, .css, .js, and image files, to your users.CloudFront delivers your content through a universal network of data centers called edge locations</p>
+</details>
+
