@@ -856,3 +856,8 @@
   <p>Every communication with Amazon S3 is either genuine or anonymous. Authentication is a process of validating the individuality of the requester trying to access an Amazon Web Services (AWS) product. Genuine requests must include a autograph value that authenticates the requestsender . Theautographvalueis , inpart , createdfromther (access key identification and secret access key).</p>
 </details>
 
+<details>
+  <summary><strong>Q172) cloud ?</strong></summary>
+  <p>Backup Data Locally. A standout amongst the most vital interesting points while overseeing information is to guarantee that you have reinforcements for your information, AvoidStoringSensitiveInformation . & UseCloudServicesthatEncryptData . & EncryptYourData . & InstallAnti - infectionSoftware . & MakePasswordsStronger . & Test the Security Measures in Place.</p>
+</details>
+
