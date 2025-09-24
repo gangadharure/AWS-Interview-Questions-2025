@@ -866,3 +866,8 @@
   <p>AWS Certificate Manager is an administration that lets you effortlessly arrangement, oversee, and send open and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) endorsements for use with AWS administrations and your inward associated assets. SSL/TLS declarations are utilized to anchor arrange interchanges and set up the character of sites over the Internet and additionally assets on private systems. AWS Certificate Manager expels the tedious manual procedure of obtaining, transferring, and reestablishing SSL/TLS endorsements.</p>
 </details>
 
+<details>
+  <summary><strong>Q174) What is the AWS Key Management Service</strong></summary>
+  <p>AWS Key Management Service (AWS KMS) is an overseen benefit that makes it simple foryoutomakeandcontroltheencryptionkeysusedtoscramble is additionally coordinated with AWS CloudTrail to give encryption key use logs to help meet your inspecting, administrative and consistence needs.</p>
+</details>
+
