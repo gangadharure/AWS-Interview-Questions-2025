@@ -851,3 +851,8 @@
   <p>Each subnet maps to a single Availability Zone. By defaulting, all subnets can route between each other, whether they are private or public.</p>
 </details>
 
+<details>
+  <summary><strong>Q171) How can you send request to Amazon S3?</strong></summary>
+  <p>Every communication with Amazon S3 is either genuine or anonymous. Authentication is a process of validating the individuality of the requester trying to access an Amazon Web Services (AWS) product. Genuine requests must include a autograph value that authenticates the requestsender . Theautographvalueis , inpart , createdfromther (access key identification and secret access key).</p>
+</details>
+
