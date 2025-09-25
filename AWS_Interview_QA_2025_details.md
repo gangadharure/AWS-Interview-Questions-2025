@@ -881,3 +881,8 @@
   <p>Amazon Kinesis Data Firehose is the least demanding approach to dependably stack gushinginformationintoinformationstoresandexaminationdevic overseen benefit that consequently scales to coordinate the throughput of your information and requires no continuous organization</p>
 </details>
 
+<details>
+  <summary><strong>Q177) What Is Amazon CloudSearch and its highlights ?</strong></summary>
+  <p>Amazon CloudSearch is a versatile cloud-based hunt benefit that frames some portion of Amazon Web Services (AWS). CloudSearch is normally used to incorporate tweaked seek abilities into different applications. As indicated by Amazon, engineers can set a pursuit application up and send it completely in under 60 minutes.</p>
+</details>
+
