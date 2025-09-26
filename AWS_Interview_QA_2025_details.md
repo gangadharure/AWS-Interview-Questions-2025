@@ -906,3 +906,8 @@
   <p>Truly, it very well may be pushed off for examples with root approaches upheld by local event stockpiling. By utilizing Amazon S3, engineers approach the comparative to a great degree versatile, reliable, quick, low-valued information stockpiling substructure that Amazon uses to follow its own overall system of sites. So as to perform frameworks in the Amazon EC2 air, engineers utilize the instruments giving to stack their Amazon Machine Images (AMIs) into Amazon S3 and to exchange them between Amazon S3 and Amazon EC2. Extra use case may be for sites facilitated on EC2 to stack their stationary substance from S3.</p>
 </details>
 
+<details>
+  <summary><strong>Q182) What is the distinction between Amazon S3 and EBS ?</strong></summary>
+  <p>EBS is for mounting straightforwardly onto EC2 server examples. S3 is Object Oriented Storagethatisntcontinuallywaitingbegottento ( andissubsequthenmuchlessexpensiveAWSGlacierwhichisforlonghaulstock generallyhopetoneedtogettoit , howeverwouldnthaveanydes There are then twoprinciplekindsofEBSHDD ( HardDiskDrives , i . e . attractive genuinely ease back to access, and SSD, which are strong state drives which are excessively</p>
+</details>
+
