@@ -911,3 +911,8 @@
   <p>EBS is for mounting straightforwardly onto EC2 server examples. S3 is Object Oriented Storagethatisntcontinuallywaitingbegottento ( andissubsequthenmuchlessexpensiveAWSGlacierwhichisforlonghaulstock generallyhopetoneedtogettoit , howeverwouldnthaveanydes There are then twoprinciplekindsofEBSHDD ( HardDiskDrives , i . e . attractive genuinely ease back to access, and SSD, which are strong state drives which are excessively</p>
 </details>
 
+<details>
+  <summary><strong>Q183) What do you comprehend by AWS?</strong></summary>
+  <p>This is one of the generally asked AWS engineer inquiries questions. This inquiry checks your essential AWS learning so the appropriate response ought to be clear. Amazon Web Services (AWS) is a cloud benefit stage which offers figuring power, investigation, content conveyance, database stockpiling, sending and some different administrations to help you in your business development. These administrations are profoundly versatile, solid, secure, and cheap distributed computing administrations which are plot to cooperate and, applications in this manner made are further developed and escalade.</p>
+</details>
+
