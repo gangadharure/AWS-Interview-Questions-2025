@@ -946,3 +946,8 @@
   <p>There are various accepted procedures for anchoring Amazon EC2 occurrences that are pertinent whether occasions are running on-preface server farms or on virtual machines. How about we view some broad prescribed procedures: Minimum Access: Make beyond any doubt that your EC2 example has controlled access to the case and in addition to the system. Offer access specialists just to the confided in substances. Slightest Privilege: Follow the vital guideline of minimum benefit for cases and clients to play out the capacities. Produce jobs with confined access for the occurrences. Setup Management: Consider each EC2 occasion a design thing and use AWS arrangement the executives administrations to have a pattern for the setup of the occurrences as these administrations incorporate refreshed enemy of infection programming, security highlights and so forth. Whatever be the activity job, you may go over security based AWS inquiries questions. Along these lines, motivate arranged with this inquiry to break the AWS designer meet.</p>
 </details>
 
+<details>
+  <summary><strong>Q190) Clarify the highlights of Amazon EC2 administrations.</strong></summary>
+  <p>Amazon EC2 administrations have following highlights: Virtual Computing Environments Proffers Persistent capacity volumes Firewall approving you to indicate the convention Pre-designed layouts Static IP address for dynamic Cloud Computing</p>
+</details>
+
