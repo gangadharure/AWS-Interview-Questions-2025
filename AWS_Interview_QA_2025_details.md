@@ -936,3 +936,8 @@
   <p>The contrast between Amazon S3 and EC2 is given beneath: Amazon S3 Amazon EC2 The significance of S3 is Simple Storage Service. The importance of EC2 is Elastic Compute Cloud. It is only an information stockpiling administration which is utilized to store huge paired files. It is a cloud web benefit which is utilized to have the application made. Itisntrequiredto run a server. It is sufficient to run a server. It has a REST interface and utilizations secure HMAC-SHA1 validation keys. It is much the same as a tremendous PC machine which can deal with application like Python, PHP, Apache and some other database. When you are going for an AWS designer meet, set yourself up with the ideas of Amazon S3 and EC2, and the distinction between them.</p>
 </details>
 
+<details>
+  <summary><strong>Q188) What number of capacity alternatives are there for EC2 Instance?</strong></summary>
+  <p>There are four stockpiling choices for Amazon EC2 Instance: Amazon EBS Amazon EC2 Instance Store Amazon S3 Adding Storage Amazon EC2 is the basic subject you may run over while experiencing AWS engineer inquiries</p>
+</details>
+
