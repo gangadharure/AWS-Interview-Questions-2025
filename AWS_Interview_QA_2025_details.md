@@ -926,3 +926,8 @@
   <p>Indeed, vertically scale is conceivable on Amazon example. This is one of the normal AWS engineer inquiries questions. In the event that the questioner is hoping to find a definite solution from you, clarify the system for vertical scaling.</p>
 </details>
 
+<details>
+  <summary><strong>Q186) What is the association among AMI and Instance?</strong></summary>
+  <p>Various sorts of examples can be propelled from one AMI. The sort of an occasion for the most part manages the equipment segments of the host PC that is utilized for the case. Each kind of occurrence has unmistakable registering and memory adequacy. When an example is propelled, it gives a role as host and the client cooperation with it is same likewise with some other PC however we have a totally controlled access to our occurrences. AWS engineer inquiries</p>
+</details>
+
