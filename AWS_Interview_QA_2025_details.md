@@ -941,3 +941,8 @@
   <p>There are four stockpiling choices for Amazon EC2 Instance: Amazon EBS Amazon EC2 Instance Store Amazon S3 Adding Storage Amazon EC2 is the basic subject you may run over while experiencing AWS engineer inquiries</p>
 </details>
 
+<details>
+  <summary><strong>Q189) What are the security best practices for Amazon Ec2 examples?</strong></summary>
+  <p>There are various accepted procedures for anchoring Amazon EC2 occurrences that are pertinent whether occasions are running on-preface server farms or on virtual machines. How about we view some broad prescribed procedures: Minimum Access: Make beyond any doubt that your EC2 example has controlled access to the case and in addition to the system. Offer access specialists just to the confided in substances. Slightest Privilege: Follow the vital guideline of minimum benefit for cases and clients to play out the capacities. Produce jobs with confined access for the occurrences. Setup Management: Consider each EC2 occasion a design thing and use AWS arrangement the executives administrations to have a pattern for the setup of the occurrences as these administrations incorporate refreshed enemy of infection programming, security highlights and so forth. Whatever be the activity job, you may go over security based AWS inquiries questions. Along these lines, motivate arranged with this inquiry to break the AWS designer meet.</p>
+</details>
+
