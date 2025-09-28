@@ -961,3 +961,8 @@
   <p>This is an extremely straightforward inquiry yet positions high among AWS engineer inquiries questions. Answer this inquiry straightforwardly as the default number of pails made in each AWS account is 100.</p>
 </details>
 
+<details>
+  <summary><strong>Q193) What is the motivation behind T2 examples?</strong></summary>
+  <p>T2 cases are intended for Providing moderate gauge execution Higher execution as required by outstanding task at hand</p>
+</details>
+
