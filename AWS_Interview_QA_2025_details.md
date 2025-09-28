@@ -951,3 +951,8 @@
   <p>Amazon EC2 administrations have following highlights: Virtual Computing Environments Proffers Persistent capacity volumes Firewall approving you to indicate the convention Pre-designed layouts Static IP address for dynamic Cloud Computing</p>
 </details>
 
+<details>
+  <summary><strong>Q191) What is the system to send a demand to Amazon S3?</strong></summary>
+  <p>Reply : Thereare2differentwaystosendademandtoAm Using REST API Using AWS SDK Wrapper Libraries, these wrapper libraries wrap the REST APIs for Amazon</p>
+</details>
+
