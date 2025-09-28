@@ -956,3 +956,8 @@
   <p>Reply : Thereare2differentwaystosendademandtoAm Using REST API Using AWS SDK Wrapper Libraries, these wrapper libraries wrap the REST APIs for Amazon</p>
 </details>
 
+<details>
+  <summary><strong>Q192) What is the default number of basins made in AWS?</strong></summary>
+  <p>This is an extremely straightforward inquiry yet positions high among AWS engineer inquiries questions. Answer this inquiry straightforwardly as the default number of pails made in each AWS account is 100.</p>
+</details>
+
