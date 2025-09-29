@@ -981,3 +981,8 @@
   <p>In an AWS DevOps Engineer talk with, this is the most widely recognized AWS inquiries for DevOps. To answer this inquiry, notice the well known DevOps apparatuses with the kind of hardware JenkinsContinuousIntegrationTool GitVersionControlSystemTool NagiosContinuousMonitoringTool SeleniumContinuousTestingTool DockerContainerizationTool Puppet , Chef , AnsibleDeploymentandConfigurationAdministr Q203) What are IAM Roles and Policies, What is the difference between IAM Roles and Policies. Roles are for AWS services, Where we can assign permission of some AWS service to other Service. ExampleGivingS3permissiontoEC2toaccessS3BucketConte Policies are forusersandgroups , WherewecanassignpermissiontousersanExampleGiving permission to user to access the S3 Buckets.</p>
 </details>
 
+<details>
+  <summary><strong>Q197) What are the Defaults services we get when we create custom AWS VPC?</strong></summary>
+  <p>Route Table Network ACL Security Group</p>
+</details>
+
