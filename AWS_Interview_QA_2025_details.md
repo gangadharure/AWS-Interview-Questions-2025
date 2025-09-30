@@ -1001,3 +1001,8 @@
   <p>By using NAT Gateway in the VPC or Launch a NAT Instance ( Ec2) Configure or Attach the NAT Gateway in Public Subnet ( Which has Route Table attached to IGW) and attach it to the Route Table which is Already attached to the Private Subnet.</p>
 </details>
 
+<details>
+  <summary><strong>Q201) What are the Difference Between Security Groups and Network ACL</strong></summary>
+  <p>Security Groups Network ACL Attached to Ec2 instance Attached to a subnet. Stateful - Changes made in incoming rules is automatically applied to the outgoing rule Stateless - Changes made in incoming rules is not applied to the outgoing rule Blocking IP Address can't be done IP Address can be Blocked Allow rules only, by default all rules are denied Allow and Deny can be Used.</p>
+</details>
+
