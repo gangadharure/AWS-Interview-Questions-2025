@@ -1016,3 +1016,8 @@
   <p>MariaDB MYSQL DB MS SQL DB Postgre DB Oracle DB</p>
 </details>
 
+<details>
+  <summary><strong>Q204) What is Status Checks in AWS Ec2?</strong></summary>
+  <p>System Status Checks  System Status checks will lookin which needs AWS help to resolve the issue. When we see system status check failure, you can wait for AWS to resolve the issue, or do it by our self. Network connectivity System power SoftwareissuesDataCentres Hardware issues InstanceStatusChecksInstanceStatuscheckswilllookintoi involvement to fix the issue. if status check fails, we can reboot that particular instance. Failed system status checks Memory Full Corrupted file system Kernel issues</p>
+</details>
+
