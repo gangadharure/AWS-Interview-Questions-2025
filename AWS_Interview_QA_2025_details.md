@@ -1046,3 +1046,8 @@
   <p>We can access EBS only if its mounted with instance, at a time EBS can be mounted only with one instance. EFS can be shared at a time with multiple instances S3 can be accessed without mounting with instances</p>
 </details>
 
+<details>
+  <summary><strong>Q210) Maximum number of bucket which can be crated in AWS.</strong></summary>
+  <p>100 buckets can be created by default in AWS account.To get more buckets additionally you have to request Amazon for that.</p>
+</details>
+
