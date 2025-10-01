@@ -1036,3 +1036,8 @@
   <p>EC2 instances can be resizable(scale up or scale down) based on requirement</p>
 </details>
 
+<details>
+  <summary><strong>Q208) EBS: its block-level storage volume which we can use after mounting with EC2 instances.</strong></summary>
+  <p>For types please refer AWS Solution Architect book.</p>
+</details>
+
