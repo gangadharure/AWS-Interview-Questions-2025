@@ -1071,3 +1071,8 @@
   <p>With each restart volume will get unmounted from instance, to keep this attached need to perform below step Cd /etc/fstab /dev/xvdf /data ext4 defaults 0 0 <edit the file system name accordingly></p>
 </details>
 
+<details>
+  <summary><strong>Q215) What is the Difference between the Service Role and SAML Federated Role.</strong></summary>
+  <p>Service Role are meant for usage of AWS Services and based upon the policies attached to it,it will have the scope to do its task. Example : In case of automation we can create a service role and attached to it. Federated Roles are meant for User Access and getting access to AWS as per designed role. Example : We can have a federated role created for our office employee and corresponding to that a Group will be created in the AD and user will be added to it.</p>
+</details>
+
