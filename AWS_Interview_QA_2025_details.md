@@ -1051,3 +1051,8 @@
   <p>100 buckets can be created by default in AWS account.To get more buckets additionally you have to request Amazon for that.</p>
 </details>
 
+<details>
+  <summary><strong>Q211) Maximum number of EC2 which can be created in VPC.</strong></summary>
+  <p>Maximum 20 instances can be created in a VPC. we can create 20 reserve instances and request for spot instance as per demand.</p>
+</details>
+
