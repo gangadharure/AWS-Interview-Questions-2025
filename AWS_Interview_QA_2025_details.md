@@ -1066,3 +1066,8 @@
   <p>D f  k mkfs.ext4 /dev/xvdf Fdiskl Mkdir /my5gbdata Mount /dev/xvdf /my5gbdata</p>
 </details>
 
+<details>
+  <summary><strong>Q214) How to add volume permanently with instance.</strong></summary>
+  <p>With each restart volume will get unmounted from instance, to keep this attached need to perform below step Cd /etc/fstab /dev/xvdf /data ext4 defaults 0 0 <edit the file system name accordingly></p>
+</details>
+
