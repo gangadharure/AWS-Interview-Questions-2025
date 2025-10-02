@@ -1056,3 +1056,8 @@
   <p>Maximum 20 instances can be created in a VPC. we can create 20 reserve instances and request for spot instance as per demand.</p>
 </details>
 
+<details>
+  <summary><strong>Q212) How EBS can be accessed?</strong></summary>
+  <p>EBS provides high performance block-level storage which can be attached with running EC2 instance. Storage can be formatted and mounted with EC2 instance, then it can be accessed.</p>
+</details>
+
