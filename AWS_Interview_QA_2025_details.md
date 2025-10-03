@@ -1081,3 +1081,8 @@
   <p>10 (Soft limit), We can have till 20.</p>
 </details>
 
+<details>
+  <summary><strong>Q217) What are the different ways to access AWS.</strong></summary>
+  <p>3 Different ways (CLI, Console, SDK)</p>
+</details>
+
