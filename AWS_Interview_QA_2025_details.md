@@ -1111,3 +1111,8 @@
   <p>Creation of Group makes the user management process much simpler and user with the same kind of permission can be added in a group and at last addition of a policy will be much simpler to the group in comparison to doing the same thing manually.</p>
 </details>
 
+<details>
+  <summary><strong>Q223) What is the difference between the Administrative Access and Power User Access in term of pre-build policy.</strong></summary>
+  <p>Administrative Access will have the Full access to AWS resources. While Power User Access will have the Admin access except the user/group management permission. Get AWS Online Training</p>
+</details>
+
