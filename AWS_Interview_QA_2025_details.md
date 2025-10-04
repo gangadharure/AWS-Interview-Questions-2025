@@ -1106,3 +1106,8 @@
   <p>Explicit deny will always override Explicit Allow.</p>
 </details>
 
+<details>
+  <summary><strong>Q222) What is the benefit of creating a group in IAM.</strong></summary>
+  <p>Creation of Group makes the user management process much simpler and user with the same kind of permission can be added in a group and at last addition of a policy will be much simpler to the group in comparison to doing the same thing manually.</p>
+</details>
+
