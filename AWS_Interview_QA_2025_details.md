@@ -1116,3 +1116,8 @@
   <p>Administrative Access will have the Full access to AWS resources. While Power User Access will have the Admin access except the user/group management permission. Get AWS Online Training</p>
 </details>
 
+<details>
+  <summary><strong>Q224) What is the purpose of Identity Provider.</strong></summary>
+  <p>Identity Provider helps in building the trust between the AWS and the Corporate AD environment while we create the Federated role.</p>
+</details>
+
