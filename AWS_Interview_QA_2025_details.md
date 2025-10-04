@@ -1121,3 +1121,8 @@
   <p>Identity Provider helps in building the trust between the AWS and the Corporate AD environment while we create the Federated role.</p>
 </details>
 
+<details>
+  <summary><strong>Q225) What are the benefits of STS (Security Token Service).</strong></summary>
+  <p>It help in securing the AWS environment as we need not to embed or distributed the AWS Security credentials in the application. As the credentials are temporary we need not to rotate them and revoke them.</p>
+</details>
+
