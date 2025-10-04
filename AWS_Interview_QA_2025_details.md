@@ -1101,3 +1101,8 @@
   <p>When an IAM user is created and it is not having any policy attached to it,in that case he will not be able to access any of the AWS Service until a policy has been attached to it.</p>
 </details>
 
+<details>
+  <summary><strong>Q221) What is the precedence level between explicit allow and explicit deny.</strong></summary>
+  <p>Explicit deny will always override Explicit Allow.</p>
+</details>
+
