@@ -1131,3 +1131,8 @@
   <p>It helps in managing the IAM Policies, creating the AWS Accounts programmatically, helps in managing the payment methods and consolidated billing.</p>
 </details>
 
+<details>
+  <summary><strong>Q227) What is the maximum file length in S3?</strong></summary>
+  <p>utf-8 1024 bytes</p>
+</details>
+
