@@ -1136,3 +1136,8 @@
   <p>utf-8 1024 bytes</p>
 </details>
 
+<details>
+  <summary><strong>Q228) Which activity cannot be done using autoscaling?</strong></summary>
+  <p>Maintain fixed running of ec2</p>
+</details>
+
