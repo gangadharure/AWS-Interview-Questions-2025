@@ -1126,3 +1126,8 @@
   <p>It help in securing the AWS environment as we need not to embed or distributed the AWS Security credentials in the application. As the credentials are temporary we need not to rotate them and revoke them.</p>
 </details>
 
+<details>
+  <summary><strong>Q226) What is the benefit of creating the AWS Organization.</strong></summary>
+  <p>It helps in managing the IAM Policies, creating the AWS Accounts programmatically, helps in managing the payment methods and consolidated billing.</p>
+</details>
+
