@@ -1146,3 +1146,8 @@
   <p>EBS data is always secure</p>
 </details>
 
+<details>
+  <summary><strong>Q230) What is the maximum size of S3 Bucket?</strong></summary>
+  <p>5TB</p>
+</details>
+
