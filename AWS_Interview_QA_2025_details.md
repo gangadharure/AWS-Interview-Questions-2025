@@ -1161,3 +1161,8 @@
   <p>Virtual Private Cloud</p>
 </details>
 
+<details>
+  <summary><strong>Q233) What is ephemaral storage?</strong></summary>
+  <p>Temporary storage</p>
+</details>
+
