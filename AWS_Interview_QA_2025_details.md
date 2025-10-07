@@ -1196,3 +1196,8 @@
   <p>IAAS-Infrastructure as a service.</p>
 </details>
 
+<details>
+  <summary><strong>Q240) Can cloud front serve content from a non AWS origin server?</strong></summary>
+  <p>No</p>
+</details>
+
