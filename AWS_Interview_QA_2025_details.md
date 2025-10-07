@@ -1176,3 +1176,8 @@
   <p>In Instance store service.</p>
 </details>
 
+<details>
+  <summary><strong>Q236) of My workload on the public cloud,what is the architecture called?</strong></summary>
+  <p>Virtual private cloud</p>
+</details>
+
