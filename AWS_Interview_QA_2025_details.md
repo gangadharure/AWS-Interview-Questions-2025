@@ -1191,3 +1191,8 @@
   <p>No</p>
 </details>
 
+<details>
+  <summary><strong>Q239) leverage extensively?</strong></summary>
+  <p>IAAS-Infrastructure as a service.</p>
+</details>
+
