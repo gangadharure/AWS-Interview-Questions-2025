@@ -1211,3 +1211,8 @@
   <p>Both Dynamo DB & Redshift</p>
 </details>
 
+<details>
+  <summary><strong>Q243) EBS volume type would you recommend?</strong></summary>
+  <p>Provisioned IOPS.</p>
+</details>
+
