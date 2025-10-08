@@ -1206,3 +1206,8 @@
   <p>Yes</p>
 </details>
 
+<details>
+  <summary><strong>Q242) for near real time analysis?</strong></summary>
+  <p>Both Dynamo DB & Redshift</p>
+</details>
+
