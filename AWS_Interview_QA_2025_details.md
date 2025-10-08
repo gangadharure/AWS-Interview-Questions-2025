@@ -1216,3 +1216,8 @@
   <p>Provisioned IOPS.</p>
 </details>
 
+<details>
+  <summary><strong>Q244) How to switch a user from Ec2-user to root in AWS?</strong></summary>
+  <p>Sudo su</p>
+</details>
+
