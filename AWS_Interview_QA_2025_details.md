@@ -1216,11 +1216,3 @@
   <p>Provisioned IOPS.</p>
 </details>
 
-<details>
-  <summary><strong>Q244) How to switch a user from Ec2-user to root in AWS?</strong></summary>
-  <p>Sudo su</p>
-</details>
-
-<details>
-  <summary><strong>Q245) What is Cloudfront ? Cloud front is content delivery network We have 2 different latencies in 1. Low latency (High availability) 2. High Latency (Low availability) We can host simple static or dynamic web pages in S3 for Low latency (High availability) it is called cloud front Ex : your app in USA you're accessing from India In every country we have put   edge location. Edge location Edge locations are used in conjunction with the AWS CloudFront service which is a global Content Delivery Network service (more information on CloudFront can be found here).  Edge Locations are deployed across the world in multiple locations to reduce latency for traffic served over CloudFront and as a result are usually located in highly populated areas. Elastic Cache The service improves the performance of web applications by allowing you to retrieve information from fast, managed, in-memory data stores, instead of relying entirely on slower disk-based databases What is Ansible</strong></summary>
-  <p>ible is an open source automation platform. Ansible can help you with configuration management, application deployment, task automation It is open source and agent less tool It is playbook We can automate our daily activity as automation Ex : 10 server NHINX installation req . On IGW will assign to one VPC Explain about your self What is elastic IP What is the difference between start/stop and restart in AWS CLI Explain how do you lunch instance in EC2 # AWS & DevOps Interview Questions ## AWS Secrets Manager 
