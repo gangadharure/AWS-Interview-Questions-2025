@@ -9,3 +9,8 @@
   <p>EC 2  ElasticComputeCloud, S3  SimpleStorageService, Store, Cloudwatch, Key-Paris are few of the components of AWS.</p>
 </details>
 
+<details>
+  <summary><strong>Q3) What are key-pairs?</strong></summary>
+  <p>Key-pairs are secure login information for your instances/virtual machines. To connect to the instances we use key-pairs that contain a public-key and private-key.</p>
+</details>
+
