@@ -24,3 +24,8 @@
   <p>The different pricing model for EC2 instances are as below, On-demand Reserved Spot Scheduled Dedicated</p>
 </details>
 
+<details>
+  <summary><strong>Q6) What are the types of volumes for EC2 instances?</strong></summary>
+  <p>There are two types of volumes, Instance store volumes EBS  ElasticBlockStores</p>
+</details>
+
