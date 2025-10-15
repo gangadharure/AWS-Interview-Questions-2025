@@ -44,3 +44,8 @@
   <p>Following are the types of instances, General purpose Computer Optimized Storage Optimized Memory Optimized Accelerated Computing</p>
 </details>
 
+<details>
+  <summary><strong>Q10) What is an auto-scaling and what are the components?</strong></summary>
+  <p>Auto scaling allows you to automatically scale-up and scale-down the number of instances depending on the CPU utilization or memory utilization. There are 2 components in Auto scaling, they are Auto-scaling groups and Launch Configuration. Get AWS Online Training</p>
+</details>
+
