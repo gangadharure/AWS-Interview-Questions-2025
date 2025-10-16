@@ -84,3 +84,8 @@
   <p>The minimum size of individual objects that you can store in S3 is 0 bytes and the maximum bytes that you can store for individual objects is 5TB.</p>
 </details>
 
+<details>
+  <summary><strong>Q18) What are the different storage classes in S3?</strong></summary>
+  <p>Following are the types of storage classes in S3, Standard frequently accessed Standard infrequently accessed One-zone infrequently accessed. Glacier RRS  reducedredundancystorage</p>
+</details>
+
