@@ -89,3 +89,8 @@
   <p>Following are the types of storage classes in S3, Standard frequently accessed Standard infrequently accessed One-zone infrequently accessed. Glacier RRS  reducedredundancystorage</p>
 </details>
 
+<details>
+  <summary><strong>Q19) What is the default storage class in S3?</strong></summary>
+  <p>The default storage class in S3 in Standard frequently accessed. Became an AWS Expert with Certification in 25hours</p>
+</details>
+
