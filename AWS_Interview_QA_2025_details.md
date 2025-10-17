@@ -99,3 +99,8 @@
   <p>Glacier is the back up or archival tool that you use to back up your data in S3.</p>
 </details>
 
+<details>
+  <summary><strong>Q21) How can you secure the access to your S3 bucket?</strong></summary>
+  <p>There are two ways that you can control the access to your S3 buckets, ACL  Access ControlList Bucket polices</p>
+</details>
+
