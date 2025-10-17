@@ -94,3 +94,8 @@
   <p>The default storage class in S3 in Standard frequently accessed. Became an AWS Expert with Certification in 25hours</p>
 </details>
 
+<details>
+  <summary><strong>Q20) What is glacier?</strong></summary>
+  <p>Glacier is the back up or archival tool that you use to back up your data in S3.</p>
+</details>
+
