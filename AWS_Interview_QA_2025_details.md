@@ -109,3 +109,8 @@
   <p>You can encrypt the data by using the below methods, ServerSideEncryptionS3 ( AES256encryption ) ServerSideEncryptionKMS ( KeymanagementService ) ServerSideEncryptionC ( ClientSide )</p>
 </details>
 
+<details>
+  <summary><strong>Q23) What are the parameters for S3 pricing?</strong></summary>
+  <p>The pricing model for S3 is as below, Storage used Number of requests you make Storage management Data transfer Transfer acceleration</p>
+</details>
+
