@@ -104,3 +104,8 @@
   <p>There are two ways that you can control the access to your S3 buckets, ACL  Access ControlList Bucket polices</p>
 </details>
 
+<details>
+  <summary><strong>Q22) How can you encrypt data in S3?</strong></summary>
+  <p>You can encrypt the data by using the below methods, ServerSideEncryptionS3 ( AES256encryption ) ServerSideEncryptionKMS ( KeymanagementService ) ServerSideEncryptionC ( ClientSide )</p>
+</details>
+
