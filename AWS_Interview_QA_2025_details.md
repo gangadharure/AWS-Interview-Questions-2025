@@ -114,3 +114,8 @@
   <p>The pricing model for S3 is as below, Storage used Number of requests you make Storage management Data transfer Transfer acceleration</p>
 </details>
 
+<details>
+  <summary><strong>Q24) What is the pre-requisite to work with Cross region replication in S3?</strong></summary>
+  <p>You need to enable versioning on both source bucket and destination to work with cross region replication. Also both the source and destination bucket should be in different region.</p>
+</details>
+
