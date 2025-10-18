@@ -139,3 +139,8 @@
   <p>Edge location is the place where the contents will be cached. When a user tries to access some content, the content will be searched in the edge location. If it is not available then the content will be made available from the origin location and a copy will be stored in the edge location.</p>
 </details>
 
+<details>
+  <summary><strong>Q29) What is the maximum individual archive that you can store in glacier?</strong></summary>
+  <p>You can store a maximum individual archive of upto 40 TB. Get AWS 100% Practical Training</p>
+</details>
+
