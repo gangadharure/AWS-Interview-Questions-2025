@@ -134,3 +134,8 @@
   <p>Cloudfront is an AWS web service that provided businesses and application developers an easy and efficient way to distribute their content with low latency and high data transfer speeds. Cloudfront is content delivery network of AWS.</p>
 </details>
 
+<details>
+  <summary><strong>Q28) What are edge locations?</strong></summary>
+  <p>Edge location is the place where the contents will be cached. When a user tries to access some content, the content will be searched in the edge location. If it is not available then the content will be made available from the origin location and a copy will be stored in the edge location.</p>
+</details>
+
