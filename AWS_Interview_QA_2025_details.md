@@ -119,3 +119,8 @@
   <p>You need to enable versioning on both source bucket and destination to work with cross region replication. Also both the source and destination bucket should be in different region.</p>
 </details>
 
+<details>
+  <summary><strong>Q25) What are roles?</strong></summary>
+  <p>Roles are used to provide permissions to entities that you trust within your AWS account. Roles are users in another account. Roles are similar to users but with roles you do not need to create any username and password to work with the resources.</p>
+</details>
+
