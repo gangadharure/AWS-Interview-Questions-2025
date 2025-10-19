@@ -159,3 +159,8 @@
   <p>NAT stands for Network Address Translation. NAT gateways enables instances in a private subnet to connect to the internet but prevent the internet from initiating a connection with those instances.</p>
 </details>
 
+<details>
+  <summary><strong>Q33) How can you control the security to your VPC?</strong></summary>
+  <p>You can use security groups and NACL (Network Access Control List) to control the security to your VPC.</p>
+</details>
+
