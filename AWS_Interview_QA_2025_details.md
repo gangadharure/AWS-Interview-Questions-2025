@@ -154,3 +154,8 @@
   <p>VPC peering connection allows you to connect 1 VPC with another VPC. Instances in these VPC behave as if they are in the same network.</p>
 </details>
 
+<details>
+  <summary><strong>Q32) What are NAT gateways?</strong></summary>
+  <p>NAT stands for Network Address Translation. NAT gateways enables instances in a private subnet to connect to the internet but prevent the internet from initiating a connection with those instances.</p>
+</details>
+
