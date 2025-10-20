@@ -184,3 +184,8 @@
   <p>Amazon redshift is a data warehouse product. It is a fast and powerful, fully managed, petabyte scale data warehouse service in the cloud.</p>
 </details>
 
+<details>
+  <summary><strong>Q38) What is SNS?</strong></summary>
+  <p>SNS stands for Simple Notification Service. SNS is a web service that makes it easy to notifications from the cloud. You can set up SNS to receive email notification or message notification.</p>
+</details>
+
