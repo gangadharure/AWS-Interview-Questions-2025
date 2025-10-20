@@ -179,3 +179,8 @@
   <p>Following are the types of databases in RDS, Aurora Oracle MYSQL server Postgresql MariaDB SQL server</p>
 </details>
 
+<details>
+  <summary><strong>Q37) What is a redshift?</strong></summary>
+  <p>Amazon redshift is a data warehouse product. It is a fast and powerful, fully managed, petabyte scale data warehouse service in the cloud.</p>
+</details>
+
