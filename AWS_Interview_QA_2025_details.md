@@ -199,3 +199,8 @@
   <p>The maximum size of messages in SQS is 256 KB.</p>
 </details>
 
+<details>
+  <summary><strong>Q41) What are the types of queues in SQS?</strong></summary>
+  <p>There are 2 types of queues in SQS. Standard queue FIFO (First In First Out)</p>
+</details>
+
