@@ -214,3 +214,8 @@
   <p>There are 2 types of backups in RDS database. Automated backups Manual backups which are known as snapshots.</p>
 </details>
 
+<details>
+  <summary><strong>Q44) list?</strong></summary>
+  <p>Security Groups Network access control list Can control the access at the instance level Can control access at the subnet level Can add rules for "allow" only Can add rules for both "allow" and "deny" Evaluates all rules before allowing the traffic Rules are processed in order number when allowing traffic. Can assign unlimited number of security groups Can assign upto 5 security groups. Statefull filtering Stateless filtering</p>
+</details>
+
