@@ -234,3 +234,8 @@
   <p>Following are the two types of access that you can create. Programmatic access Console access</p>
 </details>
 
+<details>
+  <summary><strong>Q48) What are the benefits of auto scaling?</strong></summary>
+  <p>Following are the benefits of auto scaling Better fault tolerance Better availability Better cost management</p>
+</details>
+
