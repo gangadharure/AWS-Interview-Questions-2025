@@ -244,3 +244,8 @@
   <p>Security groups acts as a firewall that contains the traffic for one or more instances. You can associate one or more security groups to your instances when you launch then. You can add rules to each security group that allow traffic to and from its associated instances. You can modify the rules of a security group at any time, the new rules are automatically and immediately applied to all the instances that are associated with the security group Get AWS Online Training</p>
 </details>
 
+<details>
+  <summary><strong>Q50) WhataresharedAMIs ?</strong></summary>
+  <p>SharedAMIsaretheAMIthatarecreatedbyotherdevelo other developed to use.</p>
+</details>
+
