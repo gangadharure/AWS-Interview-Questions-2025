@@ -254,3 +254,8 @@
   <p>Dynamic port mapping, multiple port multiple listeners is used in Application Load Balancer, One port one listener is achieved via Classic Load Balancer</p>
 </details>
 
+<details>
+  <summary><strong>Q52) By default how many Ip address does aws reserve in a subnet?</strong></summary>
+  <p>5</p>
+</details>
+
