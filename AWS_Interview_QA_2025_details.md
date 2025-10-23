@@ -259,3 +259,8 @@
   <p>5</p>
 </details>
 
+<details>
+  <summary><strong>Q53) What is meant by subnet?</strong></summary>
+  <p>A large section of IP Address divided in to chunks are known as subnets</p>
+</details>
+
