@@ -284,3 +284,8 @@
   <p>By default AWS offer service limit of 20 running instances per region, to fix the issue we need to contact AWS support to increase the limit based on the requirement</p>
 </details>
 
+<details>
+  <summary><strong>Q58) I need to modify the ebs volumes in Linux and windows is it possible</strong></summary>
+  <p>yes its possible from console use modify volumes in section give the size u need then for windows go to disk management for Linux mount it to achieve the modification Get AWS Online Training</p>
+</details>
+
