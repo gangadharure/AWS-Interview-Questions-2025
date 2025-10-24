@@ -274,3 +274,8 @@
   <p>These are ipv4 address which are used to connect the instance from internet, they are charged if the instances are not attached to it</p>
 </details>
 
+<details>
+  <summary><strong>Q56) way?</strong></summary>
+  <p>If versioning is enabled we can easily restore them</p>
+</details>
+
