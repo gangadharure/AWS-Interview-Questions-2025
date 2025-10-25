@@ -304,3 +304,8 @@
   <p>AsAWSuserIdonthaveaccesstouseit , IneedtohaveQ64 ) IdontwantmyAWSAccountidtobeexposedto Answer: In IAM console there is option as sign in url where I can rename my own account name with AWS account</p>
 </details>
 
+<details>
+  <summary><strong>Q62) By default how many Elastic Ip address does AWS Offer?</strong></summary>
+  <p>5 elastic ip per region</p>
+</details>
+
