@@ -299,3 +299,8 @@
   <p>Tags are used for identification and grouping AWS Resources</p>
 </details>
 
+<details>
+  <summary><strong>Q61) an IAM Error how can I rectify it?</strong></summary>
+  <p>AsAWSuserIdonthaveaccesstouseit , IneedtohaveQ64 ) IdontwantmyAWSAccountidtobeexposedto Answer: In IAM console there is option as sign in url where I can rename my own account name with AWS account</p>
+</details>
+
