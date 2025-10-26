@@ -319,3 +319,8 @@
   <p>Classic Load Balancer</p>
 </details>
 
+<details>
+  <summary><strong>Q65) VPC?</strong></summary>
+  <p>Elastic Network Interface</p>
+</details>
+
