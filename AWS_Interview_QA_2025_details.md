@@ -339,3 +339,8 @@
   <p>IAAS-Storage</p>
 </details>
 
+<details>
+  <summary><strong>Q69) can achieve this?</strong></summary>
+  <p>Create a snapshot of the unencrypted volume (applying encryption parameters), copy the. Snapshot and create a volume from the copied snapshot</p>
+</details>
+
