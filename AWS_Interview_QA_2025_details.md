@@ -324,3 +324,8 @@
   <p>Elastic Network Interface</p>
 </details>
 
+<details>
+  <summary><strong>Q66) Have selected SSH, HTTP, HTTPS protocol. Why do we need to select SSH?</strong></summary>
+  <p>To verify that there is a rule that allows traffic from EC2 Instance to your computer</p>
+</details>
+
