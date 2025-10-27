@@ -344,3 +344,8 @@
   <p>Create a snapshot of the unencrypted volume (applying encryption parameters), copy the. Snapshot and create a volume from the copied snapshot</p>
 </details>
 
+<details>
+  <summary><strong>Q70) auto scaling Commands?</strong></summary>
+  <p>Auto scaling Launch Config</p>
+</details>
+
