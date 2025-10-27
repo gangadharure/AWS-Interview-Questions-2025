@@ -359,3 +359,8 @@
   <p>Sticky session</p>
 </details>
 
+<details>
+  <summary><strong>Q73) When do I prefer to Provisioned IOPS over the Standard RDS storage?</strong></summary>
+  <p>If you have do batch-oriented is workloads.</p>
+</details>
+
