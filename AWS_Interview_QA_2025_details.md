@@ -349,3 +349,8 @@
   <p>Auto scaling Launch Config</p>
 </details>
 
+<details>
+  <summary><strong>Q71) Which are the types of AMI provided by AWS?</strong></summary>
+  <p>Instance Store backed, EBS Backed</p>
+</details>
+
