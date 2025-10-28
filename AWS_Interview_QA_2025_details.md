@@ -384,3 +384,8 @@
   <p>The storing metadata for the Amazon S3 objects& The Running of relational joins and complex an updates.</p>
 </details>
 
+<details>
+  <summary><strong>Q78) you recommend do?</strong></summary>
+  <p>Introduce Amazon Elasticache to the cache reads from the Amazon DynamoDB table and to reduce the provisioned read throughput.</p>
+</details>
+
