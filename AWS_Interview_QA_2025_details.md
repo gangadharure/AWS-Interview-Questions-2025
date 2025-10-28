@@ -379,3 +379,8 @@
   <p>An web application provide on Amazon DynamoDB solution.</p>
 </details>
 
+<details>
+  <summary><strong>Q77) Which the statement use to cases are suitable for Amazon DynamoDB?</strong></summary>
+  <p>The storing metadata for the Amazon S3 objects& The Running of relational joins and complex an updates.</p>
+</details>
+
