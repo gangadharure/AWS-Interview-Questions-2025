@@ -404,3 +404,8 @@
   <p>Used on Application Load Balancer.</p>
 </details>
 
+<details>
+  <summary><strong>Q82) change it from areas?</strong></summary>
+  <p>Changed to Auto Scaling launch configuration areas.</p>
+</details>
+
