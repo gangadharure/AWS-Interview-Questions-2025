@@ -409,3 +409,8 @@
   <p>Changed to Auto Scaling launch configuration areas.</p>
 </details>
 
+<details>
+  <summary><strong>Q83) reduce load on the Amazon EC2 instance?</strong></summary>
+  <p>Let Create a load balancer, and Give register the Amazon EC2 instance with it.</p>
+</details>
+
