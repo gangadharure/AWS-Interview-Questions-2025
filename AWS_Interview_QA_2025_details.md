@@ -434,3 +434,8 @@
   <p>The auto Scaling will be suspend to the scaling process.</p>
 </details>
 
+<details>
+  <summary><strong>Q88) instances in the same of Security Group.Such the new rules apply?</strong></summary>
+  <p>The Immediately to all the instances in security groups.</p>
+</details>
+
