@@ -424,3 +424,8 @@
   <p>The survice make a fault tolerance.</p>
 </details>
 
+<details>
+  <summary><strong>Q86) What are the life cycle to hooks used for the AutoScaling?</strong></summary>
+  <p>They are used to the put an additional taken wait time to the scale in or scale out events. Are You Interested in AWS Course ? Click here</p>
+</details>
+
