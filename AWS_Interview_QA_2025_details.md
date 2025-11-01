@@ -469,3 +469,8 @@
   <p>The monitoring on Amazon CloudWatch</p>
 </details>
 
+<details>
+  <summary><strong>Q95) both existing company and then acquired company, is billed to the single account?</strong></summary>
+  <p>All InvitestakeacquiredthecompanysAWSaccounttojoinexisting by using AWS Organizations.</p>
+</details>
+
