@@ -479,3 +479,8 @@
   <p>The user should be attach an IAM roles with the DynamoDB access to EC2 instance.</p>
 </details>
 
+<details>
+  <summary><strong>Q97) access S3 bucket securely?</strong></summary>
+  <p>An Create an IAM role for the EC2 that allows list access to objects in S3 buckets. Launch toinstancewiththisrole , andretrieveanrolescredentialsfrom Q101) You use the Amazon CloudWatch as your primary monitoring system for web application. After a recent to software deployment, your users are to getting Intermittent the 500 Internal Server to the Errors, when you using web application. You want to create the CloudWatch alarm, and notify the on-call engineer let when these occur. How can you accomplish the using the AWS</p>
+</details>
+
