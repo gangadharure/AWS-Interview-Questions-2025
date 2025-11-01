@@ -474,3 +474,8 @@
   <p>All InvitestakeacquiredthecompanysAWSaccounttojoinexisting by using AWS Organizations.</p>
 </details>
 
+<details>
+  <summary><strong>Q96) of respect to best practice for the security in this scenario?</strong></summary>
+  <p>The user should be attach an IAM roles with the DynamoDB access to EC2 instance.</p>
+</details>
+
