@@ -504,3 +504,8 @@
   <p>Check the service limits in the Trusted Advisors and adjust as necessary, so that forecasted count remains within the limits.</p>
 </details>
 
+<details>
+  <summary><strong>Q102) you make?</strong></summary>
+  <p>Deploy to 3 EC2 instances in one of availability zone and 3 in another availability of zones and to use of Amazon Elastic is Load Balancer.</p>
+</details>
+
