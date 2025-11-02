@@ -499,3 +499,8 @@
   <p>File a change request to get implement of Proxy Protocol support in the application. Use of ELB with TCP Listener and A Proxy Protocol enabled to distribute the load on two application servers in the different AZs.</p>
 </details>
 
+<details>
+  <summary><strong>Q101) during the ramp up traffic?</strong></summary>
+  <p>Check the service limits in the Trusted Advisors and adjust as necessary, so that forecasted count remains within the limits.</p>
+</details>
+
