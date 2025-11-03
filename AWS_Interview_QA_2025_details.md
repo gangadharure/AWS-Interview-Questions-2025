@@ -524,3 +524,8 @@
   <p>To use a separate ELB for the each instance type and the distribute load to ELBs with a Route 53 weighted round of robin.</p>
 </details>
 
+<details>
+  <summary><strong>Q106) configurations will support these requirements?</strong></summary>
+  <p>The configure to the web application get authenticate end-users against the centralized access on the management system. Have a web application provision trusted to users STS tokens an entitling the download of the approved data directly from a Amazon S3.</p>
+</details>
+
