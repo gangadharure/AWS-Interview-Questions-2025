@@ -549,3 +549,8 @@
   <p>Private Cloud Public Cloud Hybrid cloud Community cloud 4</p>
 </details>
 
+<details>
+  <summary><strong>Q111) Explain Cloud Service Models?</strong></summary>
+  <p>SAAS (Software as a Service): It is software distribution model in which application are hosted by a vendor over the internet for the end user freeing from complex software and hardware management. (Ex: Google drive, drop box) PAAS (Platform as a Service): It provides platform and environment to allow developers to build applications. It frees developers without going into the complexity of building and maintaining the infrastructure. (Ex: AWS Elastic Beanstalk, Windows Azure) IAAS (Infrastructure as a Service): It provides virtualized computing resources over the internet like cpu, memory, switches, routers, firewall, Dns, Load balancer (Ex: Azure, AWS)</p>
+</details>
+
