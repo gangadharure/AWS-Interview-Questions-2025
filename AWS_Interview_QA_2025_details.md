@@ -579,3 +579,8 @@
   <p>On-Demand Instances Reserved Instances Spot Instances Dedicated Host</p>
 </details>
 
+<details>
+  <summary><strong>Q117) What are the types using in AWS EC2?</strong></summary>
+  <p>General Purpose Compute Optimized Memory optimized Storage Optimized Accelerated Computing (GPU Based)</p>
+</details>
+
