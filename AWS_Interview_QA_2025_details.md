@@ -594,3 +594,8 @@
   <p>Public Domain name system (DNS) name: When you launch an instance AWS creates a DNS name that can be used to access the Public IP: A launched instance may also have a public ip address This IP address assigned from the address reserved by AWS and cannot be specified. Elastic IP: An Elastic IP Address is an address unique on the internet that you reserve independently and associate with Amazon EC2 instance. This IP Address persists until the customer release it and is not tried to</p>
 </details>
 
+<details>
+  <summary><strong>Q120) What is Security Group?</strong></summary>
+  <p>AWS allows you to control traffic in and out of your instance through virtual firewall called Security groups. Security groups allow you to control traffic based on port, protocol and source/Destination.</p>
+</details>
+
