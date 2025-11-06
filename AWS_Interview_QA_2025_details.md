@@ -599,3 +599,8 @@
   <p>AWS allows you to control traffic in and out of your instance through virtual firewall called Security groups. Security groups allow you to control traffic based on port, protocol and source/Destination.</p>
 </details>
 
+<details>
+  <summary><strong>Q121) When your instance show retired state?</strong></summary>
+  <p>Retired state only available in Reserved instances. Once the reserved instance reserving time (1 yr/3 yr) ends it shows Retired state.</p>
+</details>
+
