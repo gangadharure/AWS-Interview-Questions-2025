@@ -639,3 +639,8 @@
   <p>Amazon EBS optimized instances to ensure that the Amazon EC2 instance is prepared to take advantage of the I/O of the Amazon EBS Volume. An amazon EBS-optimized instance uses an optimized configuration stack and provide additional dedicated capacity for Amazon EBS I/When you select Amazon EBS-optimized for an instance you pay an additional hourly charge for that instance.</p>
 </details>
 
+<details>
+  <summary><strong>Q129) What is EBS Snapshot?</strong></summary>
+  <p>It can back up the data on the EBS Volume. Snapshots are incremental backups. If this is your first snapshot it may take some time to create. Snapshots are point in time copies of volumes.</p>
+</details>
+
