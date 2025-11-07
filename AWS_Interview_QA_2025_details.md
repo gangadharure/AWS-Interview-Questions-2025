@@ -619,3 +619,8 @@
   <p>Lightsail designed to be the easiest way to launch and manage a virtual private server with AWS.Lightsail plans include everything you need to jumpstart your project a virtual machine, ssd based storage, data transfer, DNS Management and a static ip.</p>
 </details>
 
+<details>
+  <summary><strong>Q125) What is EBS?</strong></summary>
+  <p>Amazon EBS Provides persistent block level storage volumes for use with Amazon EC2 instances. Amazon EBS volume is automatically replicated with its availability zone to protect component failure offering high availability and durability. Amazon EBS volumes are available in a variety of types that differ in performance characteristics and Price.</p>
+</details>
+
