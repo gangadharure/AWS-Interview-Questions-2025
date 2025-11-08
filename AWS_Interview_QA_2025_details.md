@@ -644,3 +644,8 @@
   <p>It can back up the data on the EBS Volume. Snapshots are incremental backups. If this is your first snapshot it may take some time to create. Snapshots are point in time copies of volumes.</p>
 </details>
 
+<details>
+  <summary><strong>Q130) How to connect EBS volume to multiple instance?</strong></summary>
+  <p>WecantabletoconnectEBSvolumetomultipleinstance multiple EBS Volume to single instance.</p>
+</details>
+
