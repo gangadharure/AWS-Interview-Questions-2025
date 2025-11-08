@@ -649,3 +649,8 @@
   <p>WecantabletoconnectEBSvolumetomultipleinstance multiple EBS Volume to single instance.</p>
 </details>
 
+<details>
+  <summary><strong>Q131) What are the virtualization types available in AWS?</strong></summary>
+  <p>Hardware assisted Virtualization: HVM instances are presented with a fully virtualized set of hardware and they executing boot by executing master boot record of the root block device of the image. It is default Virtualization. Para virtualization: This AMI boot with a special boot loader called PV-GRUB. The ability of the guest kernel to communicate directly with the hypervisor results in greater performance levels than other virtualization approaches but they cannot take advantage of hardware extensions such as networking, GPU etc. Its customized Virtualization image. Virtualization image can be used only for particular service.</p>
+</details>
+
