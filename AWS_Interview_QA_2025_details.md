@@ -654,3 +654,8 @@
   <p>Hardware assisted Virtualization: HVM instances are presented with a fully virtualized set of hardware and they executing boot by executing master boot record of the root block device of the image. It is default Virtualization. Para virtualization: This AMI boot with a special boot loader called PV-GRUB. The ability of the guest kernel to communicate directly with the hypervisor results in greater performance levels than other virtualization approaches but they cannot take advantage of hardware extensions such as networking, GPU etc. Its customized Virtualization image. Virtualization image can be used only for particular service.</p>
 </details>
 
+<details>
+  <summary><strong>Q132) Differentiate Block storage and File storage?</strong></summary>
+  <p>Block Storage: Block storage operates at lower level, raw storage device level and manages data as a set of numbered, fixed size blocks. File Storage: File storage operates at a higher level, the operating system level and manage data as a named hierarchy of files and folders.</p>
+</details>
+
