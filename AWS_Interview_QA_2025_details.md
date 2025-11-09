@@ -684,3 +684,8 @@
   <p>To encrypt Amazon S3 data at rest, you can use several variations of Server-Side Encryption. Amazon S3 encrypts your data at the object level as it writes it to disks in its data centersanddecryptitforyouwhenyouaccessitllSSEperformed Management Service (AWS KMS) uses the 256-bit Advanced Encryption Standard (AES).</p>
 </details>
 
+<details>
+  <summary><strong>Q138) What is the function of cross region replication in Amazon S3?</strong></summary>
+  <p>Cross region replication is a feature allows you asynchronously replicate all new objects in the source bucket in one AWS region to a target bucket in another region. To enable cross-region replication, versioning must be turned on for both source and destination buckets. Cross region replication is commonly used to reduce the latency required to access objects in Amazon S3</p>
+</details>
+
