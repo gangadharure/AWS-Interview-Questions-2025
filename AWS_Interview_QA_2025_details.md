@@ -689,3 +689,8 @@
   <p>Cross region replication is a feature allows you asynchronously replicate all new objects in the source bucket in one AWS region to a target bucket in another region. To enable cross-region replication, versioning must be turned on for both source and destination buckets. Cross region replication is commonly used to reduce the latency required to access objects in Amazon S3</p>
 </details>
 
+<details>
+  <summary><strong>Q139) How to create Encrypted EBS volume?</strong></summary>
+  <p>You need to select Encrypt this volume option in Volume creation page. While creation a new master key will be created unless you select a master key that you created separately in the service. Amazon uses the AWS key management service (KMS) to handle key management.</p>
+</details>
+
