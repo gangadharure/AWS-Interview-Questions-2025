@@ -714,3 +714,8 @@
   <p>Multi factor Authentication can add an extra layer of security to your infrastructure by adding a second method of authentication beyond just password or access key.</p>
 </details>
 
+<details>
+  <summary><strong>Q144) What are the Authentication in AWS?</strong></summary>
+  <p>User Name/Password Access Key Access Key/ Session Token</p>
+</details>
+
