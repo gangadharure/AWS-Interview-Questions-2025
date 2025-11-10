@@ -704,3 +704,8 @@
   <p>NAT instance: A network address translation (NAT) instance is an Amazon Linux machine Image (AMI) that is designed to accept traffic from instances within a private subnet, translate the source IP address to the Public IP address of the NAT instance and forward the traffic to IWG. NAT Gateway: A NAT gateway is an Amazon managed resources that is designed to operate just like a NAT instance but it is simpler to manage and highly available within an availability Zone. To allow instance within a private subnet to access internet resources through the IGW via a NAT gateway.</p>
 </details>
 
+<details>
+  <summary><strong>Q142) What is VPC Peering?</strong></summary>
+  <p>AmazonVPCpeeringconnectionisanetworkingconnectio that enables instances in either Amazon VPC to communicate with each other as if they are within the same network. You can create amazon VPC peering connection between your own Amazon</p>
+</details>
+
