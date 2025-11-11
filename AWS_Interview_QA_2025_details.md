@@ -739,3 +739,8 @@
   <p>Manual Scaling Scheduled Scaling Dynamic Scaling</p>
 </details>
 
+<details>
+  <summary><strong>Q149) What is Auto Scaling group?</strong></summary>
+  <p>Auto Scaling group is a collection of Amazon EC2 instances managed by the Auto scaling service. Each auto scaling group contains configuration options that control when auto scaling should launch new instance or terminate existing instance.</p>
+</details>
+
