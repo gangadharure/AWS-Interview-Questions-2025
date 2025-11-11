@@ -729,3 +729,8 @@
   <p>Amazon Dynamo DB is fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. Dynamo DB makes it simple and Cost effective to store and retrieve any amount of data.</p>
 </details>
 
+<details>
+  <summary><strong>Q147) What is cloud formation?</strong></summary>
+  <p>Cloud formation is a service which creates the AWS infrastructure using code. It helps to reduce time to manage resources. We can able to create our resources Quickly and faster.</p>
+</details>
+
