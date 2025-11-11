@@ -724,3 +724,8 @@
   <p>Multi AZ allows you to place a secondary copy of your database in another availability zone for disaster recovery purpose. Multi AZ deployments are available for all types of Amazon RDS Database engines. When you create s Multi-AZ DB instance a primary instance is created in one Availability Zone and a secondary instance is created by another Availability zone.</p>
 </details>
 
+<details>
+  <summary><strong>Q146) What is Amazon Dynamo DB?</strong></summary>
+  <p>Amazon Dynamo DB is fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. Dynamo DB makes it simple and Cost effective to store and retrieve any amount of data.</p>
+</details>
+
