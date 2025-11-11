@@ -734,3 +734,8 @@
   <p>Cloud formation is a service which creates the AWS infrastructure using code. It helps to reduce time to manage resources. We can able to create our resources Quickly and faster.</p>
 </details>
 
+<details>
+  <summary><strong>Q148) How to plan Auto scaling?</strong></summary>
+  <p>Manual Scaling Scheduled Scaling Dynamic Scaling</p>
+</details>
+
