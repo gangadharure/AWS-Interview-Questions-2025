@@ -764,3 +764,8 @@
   <p>Amazon ElastiCache is a web services that simplifies the setup and management of distributed in memory caching environment. Cost Effective High Performance Scalable Caching Environment Using Memcached or Redis Cache Engine</p>
 </details>
 
+<details>
+  <summary><strong>Q154) What is SES, SQS and SNS?</strong></summary>
+  <p>SES (Simple Email Service): SES is SMTP server provided by Amazon which is designed to send bulk mails to customers in a quick and cost-effective manner.SES does not allows to configure mail server. SQS (Simple Queue Service): SQS is a fast, reliable and scalable, fully managedmessagequeuingservice . AmazonSQSmakesitsimplean temporary repository for messages to waiting for processing and acts as a buffer between the component producer and the consumer. SNS (Simple Notification Service): SNS is a web service that coordinates and manages the delivery or sending of messages to recipients.</p>
+</details>
+
