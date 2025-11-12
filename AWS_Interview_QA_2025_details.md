@@ -744,3 +744,8 @@
   <p>Auto Scaling group is a collection of Amazon EC2 instances managed by the Auto scaling service. Each auto scaling group contains configuration options that control when auto scaling should launch new instance or terminate existing instance.</p>
 </details>
 
+<details>
+  <summary><strong>Q150) Differentiate Basic and Detailed monitoring in cloud watch?</strong></summary>
+  <p>Basic Monitoring: Basic monitoring sends data points to Amazon cloud watch every five minutes for a limited number of preselected metrics at no charge. Detailed Monitoring: Detailed monitoring sends data points to amazon CloudWatch every minute and allows data aggregation for an additional charge.</p>
+</details>
+
