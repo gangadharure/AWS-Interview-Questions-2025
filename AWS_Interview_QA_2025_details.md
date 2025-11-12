@@ -759,3 +759,8 @@
   <p>Simple Weighted Latency Based Failover Geolocation</p>
 </details>
 
+<details>
+  <summary><strong>Q153) What is Amazon ElastiCache?</strong></summary>
+  <p>Amazon ElastiCache is a web services that simplifies the setup and management of distributed in memory caching environment. Cost Effective High Performance Scalable Caching Environment Using Memcached or Redis Cache Engine</p>
+</details>
+
