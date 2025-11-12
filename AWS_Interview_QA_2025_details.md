@@ -754,3 +754,8 @@
   <p>In Cloud front we will deliver content to edge location wise so here we can use Route 53 for Content Delivery Network. Additionally, if you are using Amazon CloudFront you can configure Route 53 to route Internet traffic to those resources.</p>
 </details>
 
+<details>
+  <summary><strong>Q152) What are the routing policies available in Amazon Route53?</strong></summary>
+  <p>Simple Weighted Latency Based Failover Geolocation</p>
+</details>
+
