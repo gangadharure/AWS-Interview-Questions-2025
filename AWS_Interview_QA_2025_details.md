@@ -784,3 +784,8 @@
   <p>Avoidstoragesensitivematerialinthecloud . & ReadtheusercontracttofindouthowyourcloudservicestorinBeseriousaboutpasswords . & Encrypt . & Use an encrypted cloud service.</p>
 </details>
 
+<details>
+  <summary><strong>Q158) Name The Several Layers Of Cloud Computing?</strong></summary>
+  <p>Cloud computing can be damaged up into three main services: Software-as-a-Service (SaaS), Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS). PaaS in the middle, and IaaS on the lowest</p>
+</details>
+
