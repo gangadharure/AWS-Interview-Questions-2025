@@ -794,3 +794,8 @@
   <p>Lambda Edge lets you run Lambda functions to modify satisfied that Cloud Front delivers, executing the functions in AWS locations closer to the viewer. The functions run in response to Cloud Front events, without provisioning or managing server.</p>
 </details>
 
+<details>
+  <summary><strong>Q160) Distinguish Between Scalability And Flexibility?</strong></summary>
+  <p>Cloud computing offers industries flexibility and scalability when it comes to computing needs: Flexibility . Cloudcomputingagreesyourworkerstobemoreflexi the workplace. Workers can access files using web-enabled devices such as smartphones, laptops and notebooks. In this way, cloud computing empowers the use of mobile technology. One of the key assistances of using cloud computing is its scalability. Cloud computing allows your business to easily expensive or downscale your IT requests as and when required. For example, most cloud service workers will allow you to increase your existing resources to accommodate increased business needs or changes. This will allow you to support your commercial growth without exclusive changes to your present IT systems.</p>
+</details>
+
