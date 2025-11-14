@@ -799,3 +799,8 @@
   <p>Cloud computing offers industries flexibility and scalability when it comes to computing needs: Flexibility . Cloudcomputingagreesyourworkerstobemoreflexi the workplace. Workers can access files using web-enabled devices such as smartphones, laptops and notebooks. In this way, cloud computing empowers the use of mobile technology. One of the key assistances of using cloud computing is its scalability. Cloud computing allows your business to easily expensive or downscale your IT requests as and when required. For example, most cloud service workers will allow you to increase your existing resources to accommodate increased business needs or changes. This will allow you to support your commercial growth without exclusive changes to your present IT systems.</p>
 </details>
 
+<details>
+  <summary><strong>Q161) What is IaaS?</strong></summary>
+  <p>IaaSisacloudservicethatrunsservicesonpay - for - what IaaS workers include Amazon Web Services, Microsoft Azure and Google Compute Engine Users: IT Administrators</p>
+</details>
+
