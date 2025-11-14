@@ -809,3 +809,8 @@
   <p>PaaS runs cloud platforms and runtime environments to develop, test and manage software Users: Software Developers</p>
 </details>
 
+<details>
+  <summary><strong>Q163) What is SaaS?</strong></summary>
+  <p>In SaaS, cloud workers host and manage the software application on a pay-as-you-go pricing model Users: End Customers</p>
+</details>
+
