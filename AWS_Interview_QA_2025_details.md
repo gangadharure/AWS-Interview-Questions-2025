@@ -834,3 +834,8 @@
   <p>Amazon Elastic Calculate Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud calculating easier fordesigners . AmazonEC2ssimplewebserviceinterfaceallowsyo capacity with minimal friction.</p>
 </details>
 
+<details>
+  <summary><strong>Q168) Explain Storage For Amazon Ec2 Instance.?</strong></summary>
+  <p>An instance store is a provisional storing type located on disks that are physically attachedtoahostmachine . & Thisarticlewillpresentyoutothe type, compare it to AWS Elastic Block Storage (AWS EBS), and show you how to backup data stored on instance stores to AWS EBS Amazon SQS is a message queue service used by scattered requests to exchange messages through a polling model, and can be used to decouple sending and receiving components</p>
+</details>
+
