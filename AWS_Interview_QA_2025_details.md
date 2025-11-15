@@ -839,3 +839,8 @@
   <p>An instance store is a provisional storing type located on disks that are physically attachedtoahostmachine . & Thisarticlewillpresentyoutothe type, compare it to AWS Elastic Block Storage (AWS EBS), and show you how to backup data stored on instance stores to AWS EBS Amazon SQS is a message queue service used by scattered requests to exchange messages through a polling model, and can be used to decouple sending and receiving components</p>
 </details>
 
+<details>
+  <summary><strong>Q169) connectivity with external networks?</strong></summary>
+  <p>Internet Gateway {IGW) Virtual Private Gateway (VGW)</p>
+</details>
+
