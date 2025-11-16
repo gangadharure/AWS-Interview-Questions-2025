@@ -844,3 +844,8 @@
   <p>Internet Gateway {IGW) Virtual Private Gateway (VGW)</p>
 </details>
 
+<details>
+  <summary><strong>Q170) Which of the following are characteristics of Amazon VPC subnets?</strong></summary>
+  <p>Each subnet maps to a single Availability Zone. By defaulting, all subnets can route between each other, whether they are private or public.</p>
+</details>
+
