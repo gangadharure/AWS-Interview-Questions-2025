@@ -859,3 +859,8 @@
   <p>Backup Data Locally. A standout amongst the most vital interesting points while overseeing information is to guarantee that you have reinforcements for your information, AvoidStoringSensitiveInformation . & UseCloudServicesthatEncryptData . & EncryptYourData . & InstallAnti - infectionSoftware . & MakePasswordsStronger . & Test the Security Measures in Place.</p>
 </details>
 
+<details>
+  <summary><strong>Q173) What is AWS Certificate Manager ?</strong></summary>
+  <p>AWS Certificate Manager is an administration that lets you effortlessly arrangement, oversee, and send open and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) endorsements for use with AWS administrations and your inward associated assets. SSL/TLS declarations are utilized to anchor arrange interchanges and set up the character of sites over the Internet and additionally assets on private systems. AWS Certificate Manager expels the tedious manual procedure of obtaining, transferring, and reestablishing SSL/TLS endorsements.</p>
+</details>
+
