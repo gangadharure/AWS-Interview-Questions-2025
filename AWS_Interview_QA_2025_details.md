@@ -874,3 +874,8 @@
   <p>Amazon Elastic MapReduce (EMR) is one such administration that gives completely oversaw facilitated Hadoop system over Amazon Elastic Compute Cloud (EC2).</p>
 </details>
 
+<details>
+  <summary><strong>Q176) What is Amazon Kinesis Firehose ?</strong></summary>
+  <p>Amazon Kinesis Data Firehose is the least demanding approach to dependably stack gushinginformationintoinformationstoresandexaminationdevic overseen benefit that consequently scales to coordinate the throughput of your information and requires no continuous organization</p>
+</details>
+
