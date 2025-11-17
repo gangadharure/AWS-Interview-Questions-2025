@@ -869,3 +869,8 @@
   <p>AWS Key Management Service (AWS KMS) is an overseen benefit that makes it simple foryoutomakeandcontroltheencryptionkeysusedtoscramble is additionally coordinated with AWS CloudTrail to give encryption key use logs to help meet your inspecting, administrative and consistence needs.</p>
 </details>
 
+<details>
+  <summary><strong>Q175) What is Amazon EMR ?</strong></summary>
+  <p>Amazon Elastic MapReduce (EMR) is one such administration that gives completely oversaw facilitated Hadoop system over Amazon Elastic Compute Cloud (EC2).</p>
+</details>
+
