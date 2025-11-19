@@ -929,3 +929,8 @@
   <p>Various sorts of examples can be propelled from one AMI. The sort of an occasion for the most part manages the equipment segments of the host PC that is utilized for the case. Each kind of occurrence has unmistakable registering and memory adequacy. When an example is propelled, it gives a role as host and the client cooperation with it is same likewise with some other PC however we have a totally controlled access to our occurrences. AWS engineer inquiries</p>
 </details>
 
+<details>
+  <summary><strong>Q187) What is the distinction between Amazon S3 and EC2?</strong></summary>
+  <p>The contrast between Amazon S3 and EC2 is given beneath: Amazon S3 Amazon EC2 The significance of S3 is Simple Storage Service. The importance of EC2 is Elastic Compute Cloud. It is only an information stockpiling administration which is utilized to store huge paired files. It is a cloud web benefit which is utilized to have the application made. Itisntrequiredto run a server. It is sufficient to run a server. It has a REST interface and utilizations secure HMAC-SHA1 validation keys. It is much the same as a tremendous PC machine which can deal with application like Python, PHP, Apache and some other database. When you are going for an AWS designer meet, set yourself up with the ideas of Amazon S3 and EC2, and the distinction between them.</p>
+</details>
+
