@@ -964,3 +964,8 @@
   <p>T2 cases are intended for Providing moderate gauge execution Higher execution as required by outstanding task at hand</p>
 </details>
 
+<details>
+  <summary><strong>Q194) What is the utilization of the cradle in AWS?</strong></summary>
+  <p>This is among habitually asked AWS designer inquiries questions. Give the appropriate response in straightforward terms, the cradle is primarily used to oversee stack with the synchronization of different parts i.e. to make framework blame tolerant. Without support, segmentsdontutilizeanyreasonabletechniquetogetandproces the cushion makes segments to work in a decent way and at a similar speed, hence results in</p>
+</details>
+
