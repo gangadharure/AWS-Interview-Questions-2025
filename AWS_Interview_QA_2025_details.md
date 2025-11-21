@@ -989,3 +989,8 @@
   <p>Public Subnet will have Internet Gateway Attached to its associated Route Table and Subnet, Private Subnet will not have the Internet Gateway Attached to its associated Route Table and Subnet Public Subnet will have internet access and Private subnet will not have the internet access directly.</p>
 </details>
 
+<details>
+  <summary><strong>Q199) Subnet ?</strong></summary>
+  <p>We can access using VPN if the VPN is configured into that Particular VPC where Ec2 is assigned to that VPC in the Subnet. We can access using other Ec2 which has the Public access.</p>
+</details>
+
