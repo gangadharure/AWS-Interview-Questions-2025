@@ -969,3 +969,8 @@
   <p>This is among habitually asked AWS designer inquiries questions. Give the appropriate response in straightforward terms, the cradle is primarily used to oversee stack with the synchronization of different parts i.e. to make framework blame tolerant. Without support, segmentsdontutilizeanyreasonabletechniquetogetandproces the cushion makes segments to work in a decent way and at a similar speed, hence results in</p>
 </details>
 
+<details>
+  <summary><strong>Q195) What happens when an Amazon EC2 occurrence is halted or ended?</strong></summary>
+  <p>At the season of ceasing an Amazon EC2 case, a shutdown is performed in a typical way. From that point onward, the changes to the ceased state happen. Amid this, the majority of the Amazon EBS volumes are stayed joined to the case and the case can be begun whenever. The occurrence hours are not included when the occasion is the ceased state. At the season of ending an Amazon EC2 case, a shutdown is performed in an ordinary way. Amid this, the erasure of the majority of the Amazon EBS volumes is performed. To stay away from this, the estimation of credit deleteOnTermination is set to false. On end, the occurrence additionally experiences cancellation , sothecasecantbebegunoncemore . Became an AWS Expert with Certification in 25hours</p>
+</details>
+
