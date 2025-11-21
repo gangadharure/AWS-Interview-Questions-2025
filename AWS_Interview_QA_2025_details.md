@@ -974,3 +974,8 @@
   <p>At the season of ceasing an Amazon EC2 case, a shutdown is performed in a typical way. From that point onward, the changes to the ceased state happen. Amid this, the majority of the Amazon EBS volumes are stayed joined to the case and the case can be begun whenever. The occurrence hours are not included when the occasion is the ceased state. At the season of ending an Amazon EC2 case, a shutdown is performed in an ordinary way. Amid this, the erasure of the majority of the Amazon EBS volumes is performed. To stay away from this, the estimation of credit deleteOnTermination is set to false. On end, the occurrence additionally experiences cancellation , sothecasecantbebegunoncemore . Became an AWS Expert with Certification in 25hours</p>
 </details>
 
+<details>
+  <summary><strong>Q196) What are the mainstream DevOps devices?</strong></summary>
+  <p>In an AWS DevOps Engineer talk with, this is the most widely recognized AWS inquiries for DevOps. To answer this inquiry, notice the well known DevOps apparatuses with the kind of hardware JenkinsContinuousIntegrationTool GitVersionControlSystemTool NagiosContinuousMonitoringTool SeleniumContinuousTestingTool DockerContainerizationTool Puppet , Chef , AnsibleDeploymentandConfigurationAdministr Q203) What are IAM Roles and Policies, What is the difference between IAM Roles and Policies. Roles are for AWS services, Where we can assign permission of some AWS service to other Service. ExampleGivingS3permissiontoEC2toaccessS3BucketConte Policies are forusersandgroups , WherewecanassignpermissiontousersanExampleGiving permission to user to access the S3 Buckets.</p>
+</details>
+
