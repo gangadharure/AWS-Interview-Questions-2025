@@ -984,3 +984,8 @@
   <p>Route Table Network ACL Security Group</p>
 </details>
 
+<details>
+  <summary><strong>Q198) What is the Difference Between Public Subnet and Private Subnet ?</strong></summary>
+  <p>Public Subnet will have Internet Gateway Attached to its associated Route Table and Subnet, Private Subnet will not have the Internet Gateway Attached to its associated Route Table and Subnet Public Subnet will have internet access and Private subnet will not have the internet access directly.</p>
+</details>
+
