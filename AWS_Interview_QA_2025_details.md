@@ -1004,3 +1004,8 @@
   <p>Security Groups Network ACL Attached to Ec2 instance Attached to a subnet. Stateful - Changes made in incoming rules is automatically applied to the outgoing rule Stateless - Changes made in incoming rules is not applied to the outgoing rule Blocking IP Address can't be done IP Address can be Blocked Allow rules only, by default all rules are denied Allow and Deny can be Used.</p>
 </details>
 
+<details>
+  <summary><strong>Q202) What are the Difference Between Route53 and ELB?</strong></summary>
+  <p>Amazon Route 53 will handle DNS servers. Route 53 give you web interface through which the DNS can be managed using Route 53, it is possible to direct and failover traffic. This can be achieved by using DNS Routing Policy. One more routing policy is Failover Routing policy. we set up a health check to monitor your application endpoints. If one of the endpoints is not available, Route 53 will automatically forward the traffic to other endpoint. Elastic Load Balancing ELB automatically scales depends on the demand, so sizing of the load balancers to handle more traffic effectively when it is not required.</p>
+</details>
+
