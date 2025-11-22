@@ -994,3 +994,8 @@
   <p>We can access using VPN if the VPN is configured into that Particular VPC where Ec2 is assigned to that VPC in the Subnet. We can access using other Ec2 which has the Public access.</p>
 </details>
 
+<details>
+  <summary><strong>Q200) We have a custom VPC Configured and MYSQL Database server which is in Private Subnet and we need to update the MYSQL Database Server, What are the Option to do so.</strong></summary>
+  <p>By using NAT Gateway in the VPC or Launch a NAT Instance ( Ec2) Configure or Attach the NAT Gateway in Public Subnet ( Which has Route Table attached to IGW) and attach it to the Route Table which is Already attached to the Private Subnet.</p>
+</details>
+
