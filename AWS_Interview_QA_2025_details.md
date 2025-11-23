@@ -1024,3 +1024,8 @@
   <p>CIDR Block should overlap CIDR Block should not overlap VPC should be in the same region VPC must belong to same account. CIDR block should not overlap between vpc setting up a peering connection . peering connection is allowed within a region , across region, across different account.</p>
 </details>
 
+<details>
+  <summary><strong>Q206) Troubleshooting with EC2 Instances:</strong></summary>
+  <p>Instance States If the instance state is 0/2- there might be some hardware issue If the instance state is 1⁄2-there might be issue with OS. Workaround-Need to restart the instance, if still that is not working logs will help to fix the issue.</p>
+</details>
+
