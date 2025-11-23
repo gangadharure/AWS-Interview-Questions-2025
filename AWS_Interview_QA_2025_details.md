@@ -1019,3 +1019,8 @@
   <p>System Status Checks  System Status checks will lookin which needs AWS help to resolve the issue. When we see system status check failure, you can wait for AWS to resolve the issue, or do it by our self. Network connectivity System power SoftwareissuesDataCentres Hardware issues InstanceStatusChecksInstanceStatuscheckswilllookintoi involvement to fix the issue. if status check fails, we can reboot that particular instance. Failed system status checks Memory Full Corrupted file system Kernel issues</p>
 </details>
 
+<details>
+  <summary><strong>Q205) Toestablishapeeringconnectionsbetweentwo must be met?</strong></summary>
+  <p>CIDR Block should overlap CIDR Block should not overlap VPC should be in the same region VPC must belong to same account. CIDR block should not overlap between vpc setting up a peering connection . peering connection is allowed within a region , across region, across different account.</p>
+</details>
+
