@@ -1039,3 +1039,8 @@
   <p>For types please refer AWS Solution Architect book.</p>
 </details>
 
+<details>
+  <summary><strong>Q209) Difference between EBS,EFS and S3</strong></summary>
+  <p>We can access EBS only if its mounted with instance, at a time EBS can be mounted only with one instance. EFS can be shared at a time with multiple instances S3 can be accessed without mounting with instances</p>
+</details>
+
