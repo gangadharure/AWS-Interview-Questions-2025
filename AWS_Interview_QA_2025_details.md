@@ -1059,3 +1059,8 @@
   <p>EBS provides high performance block-level storage which can be attached with running EC2 instance. Storage can be formatted and mounted with EC2 instance, then it can be accessed.</p>
 </details>
 
+<details>
+  <summary><strong>Q213) Process to mount EBS to EC2 instance</strong></summary>
+  <p>D f  k mkfs.ext4 /dev/xvdf Fdiskl Mkdir /my5gbdata Mount /dev/xvdf /my5gbdata</p>
+</details>
+
