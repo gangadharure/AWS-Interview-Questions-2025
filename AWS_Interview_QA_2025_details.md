@@ -1074,3 +1074,8 @@
   <p>Service Role are meant for usage of AWS Services and based upon the policies attached to it,it will have the scope to do its task. Example : In case of automation we can create a service role and attached to it. Federated Roles are meant for User Access and getting access to AWS as per designed role. Example : We can have a federated role created for our office employee and corresponding to that a Group will be created in the AD and user will be added to it.</p>
 </details>
 
+<details>
+  <summary><strong>Q216) How many Policies can be attached to a role.</strong></summary>
+  <p>10 (Soft limit), We can have till 20.</p>
+</details>
+
