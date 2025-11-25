@@ -1089,3 +1089,8 @@
   <p>Root User will have acces to entire AWS environment and it will not have any policy attached to it. While IAM User will be able to do its task on the basis of policies attached to it.</p>
 </details>
 
+<details>
+  <summary><strong>Q219) What do you mean by Principal of least privilege in term of IAM.</strong></summary>
+  <p>Principal of least privilege means to provide the same or equivalent permission to the user/role.</p>
+</details>
+
