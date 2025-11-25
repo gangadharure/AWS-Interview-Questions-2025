@@ -1084,3 +1084,8 @@
   <p>3 Different ways (CLI, Console, SDK)</p>
 </details>
 
+<details>
+  <summary><strong>Q218) How a Root AWS user is different from in IAM User.</strong></summary>
+  <p>Root User will have acces to entire AWS environment and it will not have any policy attached to it. While IAM User will be able to do its task on the basis of policies attached to it.</p>
+</details>
+
