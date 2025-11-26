@@ -1094,3 +1094,8 @@
   <p>Principal of least privilege means to provide the same or equivalent permission to the user/role.</p>
 </details>
 
+<details>
+  <summary><strong>Q220) What is the meaning of non-explicit deny for an IAM User.</strong></summary>
+  <p>When an IAM user is created and it is not having any policy attached to it,in that case he will not be able to access any of the AWS Service until a policy has been attached to it.</p>
+</details>
+
