@@ -1139,3 +1139,8 @@
   <p>Maintain fixed running of ec2</p>
 </details>
 
+<details>
+  <summary><strong>Q229) How will you secure data at rest in EBS?</strong></summary>
+  <p>EBS data is always secure</p>
+</details>
+
