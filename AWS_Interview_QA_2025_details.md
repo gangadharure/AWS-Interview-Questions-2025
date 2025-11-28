@@ -1154,3 +1154,8 @@
   <p>Yes</p>
 </details>
 
+<details>
+  <summary><strong>Q232) global network of edge location?</strong></summary>
+  <p>Virtual Private Cloud</p>
+</details>
+
