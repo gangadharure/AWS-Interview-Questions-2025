@@ -1164,3 +1164,8 @@
   <p>Temporary storage</p>
 </details>
 
+<details>
+  <summary><strong>Q234) What are shards in kinesis aws services?</strong></summary>
+  <p>Shards are used to store data in Kinesis.</p>
+</details>
+
