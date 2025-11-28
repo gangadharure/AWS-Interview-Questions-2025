@@ -1149,3 +1149,8 @@
   <p>5TB</p>
 </details>
 
+<details>
+  <summary><strong>Q231) Can objects in Amazon s3 be delivered through amazon cloud front?</strong></summary>
+  <p>Yes</p>
+</details>
+
