@@ -1169,3 +1169,8 @@
   <p>Shards are used to store data in Kinesis.</p>
 </details>
 
+<details>
+  <summary><strong>Q235) Where can you find the ephemeral storage?</strong></summary>
+  <p>In Instance store service.</p>
+</details>
+
