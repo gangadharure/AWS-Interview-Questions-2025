@@ -1199,3 +1199,8 @@
   <p>No</p>
 </details>
 
+<details>
+  <summary><strong>Q241) Is EFS a centralised storage service in AWS?</strong></summary>
+  <p>Yes</p>
+</details>
+
