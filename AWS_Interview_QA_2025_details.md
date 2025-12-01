@@ -1234,3 +1234,8 @@
   <p>Check if the secret has been rotated, ensure the application fetches dynamically, and roll back to a previous version if necessary.</p>
 </details>
 
+<details>
+  <summary><strong>Q248) How can you rotate RDS credentials automatically using AWS Secrets Manager?</strong></summary>
+  <p>Enable automatic rotation in AWS Secrets Manager, associate it with the RDS database, and use a Lambda rotation function.</p>
+</details>
+
