@@ -1224,3 +1224,8 @@
   <p>ible is an open source automation platform. Ansible can help you with configuration management, application deployment, task automation It is open source and agent less tool It is playbook We can automate our daily activity as automation Ex : 10 server NHINX installation req . On IGW will assign to one VPC Explain about your self What is elastic IP What is the difference between start/stop and restart in AWS CLI Explain how do you lunch instance in EC2</p>
 </details>
 
+<details>
+  <summary><strong>Q246) How would you store and retrieve a database password using AWS Secrets Manager in an EC2 instance?</strong></summary>
+  <p>Store the credentials in AWS Secrets Manager using the AWS Console, CLI, or SDK. Attach an IAM role to the EC2 instance with `secretsmanager:GetSecretValue` permission. Use the AWS SDK to retrieve the secret in your application. *(code sample and best practices as provided)*</p>
+</details>
+
