@@ -1239,3 +1239,8 @@
   <p>Enable automatic rotation in AWS Secrets Manager, associate it with the RDS database, and use a Lambda rotation function.</p>
 </details>
 
+<details>
+  <summary><strong>Q249) How can you allow an AWS Lambda function to access a secret securely?</strong></summary>
+  <p>Attach an IAM role with `secretsmanager:GetSecretValue` permission and use the AWS SDK inside the function.</p>
+</details>
+
