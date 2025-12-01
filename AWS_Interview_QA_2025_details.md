@@ -1229,3 +1229,8 @@
   <p>Store the credentials in AWS Secrets Manager using the AWS Console, CLI, or SDK. Attach an IAM role to the EC2 instance with `secretsmanager:GetSecretValue` permission. Use the AWS SDK to retrieve the secret in your application. *(code sample and best practices as provided)*</p>
 </details>
 
+<details>
+  <summary><strong>Q247) What happens if an application is using an expired secret?</strong></summary>
+  <p>Check if the secret has been rotated, ensure the application fetches dynamically, and roll back to a previous version if necessary.</p>
+</details>
+
