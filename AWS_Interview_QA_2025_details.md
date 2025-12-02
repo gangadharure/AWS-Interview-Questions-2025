@@ -1259,3 +1259,8 @@
   <p>Use CloudTrail to log API calls, enable CloudWatch alerts, and monitor access patterns with GuardDuty.</p>
 </details>
 
+<details>
+  <summary><strong>Q253) How do you migrate secrets from Parameter Store to AWS Secrets Manager?</strong></summary>
+  <p>Use CLI/Lambda to copy values from SSM Parameter Store into Secrets Manager.</p>
+</details>
+
