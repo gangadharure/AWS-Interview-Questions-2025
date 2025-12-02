@@ -1254,3 +1254,8 @@
   <p>Implement retries with exponential backoff, use temporary caches, and replicate secrets across multiple regions.</p>
 </details>
 
+<details>
+  <summary><strong>Q252) How do you monitor access and changes to AWS Secrets Manager?</strong></summary>
+  <p>Use CloudTrail to log API calls, enable CloudWatch alerts, and monitor access patterns with GuardDuty.</p>
+</details>
+
