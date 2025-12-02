@@ -1264,3 +1264,8 @@
   <p>Use CLI/Lambda to copy values from SSM Parameter Store into Secrets Manager.</p>
 </details>
 
+<details>
+  <summary><strong>Q254) Can AWS Secrets Manager store binary secrets?</strong></summary>
+  <p>Yes, using the `--secret-binary` flag or Base64 encoding in SDKs.</p>
+</details>
+
