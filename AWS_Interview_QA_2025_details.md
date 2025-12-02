@@ -1249,3 +1249,8 @@
   <p>Restrict access via IAM policies, enable KMS encryption, and use VPC endpoints for private access.</p>
 </details>
 
+<details>
+  <summary><strong>Q251) What happens if AWS Secrets Manager is unavailable?</strong></summary>
+  <p>Implement retries with exponential backoff, use temporary caches, and replicate secrets across multiple regions.</p>
+</details>
+
