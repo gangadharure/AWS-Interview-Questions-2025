@@ -1244,3 +1244,8 @@
   <p>Attach an IAM role with `secretsmanager:GetSecretValue` permission and use the AWS SDK inside the function.</p>
 </details>
 
+<details>
+  <summary><strong>Q250) How do you secure access to AWS Secrets Manager?</strong></summary>
+  <p>Restrict access via IAM policies, enable KMS encryption, and use VPC endpoints for private access.</p>
+</details>
+
