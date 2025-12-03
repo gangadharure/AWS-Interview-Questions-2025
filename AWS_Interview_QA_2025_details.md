@@ -1279,3 +1279,8 @@
   <p>A set of practices combining Dev + Ops to deliver faster, more reliable software.</p>
 </details>
 
+<details>
+  <summary><strong>Q257) What are the benefits of AWS for DevOps?</strong></summary>
+  <p>Scalability, automation, CI/CD, IaC, monitoring tools, and managed services like ECS, EKS, Beanstalk.</p>
+</details>
+
