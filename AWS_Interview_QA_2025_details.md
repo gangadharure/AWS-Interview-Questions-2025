@@ -1269,3 +1269,8 @@
   <p>Yes, using the `--secret-binary` flag or Base64 encoding in SDKs.</p>
 </details>
 
+<details>
+  <summary><strong>Q255) What are the cost implications of AWS Secrets Manager?</strong></summary>
+  <p>Charged per secret and API call. Use Parameter Store for less sensitive values and delete unused secrets.</p>
+</details>
+
