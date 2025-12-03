@@ -1289,3 +1289,8 @@
   <p>Managing infra through code, implemented via CloudFormation or CDK.</p>
 </details>
 
+<details>
+  <summary><strong>Q259) Difference between DevOps and Agile?</strong></summary>
+  <p>Agile = iterative software development. DevOps = collaboration between dev & ops for continuous delivery.</p>
+</details>
+
