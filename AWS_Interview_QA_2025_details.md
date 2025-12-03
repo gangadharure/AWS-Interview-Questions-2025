@@ -1284,3 +1284,8 @@
   <p>Scalability, automation, CI/CD, IaC, monitoring tools, and managed services like ECS, EKS, Beanstalk.</p>
 </details>
 
+<details>
+  <summary><strong>Q258) What is Infrastructure as Code (IaC) in AWS?</strong></summary>
+  <p>Managing infra through code, implemented via CloudFormation or CDK.</p>
+</details>
+
