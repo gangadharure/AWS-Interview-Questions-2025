@@ -1274,3 +1274,8 @@
   <p>Charged per secret and API call. Use Parameter Store for less sensitive values and delete unused secrets.</p>
 </details>
 
+<details>
+  <summary><strong>Q256) What is DevOps?</strong></summary>
+  <p>A set of practices combining Dev + Ops to deliver faster, more reliable software.</p>
+</details>
+
