@@ -1304,3 +1304,8 @@
   <p>Automation of integration, testing, deployment, and delivery steps.</p>
 </details>
 
+<details>
+  <summary><strong>Q262) How to implement a CI/CD pipeline in AWS?</strong></summary>
+  <p>Use CodePipeline with CodeCommit → CodeBuild → CodeDeploy.</p>
+</details>
+
