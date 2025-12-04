@@ -1299,3 +1299,8 @@
   <p>CodePipeline, CodeBuild, CodeDeploy, CloudFormation, ECS/EKS.</p>
 </details>
 
+<details>
+  <summary><strong>Q261) What is a CI/CD pipeline?</strong></summary>
+  <p>Automation of integration, testing, deployment, and delivery steps.</p>
+</details>
+
