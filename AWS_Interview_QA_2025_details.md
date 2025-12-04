@@ -1314,3 +1314,8 @@
   <p>A CI/CD service automating build, test, and deploy.</p>
 </details>
 
+<details>
+  <summary><strong>Q264) What is AWS CodeBuild?</strong></summary>
+  <p>Managed build service for compiling code, running tests, producing artifacts.</p>
+</details>
+
