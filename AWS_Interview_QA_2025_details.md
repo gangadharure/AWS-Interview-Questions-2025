@@ -1294,3 +1294,8 @@
   <p>Agile = iterative software development. DevOps = collaboration between dev & ops for continuous delivery.</p>
 </details>
 
+<details>
+  <summary><strong>Q260) Popular AWS DevOps tools?</strong></summary>
+  <p>CodePipeline, CodeBuild, CodeDeploy, CloudFormation, ECS/EKS.</p>
+</details>
+
