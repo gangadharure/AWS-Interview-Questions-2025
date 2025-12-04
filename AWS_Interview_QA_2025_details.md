@@ -1309,3 +1309,8 @@
   <p>Use CodePipeline with CodeCommit → CodeBuild → CodeDeploy.</p>
 </details>
 
+<details>
+  <summary><strong>Q263) What is AWS CodePipeline?</strong></summary>
+  <p>A CI/CD service automating build, test, and deploy.</p>
+</details>
+
