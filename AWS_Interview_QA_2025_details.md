@@ -1334,3 +1334,8 @@
   <p>Docker = OS-level virtualization, lightweight. VMs = hardware-level virtualization, heavier.</p>
 </details>
 
+<details>
+  <summary><strong>Q268) How to orchestrate containers in AWS?</strong></summary>
+  <p>Use ECS or EKS.</p>
+</details>
+
