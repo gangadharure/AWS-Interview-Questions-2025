@@ -1319,3 +1319,8 @@
   <p>Managed build service for compiling code, running tests, producing artifacts.</p>
 </details>
 
+<details>
+  <summary><strong>Q265) What is AWS CodeDeploy?</strong></summary>
+  <p>Service for automated code deployments to EC2, Lambda, on-prem servers.</p>
+</details>
+
