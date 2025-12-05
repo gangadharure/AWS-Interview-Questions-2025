@@ -1329,3 +1329,8 @@
   <p>Lightweight packages bundling app code and dependencies.</p>
 </details>
 
+<details>
+  <summary><strong>Q267) Difference between Docker and VM?</strong></summary>
+  <p>Docker = OS-level virtualization, lightweight. VMs = hardware-level virtualization, heavier.</p>
+</details>
+
