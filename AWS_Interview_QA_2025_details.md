@@ -1324,3 +1324,8 @@
   <p>Service for automated code deployments to EC2, Lambda, on-prem servers.</p>
 </details>
 
+<details>
+  <summary><strong>Q266) What are containers?</strong></summary>
+  <p>Lightweight packages bundling app code and dependencies.</p>
+</details>
+
