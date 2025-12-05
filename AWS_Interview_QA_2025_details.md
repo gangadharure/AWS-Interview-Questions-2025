@@ -1339,3 +1339,8 @@
   <p>Use ECS or EKS.</p>
 </details>
 
+<details>
+  <summary><strong>Q269) What is ECS?</strong></summary>
+  <p>AWS native container orchestration service.</p>
+</details>
+
