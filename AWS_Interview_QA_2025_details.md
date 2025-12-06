@@ -1354,3 +1354,8 @@
   <p>PaaS for deploying applications without managing infra.</p>
 </details>
 
+<details>
+  <summary><strong>Q272) How to deploy using Elastic Beanstalk?</strong></summary>
+  <p>Upload app via console, CLI, or CI/CD pipeline.</p>
+</details>
+
