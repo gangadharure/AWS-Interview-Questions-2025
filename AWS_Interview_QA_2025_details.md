@@ -1364,3 +1364,8 @@
   <p>Serverless compute service executing code in response to events.</p>
 </details>
 
+<details>
+  <summary><strong>Q274) How does Lambda integrate with CI/CD?</strong></summary>
+  <p>Functions deployed via CodePipeline/CodeDeploy.</p>
+</details>
+
