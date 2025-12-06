@@ -1344,3 +1344,8 @@
   <p>AWS native container orchestration service.</p>
 </details>
 
+<details>
+  <summary><strong>Q270) What is EKS?</strong></summary>
+  <p>Managed Kubernetes control plane service in AWS.</p>
+</details>
+
