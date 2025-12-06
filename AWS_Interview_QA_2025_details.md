@@ -1359,3 +1359,8 @@
   <p>Upload app via console, CLI, or CI/CD pipeline.</p>
 </details>
 
+<details>
+  <summary><strong>Q273) What is AWS Lambda?</strong></summary>
+  <p>Serverless compute service executing code in response to events.</p>
+</details>
+
