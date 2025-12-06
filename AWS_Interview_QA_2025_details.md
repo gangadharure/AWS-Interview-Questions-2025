@@ -1349,3 +1349,8 @@
   <p>Managed Kubernetes control plane service in AWS.</p>
 </details>
 
+<details>
+  <summary><strong>Q271) What is Elastic Beanstalk?</strong></summary>
+  <p>PaaS for deploying applications without managing infra.</p>
+</details>
+
