@@ -1389,3 +1389,8 @@
   <p>Use Auto Scaling Groups with CloudWatch policies.</p>
 </details>
 
+<details>
+  <summary><strong>Q279) What is Elastic Load Balancer (ELB)?</strong></summary>
+  <p>Service distributing traffic across multiple targets.</p>
+</details>
+
