@@ -1384,3 +1384,8 @@
   <p>A virtual server in AWS.</p>
 </details>
 
+<details>
+  <summary><strong>Q278) How to auto-scale EC2 instances?</strong></summary>
+  <p>Use Auto Scaling Groups with CloudWatch policies.</p>
+</details>
+
