@@ -1379,3 +1379,8 @@
   <p>Resizable compute capacity in the cloud.</p>
 </details>
 
+<details>
+  <summary><strong>Q277) What is an EC2 instance?</strong></summary>
+  <p>A virtual server in AWS.</p>
+</details>
+
