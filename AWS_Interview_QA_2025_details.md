@@ -1374,3 +1374,8 @@
   <p>Max 15 min execution, 10 GB memory, library/runtime limits.</p>
 </details>
 
+<details>
+  <summary><strong>Q276) What is Amazon EC2?</strong></summary>
+  <p>Resizable compute capacity in the cloud.</p>
+</details>
+
