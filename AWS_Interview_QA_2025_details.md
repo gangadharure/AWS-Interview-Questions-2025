@@ -1369,3 +1369,8 @@
   <p>Functions deployed via CodePipeline/CodeDeploy.</p>
 </details>
 
+<details>
+  <summary><strong>Q275) What are Lambda limitations?</strong></summary>
+  <p>Max 15 min execution, 10 GB memory, library/runtime limits.</p>
+</details>
+
