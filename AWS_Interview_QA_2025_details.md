@@ -1414,3 +1414,8 @@
   <p>A group of AWS resources managed as a single unit.</p>
 </details>
 
+<details>
+  <summary><strong>Q284) How do you update a CloudFormation stack?</strong></summary>
+  <p>Modify template & apply updates.</p>
+</details>
+
