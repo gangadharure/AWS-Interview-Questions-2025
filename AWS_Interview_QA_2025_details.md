@@ -1394,3 +1394,8 @@
   <p>Service distributing traffic across multiple targets.</p>
 </details>
 
+<details>
+  <summary><strong>Q280) Types of load balancers?</strong></summary>
+  <p>ALB, NLB, Gateway Load Balancer.</p>
+</details>
+
