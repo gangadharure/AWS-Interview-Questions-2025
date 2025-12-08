@@ -1399,3 +1399,8 @@
   <p>ALB, NLB, Gateway Load Balancer.</p>
 </details>
 
+<details>
+  <summary><strong>Q281) What is CloudFormation?</strong></summary>
+  <p>IaC service for modeling & provisioning infra using templates.</p>
+</details>
+
