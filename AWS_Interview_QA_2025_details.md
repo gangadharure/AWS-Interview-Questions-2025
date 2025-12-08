@@ -1409,3 +1409,8 @@
   <p>Automates infra provisioning and ensures consistency.</p>
 </details>
 
+<details>
+  <summary><strong>Q283) What is a CloudFormation stack?</strong></summary>
+  <p>A group of AWS resources managed as a single unit.</p>
+</details>
+
