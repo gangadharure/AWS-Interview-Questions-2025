@@ -1404,3 +1404,8 @@
   <p>IaC service for modeling & provisioning infra using templates.</p>
 </details>
 
+<details>
+  <summary><strong>Q282) How does CloudFormation help DevOps?</strong></summary>
+  <p>Automates infra provisioning and ensures consistency.</p>
+</details>
+
