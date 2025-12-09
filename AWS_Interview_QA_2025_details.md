@@ -1434,3 +1434,8 @@
   <p>Threshold-based triggers for metrics, enabling notifications or scaling.</p>
 </details>
 
+<details>
+  <summary><strong>Q288) What is CloudTrail?</strong></summary>
+  <p>Logs API calls for auditing and compliance.</p>
+</details>
+
