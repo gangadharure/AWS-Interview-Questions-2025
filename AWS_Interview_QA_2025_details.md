@@ -1429,3 +1429,8 @@
   <p>AWS monitoring service for metrics, logs, alarms.</p>
 </details>
 
+<details>
+  <summary><strong>Q287) What are CloudWatch Alarms?</strong></summary>
+  <p>Threshold-based triggers for metrics, enabling notifications or scaling.</p>
+</details>
+
