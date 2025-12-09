@@ -1439,3 +1439,8 @@
   <p>Logs API calls for auditing and compliance.</p>
 </details>
 
+<details>
+  <summary><strong>Q289) What is AWS X-Ray?</strong></summary>
+  <p>Service for tracing/debugging distributed apps.</p>
+</details>
+
