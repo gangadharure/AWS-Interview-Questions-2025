@@ -1419,3 +1419,8 @@
   <p>Modify template & apply updates.</p>
 </details>
 
+<details>
+  <summary><strong>Q285) Can you roll back CloudFormation changes?</strong></summary>
+  <p>Yes, rollback on failure restores last good state.</p>
+</details>
+
