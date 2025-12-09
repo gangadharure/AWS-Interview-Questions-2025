@@ -1424,3 +1424,8 @@
   <p>Yes, rollback on failure restores last good state.</p>
 </details>
 
+<details>
+  <summary><strong>Q286) What is CloudWatch?</strong></summary>
+  <p>AWS monitoring service for metrics, logs, alarms.</p>
+</details>
+
