@@ -1464,3 +1464,8 @@
   <p>JSON doc defining allowed/denied actions.</p>
 </details>
 
+<details>
+  <summary><strong>Q294) How to secure CI/CD pipeline in AWS?</strong></summary>
+  <p>Use IAM roles, encryption, and logging.</p>
+</details>
+
