@@ -1449,3 +1449,8 @@
   <p>Use alarms to trigger deployments/rollbacks.</p>
 </details>
 
+<details>
+  <summary><strong>Q291) What is IAM?</strong></summary>
+  <p>Identity and Access Management for AWS resources.</p>
+</details>
+
