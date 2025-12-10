@@ -1444,3 +1444,8 @@
   <p>Service for tracing/debugging distributed apps.</p>
 </details>
 
+<details>
+  <summary><strong>Q290) How to integrate CloudWatch with CI/CD?</strong></summary>
+  <p>Use alarms to trigger deployments/rollbacks.</p>
+</details>
+
