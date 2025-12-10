@@ -1454,3 +1454,8 @@
   <p>Identity and Access Management for AWS resources.</p>
 </details>
 
+<details>
+  <summary><strong>Q292) What are IAM roles?</strong></summary>
+  <p>Temporary credentials for AWS services/apps.</p>
+</details>
+
