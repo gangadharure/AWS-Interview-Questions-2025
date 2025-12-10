@@ -1459,3 +1459,8 @@
   <p>Temporary credentials for AWS services/apps.</p>
 </details>
 
+<details>
+  <summary><strong>Q293) What is an IAM policy?</strong></summary>
+  <p>JSON doc defining allowed/denied actions.</p>
+</details>
+
