@@ -1489,3 +1489,8 @@
   <p>Use TLS/SSL for transit, KMS/EBS/S3 encryption for rest.</p>
 </details>
 
+<details>
+  <summary><strong>Q299) How to implement MFA in AWS?</strong></summary>
+  <p>Enable MFA for IAM users/roles.</p>
+</details>
+
