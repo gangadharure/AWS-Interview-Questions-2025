@@ -1484,3 +1484,8 @@
   <p>Web App Firewall blocking SQLi/XSS/etc.</p>
 </details>
 
+<details>
+  <summary><strong>Q298) How to secure data in transit & at rest?</strong></summary>
+  <p>Use TLS/SSL for transit, KMS/EBS/S3 encryption for rest.</p>
+</details>
+
