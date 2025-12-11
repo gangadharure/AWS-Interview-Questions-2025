@@ -1479,3 +1479,8 @@
   <p>DDoS protection service (Standard/Advanced).</p>
 </details>
 
+<details>
+  <summary><strong>Q297) What is AWS WAF?</strong></summary>
+  <p>Web App Firewall blocking SQLi/XSS/etc.</p>
+</details>
+
