@@ -1469,3 +1469,8 @@
   <p>Use IAM roles, encryption, and logging.</p>
 </details>
 
+<details>
+  <summary><strong>Q295) What is AWS KMS?</strong></summary>
+  <p>Managed service for encryption key management.</p>
+</details>
+
