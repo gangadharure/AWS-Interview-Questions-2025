@@ -1474,3 +1474,8 @@
   <p>Managed service for encryption key management.</p>
 </details>
 
+<details>
+  <summary><strong>Q296) What is AWS Shield?</strong></summary>
+  <p>DDoS protection service (Standard/Advanced).</p>
+</details>
+
