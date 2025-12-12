@@ -1494,3 +1494,8 @@
   <p>Enable MFA for IAM users/roles.</p>
 </details>
 
+<details>
+  <summary><strong>Q300) What is AWS Secrets Manager?</strong></summary>
+  <p>Service to securely store, rotate, and retrieve secrets.</p>
+</details>
+
