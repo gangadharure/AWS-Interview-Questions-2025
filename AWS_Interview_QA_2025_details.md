@@ -1514,3 +1514,8 @@
   <p>CodeCommit = AWS-native, private. GitHub = external, community-focused.</p>
 </details>
 
+<details>
+  <summary><strong>Q304) How to deploy from CodeCommit to EC2?</strong></summary>
+  <p>Use CodePipeline + CodeDeploy integration.</p>
+</details>
+
