@@ -1509,3 +1509,8 @@
   <p>Triggers CodePipeline on commits.</p>
 </details>
 
+<details>
+  <summary><strong>Q303) Difference between CodeCommit and GitHub?</strong></summary>
+  <p>CodeCommit = AWS-native, private. GitHub = external, community-focused.</p>
+</details>
+
