@@ -1504,3 +1504,8 @@
   <p>Managed Git repo service in AWS.</p>
 </details>
 
+<details>
+  <summary><strong>Q302) How does CodeCommit integrate with CI/CD?</strong></summary>
+  <p>Triggers CodePipeline on commits.</p>
+</details>
+
