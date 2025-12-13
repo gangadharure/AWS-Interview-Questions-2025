@@ -1529,3 +1529,8 @@
   <p>Service to adjust capacity dynamically for performance/cost.</p>
 </details>
 
+<details>
+  <summary><strong>Q307) How does Auto Scaling work with EC2?</strong></summary>
+  <p>Uses ASGs and scaling policies based on metrics.</p>
+</details>
+
