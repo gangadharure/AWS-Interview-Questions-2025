@@ -1539,3 +1539,8 @@
   <p>Vertical = bigger instance. Horizontal = more instances.</p>
 </details>
 
+<details>
+  <summary><strong>Q309) What is a Launch Configuration?</strong></summary>
+  <p>Template with AMI, instance type, key, SG used by ASG.</p>
+</details>
+
