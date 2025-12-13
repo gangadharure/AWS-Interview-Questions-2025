@@ -1534,3 +1534,8 @@
   <p>Uses ASGs and scaling policies based on metrics.</p>
 </details>
 
+<details>
+  <summary><strong>Q308) Vertical vs Horizontal Scaling?</strong></summary>
+  <p>Vertical = bigger instance. Horizontal = more instances.</p>
+</details>
+
