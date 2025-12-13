@@ -1524,3 +1524,8 @@
   <p>Yes, via SDKs/APIs and webhooks.</p>
 </details>
 
+<details>
+  <summary><strong>Q306) What is AWS Auto Scaling?</strong></summary>
+  <p>Service to adjust capacity dynamically for performance/cost.</p>
+</details>
+
