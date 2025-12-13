@@ -1519,3 +1519,8 @@
   <p>Use CodePipeline + CodeDeploy integration.</p>
 </details>
 
+<details>
+  <summary><strong>Q305) Can CodeCommit integrate with Jenkins?</strong></summary>
+  <p>Yes, via SDKs/APIs and webhooks.</p>
+</details>
+
