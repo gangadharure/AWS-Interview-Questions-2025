@@ -1544,3 +1544,8 @@
   <p>Template with AMI, instance type, key, SG used by ASG.</p>
 </details>
 
+<details>
+  <summary><strong>Q310) How to build HA system with ASG + ELB?</strong></summary>
+  <p>Spread across AZs, health checks, load balancing.</p>
+</details>
+
