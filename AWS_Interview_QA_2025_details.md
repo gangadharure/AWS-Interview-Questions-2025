@@ -1559,3 +1559,8 @@
   <p>Standard, Intelligent-Tiering, Standard-IA, One Zone-IA, Glacier, Deep Archive.</p>
 </details>
 
+<details>
+  <summary><strong>Q313) What is versioning in S3?</strong></summary>
+  <p>Keeps multiple versions of objects.</p>
+</details>
+
