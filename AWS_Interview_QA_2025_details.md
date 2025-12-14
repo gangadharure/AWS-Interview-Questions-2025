@@ -1554,3 +1554,8 @@
   <p>Object storage service.</p>
 </details>
 
+<details>
+  <summary><strong>Q312) S3 storage classes?</strong></summary>
+  <p>Standard, Intelligent-Tiering, Standard-IA, One Zone-IA, Glacier, Deep Archive.</p>
+</details>
+
