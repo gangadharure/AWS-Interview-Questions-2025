@@ -1549,3 +1549,8 @@
   <p>Spread across AZs, health checks, load balancing.</p>
 </details>
 
+<details>
+  <summary><strong>Q311) What is Amazon S3?</strong></summary>
+  <p>Object storage service.</p>
+</details>
+
