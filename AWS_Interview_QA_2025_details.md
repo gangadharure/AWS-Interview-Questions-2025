@@ -1564,3 +1564,8 @@
   <p>Keeps multiple versions of objects.</p>
 </details>
 
+<details>
+  <summary><strong>Q314) How does S3 encryption work?</strong></summary>
+  <p>SSE-S3, SSE-KMS, SSE-C, or client-side encryption.</p>
+</details>
+
