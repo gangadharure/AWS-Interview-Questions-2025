@@ -1569,3 +1569,8 @@
   <p>SSE-S3, SSE-KMS, SSE-C, or client-side encryption.</p>
 </details>
 
+<details>
+  <summary><strong>Q315) How do you manage S3 permissions?</strong></summary>
+  <p>Bucket policies, ACLs, IAM policies.</p>
+</details>
+
