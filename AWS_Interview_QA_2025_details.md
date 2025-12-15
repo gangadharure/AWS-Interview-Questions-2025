@@ -1579,3 +1579,8 @@
   <p>Isolated private cloud network in AWS.</p>
 </details>
 
+<details>
+  <summary><strong>Q317) What is a subnet?</strong></summary>
+  <p>IP range inside a VPC (public/private).</p>
+</details>
+
