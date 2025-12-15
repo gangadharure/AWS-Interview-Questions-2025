@@ -1584,3 +1584,8 @@
   <p>IP range inside a VPC (public/private).</p>
 </details>
 
+<details>
+  <summary><strong>Q318) What is an Internet Gateway?</strong></summary>
+  <p>Component allowing VPC ↔ internet communication.</p>
+</details>
+
