@@ -1589,3 +1589,8 @@
   <p>Component allowing VPC ↔ internet communication.</p>
 </details>
 
+<details>
+  <summary><strong>Q319) What is a NAT Gateway?</strong></summary>
+  <p>Allows private subnet → internet access.</p>
+</details>
+
