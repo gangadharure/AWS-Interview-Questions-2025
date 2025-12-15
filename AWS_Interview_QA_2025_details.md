@@ -1574,3 +1574,8 @@
   <p>Bucket policies, ACLs, IAM policies.</p>
 </details>
 
+<details>
+  <summary><strong>Q316) What is a VPC?</strong></summary>
+  <p>Isolated private cloud network in AWS.</p>
+</details>
+
