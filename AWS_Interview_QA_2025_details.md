@@ -1594,3 +1594,8 @@
   <p>Allows private subnet → internet access.</p>
 </details>
 
+<details>
+  <summary><strong>Q320) Difference between SG and NACL?</strong></summary>
+  <p>SG = stateful, instance level. NACL = stateless, subnet level.</p>
+</details>
+
