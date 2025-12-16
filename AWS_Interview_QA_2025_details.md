@@ -1609,3 +1609,8 @@
   <p>Dedicated physical connection from on-prem to AWS.</p>
 </details>
 
+<details>
+  <summary><strong>Q323) How to achieve HA in a VPC?</strong></summary>
+  <p>Multi-AZ setup, ELB, failover mechanisms.</p>
+</details>
+
