@@ -1614,3 +1614,8 @@
   <p>Multi-AZ setup, ELB, failover mechanisms.</p>
 </details>
 
+<details>
+  <summary><strong>Q324) What is Route 53?</strong></summary>
+  <p>DNS and domain management service.</p>
+</details>
+
