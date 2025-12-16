@@ -1599,3 +1599,8 @@
   <p>SG = stateful, instance level. NACL = stateless, subnet level.</p>
 </details>
 
+<details>
+  <summary><strong>Q321) What is VPC Peering?</strong></summary>
+  <p>Private routing between two VPCs.</p>
+</details>
+
