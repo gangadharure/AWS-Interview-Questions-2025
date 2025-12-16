@@ -1604,3 +1604,8 @@
   <p>Private routing between two VPCs.</p>
 </details>
 
+<details>
+  <summary><strong>Q322) What is AWS Direct Connect?</strong></summary>
+  <p>Dedicated physical connection from on-prem to AWS.</p>
+</details>
+
