@@ -1624,3 +1624,8 @@
   <p>Use Route 53 failover, replicate data across regions (e.g., S3 CRR).</p>
 </details>
 
+<details>
+  <summary><strong>Q326) What is Amazon ECS?</strong></summary>
+  <p>AWS native container orchestration service.</p>
+</details>
+
