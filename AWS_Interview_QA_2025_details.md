@@ -1639,3 +1639,8 @@
   <p>Running instance of a task definition (container config).</p>
 </details>
 
+<details>
+  <summary><strong>Q329) What is Fargate in ECS?</strong></summary>
+  <p>Serverless engine for running containers without infra management.</p>
+</details>
+
