@@ -1629,3 +1629,8 @@
   <p>AWS native container orchestration service.</p>
 </details>
 
+<details>
+  <summary><strong>Q327) Difference between ECS and EKS?</strong></summary>
+  <p>ECS = AWS-native, EKS = managed Kubernetes.</p>
+</details>
+
