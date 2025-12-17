@@ -1634,3 +1634,8 @@
   <p>ECS = AWS-native, EKS = managed Kubernetes.</p>
 </details>
 
+<details>
+  <summary><strong>Q328) What is an ECS Task?</strong></summary>
+  <p>Running instance of a task definition (container config).</p>
+</details>
+
