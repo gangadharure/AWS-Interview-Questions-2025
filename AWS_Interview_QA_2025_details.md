@@ -1619,3 +1619,8 @@
   <p>DNS and domain management service.</p>
 </details>
 
+<details>
+  <summary><strong>Q325) How to implement multi-region architecture?</strong></summary>
+  <p>Use Route 53 failover, replicate data across regions (e.g., S3 CRR).</p>
+</details>
+
