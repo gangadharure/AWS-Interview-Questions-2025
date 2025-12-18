@@ -1654,3 +1654,8 @@
   <p>Managed Kubernetes control plane service.</p>
 </details>
 
+<details>
+  <summary><strong>Q332) Difference between EKS and Kubernetes?</strong></summary>
+  <p>EKS is managed by AWS, Kubernetes requires self-management.</p>
+</details>
+
