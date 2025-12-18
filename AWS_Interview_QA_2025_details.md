@@ -1644,3 +1644,8 @@
   <p>Serverless engine for running containers without infra management.</p>
 </details>
 
+<details>
+  <summary><strong>Q330) How does ECS integrate with IAM?</strong></summary>
+  <p>IAM roles assigned to tasks for secure AWS access.</p>
+</details>
+
