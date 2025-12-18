@@ -1664,3 +1664,8 @@
   <p>Use `kubectl` or Helm charts on EKS cluster.</p>
 </details>
 
+<details>
+  <summary><strong>Q334) How does EKS integrate with IAM?</strong></summary>
+  <p>IAM roles mapped to Kubernetes service accounts.</p>
+</details>
+
