@@ -1649,3 +1649,8 @@
   <p>IAM roles assigned to tasks for secure AWS access.</p>
 </details>
 
+<details>
+  <summary><strong>Q331) What is Amazon EKS?</strong></summary>
+  <p>Managed Kubernetes control plane service.</p>
+</details>
+
