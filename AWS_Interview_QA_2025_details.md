@@ -1659,3 +1659,8 @@
   <p>EKS is managed by AWS, Kubernetes requires self-management.</p>
 </details>
 
+<details>
+  <summary><strong>Q333) How to deploy apps to EKS?</strong></summary>
+  <p>Use `kubectl` or Helm charts on EKS cluster.</p>
+</details>
+
