@@ -1669,3 +1669,8 @@
   <p>IAM roles mapped to Kubernetes service accounts.</p>
 </details>
 
+<details>
+  <summary><strong>Q335) What is eksctl?</strong></summary>
+  <p>CLI tool to simplify EKS cluster creation & management.</p>
+</details>
+
