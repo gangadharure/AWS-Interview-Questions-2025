@@ -1674,3 +1674,8 @@
   <p>CLI tool to simplify EKS cluster creation & management.</p>
 </details>
 
+<details>
+  <summary><strong>Q336) Lambda use cases?</strong></summary>
+  <p>Event-driven apps, stream processing, APIs, automation.</p>
+</details>
+
