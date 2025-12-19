@@ -1684,3 +1684,8 @@
   <p>Automatically scales with incoming requests.</p>
 </details>
 
+<details>
+  <summary><strong>Q338) What are cold starts?</strong></summary>
+  <p>Latency when a new Lambda container spins up.</p>
+</details>
+
