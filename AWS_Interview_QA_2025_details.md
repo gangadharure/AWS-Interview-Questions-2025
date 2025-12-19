@@ -1679,3 +1679,8 @@
   <p>Event-driven apps, stream processing, APIs, automation.</p>
 </details>
 
+<details>
+  <summary><strong>Q337) How does Lambda scale?</strong></summary>
+  <p>Automatically scales with incoming requests.</p>
+</details>
+
