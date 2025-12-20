@@ -1694,3 +1694,8 @@
   <p>Use provisioned concurrency, small package size, keep functions warm.</p>
 </details>
 
+<details>
+  <summary><strong>Q340) What is provisioned concurrency?</strong></summary>
+  <p>Pre-warmed Lambda instances to reduce cold start latency.</p>
+</details>
+
