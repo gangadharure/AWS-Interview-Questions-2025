@@ -1714,3 +1714,8 @@
   <p>Check deployment logs, CloudWatch logs, and configs.</p>
 </details>
 
+<details>
+  <summary><strong>Q344) What is AWS Trusted Advisor?</strong></summary>
+  <p>Guidance on cost, performance, security, and fault tolerance.</p>
+</details>
+
