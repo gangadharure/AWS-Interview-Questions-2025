@@ -1704,3 +1704,8 @@
   <p>Use CloudWatch metrics (invocations, duration, errors, throttles).</p>
 </details>
 
+<details>
+  <summary><strong>Q342) What is CloudTrail?</strong></summary>
+  <p>Logs API calls for auditing.</p>
+</details>
+
