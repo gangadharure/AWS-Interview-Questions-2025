@@ -1699,3 +1699,8 @@
   <p>Pre-warmed Lambda instances to reduce cold start latency.</p>
 </details>
 
+<details>
+  <summary><strong>Q341) How to monitor Lambda?</strong></summary>
+  <p>Use CloudWatch metrics (invocations, duration, errors, throttles).</p>
+</details>
+
