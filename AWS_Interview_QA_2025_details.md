@@ -1709,3 +1709,8 @@
   <p>Logs API calls for auditing.</p>
 </details>
 
+<details>
+  <summary><strong>Q343) How to troubleshoot failed CodeDeploy deployments?</strong></summary>
+  <p>Check deployment logs, CloudWatch logs, and configs.</p>
+</details>
+
