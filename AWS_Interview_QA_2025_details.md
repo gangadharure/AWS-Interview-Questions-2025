@@ -1729,3 +1729,8 @@
   <p>ALB = Layer 7 (HTTP/HTTPS). NLB = Layer 4 (TCP/UDP).</p>
 </details>
 
+<details>
+  <summary><strong>Q347) How does ALB handle routing?</strong></summary>
+  <p>Rules based on URL path, hostname, headers.</p>
+</details>
+
