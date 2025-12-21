@@ -1724,3 +1724,8 @@
   <p>Centralized log storage and analysis service.</p>
 </details>
 
+<details>
+  <summary><strong>Q346) Difference between ALB and NLB?</strong></summary>
+  <p>ALB = Layer 7 (HTTP/HTTPS). NLB = Layer 4 (TCP/UDP).</p>
+</details>
+
