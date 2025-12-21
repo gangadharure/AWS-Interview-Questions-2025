@@ -1739,3 +1739,8 @@
   <p>Decrypting SSL at LB level; ELB manages SSL certs.</p>
 </details>
 
+<details>
+  <summary><strong>Q349) What are sticky sessions?</strong></summary>
+  <p>Binding a user session to the same backend instance.</p>
+</details>
+
