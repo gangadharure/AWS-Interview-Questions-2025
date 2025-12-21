@@ -1719,3 +1719,8 @@
   <p>Guidance on cost, performance, security, and fault tolerance.</p>
 </details>
 
+<details>
+  <summary><strong>Q345) What are CloudWatch Logs?</strong></summary>
+  <p>Centralized log storage and analysis service.</p>
+</details>
+
