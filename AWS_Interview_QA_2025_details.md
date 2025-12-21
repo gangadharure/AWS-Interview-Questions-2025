@@ -1734,3 +1734,8 @@
   <p>Rules based on URL path, hostname, headers.</p>
 </details>
 
+<details>
+  <summary><strong>Q348) What is SSL termination?</strong></summary>
+  <p>Decrypting SSL at LB level; ELB manages SSL certs.</p>
+</details>
+
