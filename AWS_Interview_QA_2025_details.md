@@ -1759,3 +1759,8 @@
   <p>gp3/gp2, io2/io1, st1, sc1.</p>
 </details>
 
+<details>
+  <summary><strong>Q353) What is Amazon RDS?</strong></summary>
+  <p>Managed relational DB service.</p>
+</details>
+
