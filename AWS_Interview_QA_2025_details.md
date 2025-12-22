@@ -1749,3 +1749,8 @@
   <p>Evenly distributes traffic across all AZs.</p>
 </details>
 
+<details>
+  <summary><strong>Q351) What is Amazon EBS?</strong></summary>
+  <p>Persistent block storage for EC2.</p>
+</details>
+
