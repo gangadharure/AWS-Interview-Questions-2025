@@ -1764,3 +1764,8 @@
   <p>Managed relational DB service.</p>
 </details>
 
+<details>
+  <summary><strong>Q354) What is Aurora?</strong></summary>
+  <p>MySQL/Postgres-compatible managed DB with performance improvements.</p>
+</details>
+
