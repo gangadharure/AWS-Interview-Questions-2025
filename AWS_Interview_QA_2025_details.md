@@ -1754,3 +1754,8 @@
   <p>Persistent block storage for EC2.</p>
 </details>
 
+<details>
+  <summary><strong>Q352) Types of EBS volumes?</strong></summary>
+  <p>gp3/gp2, io2/io1, st1, sc1.</p>
+</details>
+
