@@ -1744,3 +1744,8 @@
   <p>Binding a user session to the same backend instance.</p>
 </details>
 
+<details>
+  <summary><strong>Q350) What is Cross-Zone Load Balancing?</strong></summary>
+  <p>Evenly distributes traffic across all AZs.</p>
+</details>
+
