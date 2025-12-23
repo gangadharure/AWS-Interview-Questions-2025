@@ -1779,3 +1779,8 @@
   <p>Managed NoSQL database with high performance and scalability.</p>
 </details>
 
+<details>
+  <summary><strong>Q357) What is Amazon S3?</strong></summary>
+  <p>Object storage service to store and retrieve any amount of data securely.</p>
+</details>
+
