@@ -1784,3 +1784,8 @@
   <p>Object storage service to store and retrieve any amount of data securely.</p>
 </details>
 
+<details>
+  <summary><strong>Q358) What is EC2 in AWS?</strong></summary>
+  <p>Elastic Compute Cloud, providing virtual servers in the AWS cloud.</p>
+</details>
+
