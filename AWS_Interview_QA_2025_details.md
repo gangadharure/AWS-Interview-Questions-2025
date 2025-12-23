@@ -1769,3 +1769,8 @@
   <p>MySQL/Postgres-compatible managed DB with performance improvements.</p>
 </details>
 
+<details>
+  <summary><strong>Q355) What is DynamoDB?</strong></summary>
+  <p>Managed NoSQL database with high performance and scalability.</p>
+</details>
+
