@@ -1789,3 +1789,8 @@
   <p>Elastic Compute Cloud, providing virtual servers in the AWS cloud.</p>
 </details>
 
+<details>
+  <summary><strong>Q359) What is an AMI?</strong></summary>
+  <p>Amazon Machine Image - a template for launching EC2 instances.</p>
+</details>
+
