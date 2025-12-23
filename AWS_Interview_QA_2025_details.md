@@ -1774,3 +1774,8 @@
   <p>Managed NoSQL database with high performance and scalability.</p>
 </details>
 
+<details>
+  <summary><strong>Q356) What is DynamoDB?</strong></summary>
+  <p>Managed NoSQL database with high performance and scalability.</p>
+</details>
+
