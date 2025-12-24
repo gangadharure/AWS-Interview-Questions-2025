@@ -1809,3 +1809,8 @@
   <p>Allows private subnets to access the internet securely.</p>
 </details>
 
+<details>
+  <summary><strong>Q363) What is an Elastic Load Balancer (ELB)?</strong></summary>
+  <p>Distributes incoming traffic across multiple targets (EC2, containers).</p>
+</details>
+
