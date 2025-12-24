@@ -1804,3 +1804,8 @@
   <p>Enables communication between VPC and the internet.</p>
 </details>
 
+<details>
+  <summary><strong>Q362) What is a NAT Gateway?</strong></summary>
+  <p>Allows private subnets to access the internet securely.</p>
+</details>
+
