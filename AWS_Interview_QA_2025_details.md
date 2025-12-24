@@ -1799,3 +1799,8 @@
   <p>Virtual Private Cloud - isolated virtual network for your AWS resources.</p>
 </details>
 
+<details>
+  <summary><strong>Q361) What is an Internet Gateway?</strong></summary>
+  <p>Enables communication between VPC and the internet.</p>
+</details>
+
