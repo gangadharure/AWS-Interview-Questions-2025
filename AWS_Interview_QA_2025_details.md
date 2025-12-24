@@ -1794,3 +1794,8 @@
   <p>Amazon Machine Image - a template for launching EC2 instances.</p>
 </details>
 
+<details>
+  <summary><strong>Q360) What is an AWS VPC?</strong></summary>
+  <p>Virtual Private Cloud - isolated virtual network for your AWS resources.</p>
+</details>
+
