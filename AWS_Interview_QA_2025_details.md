@@ -1814,3 +1814,8 @@
   <p>Distributes incoming traffic across multiple targets (EC2, containers).</p>
 </details>
 
+<details>
+  <summary><strong>Q364) What is Auto Scaling?</strong></summary>
+  <p>Automatically adjusts EC2 instances based on traffic or load.</p>
+</details>
+
