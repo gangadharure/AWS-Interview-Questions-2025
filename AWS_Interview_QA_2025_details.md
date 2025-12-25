@@ -1824,3 +1824,8 @@
   <p>Serverless compute service that runs code in response to events.</p>
 </details>
 
+<details>
+  <summary><strong>Q366) What is Amazon CloudWatch?</strong></summary>
+  <p>Monitoring and observability service for metrics and logs.</p>
+</details>
+
