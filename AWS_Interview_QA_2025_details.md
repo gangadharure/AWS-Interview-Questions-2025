@@ -1834,3 +1834,8 @@
   <p>Logs and tracks all AWS API activity for auditing.</p>
 </details>
 
+<details>
+  <summary><strong>Q368) What is IAM?</strong></summary>
+  <p>Identity and Access Management - controls user access to AWS resources.</p>
+</details>
+
