@@ -1829,3 +1829,8 @@
   <p>Monitoring and observability service for metrics and logs.</p>
 </details>
 
+<details>
+  <summary><strong>Q367) What is CloudTrail?</strong></summary>
+  <p>Logs and tracks all AWS API activity for auditing.</p>
+</details>
+
