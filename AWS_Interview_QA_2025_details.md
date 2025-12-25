@@ -1839,3 +1839,8 @@
   <p>Identity and Access Management - controls user access to AWS resources.</p>
 </details>
 
+<details>
+  <summary><strong>Q369) What is an IAM role?</strong></summary>
+  <p>Set of permissions assigned to AWS resources or users.</p>
+</details>
+
