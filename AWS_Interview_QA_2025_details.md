@@ -1819,3 +1819,8 @@
   <p>Automatically adjusts EC2 instances based on traffic or load.</p>
 </details>
 
+<details>
+  <summary><strong>Q365) What is AWS Lambda?</strong></summary>
+  <p>Serverless compute service that runs code in response to events.</p>
+</details>
+
