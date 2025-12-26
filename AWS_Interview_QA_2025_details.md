@@ -1864,3 +1864,8 @@
   <p>Infrastructure as Code (IaC) service for AWS resource provisioning.</p>
 </details>
 
+<details>
+  <summary><strong>Q374) What is AWS Route 53?</strong></summary>
+  <p>DNS and domain name management service.</p>
+</details>
+
