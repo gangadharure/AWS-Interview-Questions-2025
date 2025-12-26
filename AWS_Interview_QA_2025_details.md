@@ -1844,3 +1844,8 @@
   <p>Set of permissions assigned to AWS resources or users.</p>
 </details>
 
+<details>
+  <summary><strong>Q370) What is Amazon ECR?</strong></summary>
+  <p>Elastic Container Registry - a managed Docker image registry.</p>
+</details>
+
