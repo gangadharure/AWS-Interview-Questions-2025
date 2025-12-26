@@ -1854,3 +1854,8 @@
   <p>Elastic Container Service - orchestration for Docker containers.</p>
 </details>
 
+<details>
+  <summary><strong>Q372) What is Amazon EKS?</strong></summary>
+  <p>Managed Kubernetes service on AWS.</p>
+</details>
+
