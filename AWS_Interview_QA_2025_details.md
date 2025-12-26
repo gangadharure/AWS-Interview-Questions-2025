@@ -1849,3 +1849,8 @@
   <p>Elastic Container Registry - a managed Docker image registry.</p>
 </details>
 
+<details>
+  <summary><strong>Q371) What is Amazon ECS?</strong></summary>
+  <p>Elastic Container Service - orchestration for Docker containers.</p>
+</details>
+
