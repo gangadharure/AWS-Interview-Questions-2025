@@ -1859,3 +1859,8 @@
   <p>Managed Kubernetes service on AWS.</p>
 </details>
 
+<details>
+  <summary><strong>Q373) What is CloudFormation?</strong></summary>
+  <p>Infrastructure as Code (IaC) service for AWS resource provisioning.</p>
+</details>
+
