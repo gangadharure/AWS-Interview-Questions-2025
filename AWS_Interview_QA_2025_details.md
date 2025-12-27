@@ -1869,3 +1869,8 @@
   <p>DNS and domain name management service.</p>
 </details>
 
+<details>
+  <summary><strong>Q375) What is AWS RDS?</strong></summary>
+  <p>Managed relational database service supporting multiple engines.</p>
+</details>
+
