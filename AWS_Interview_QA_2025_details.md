@@ -1874,3 +1874,8 @@
   <p>Managed relational database service supporting multiple engines.</p>
 </details>
 
+<details>
+  <summary><strong>Q376) What is Amazon ElastiCache?</strong></summary>
+  <p>In-memory data store for caching using Redis or Memcached.</p>
+</details>
+
