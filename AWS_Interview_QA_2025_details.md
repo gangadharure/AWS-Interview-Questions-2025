@@ -1884,3 +1884,8 @@
   <p>Stores and manages access credentials securely.</p>
 </details>
 
+<details>
+  <summary><strong>Q378) What is AWS Systems Manager (SSM)?</strong></summary>
+  <p>Service for managing and automating operational tasks.</p>
+</details>
+
