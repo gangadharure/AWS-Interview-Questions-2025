@@ -1889,3 +1889,8 @@
   <p>Service for managing and automating operational tasks.</p>
 </details>
 
+<details>
+  <summary><strong>Q379) What is Terraform?</strong></summary>
+  <p>IaC tool for defining and provisioning infrastructure using code.</p>
+</details>
+
