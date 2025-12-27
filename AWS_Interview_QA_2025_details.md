@@ -1879,3 +1879,8 @@
   <p>In-memory data store for caching using Redis or Memcached.</p>
 </details>
 
+<details>
+  <summary><strong>Q377) What is AWS Secrets Manager?</strong></summary>
+  <p>Stores and manages access credentials securely.</p>
+</details>
+
