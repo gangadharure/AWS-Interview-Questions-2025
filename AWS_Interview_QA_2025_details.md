@@ -1894,3 +1894,8 @@
   <p>IaC tool for defining and provisioning infrastructure using code.</p>
 </details>
 
+<details>
+  <summary><strong>Q380) What is a Terraform provider?</strong></summary>
+  <p>Plugin that allows Terraform to interact with APIs of cloud platforms.</p>
+</details>
+
