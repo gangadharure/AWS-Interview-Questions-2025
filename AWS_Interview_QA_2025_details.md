@@ -1904,3 +1904,8 @@
   <p>Defines where Terraform stores its state file (e.g., S3, local).</p>
 </details>
 
+<details>
+  <summary><strong>Q382) What is a Terraform workspace?</strong></summary>
+  <p>Used for managing multiple environments with separate state files.</p>
+</details>
+
