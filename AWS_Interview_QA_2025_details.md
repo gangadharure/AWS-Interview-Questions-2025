@@ -1909,3 +1909,8 @@
   <p>Used for managing multiple environments with separate state files.</p>
 </details>
 
+<details>
+  <summary><strong>Q383) What is `terraform plan`?</strong></summary>
+  <p>Command to preview infrastructure changes before applying.</p>
+</details>
+
