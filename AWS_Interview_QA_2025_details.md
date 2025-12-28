@@ -1914,3 +1914,8 @@
   <p>Command to preview infrastructure changes before applying.</p>
 </details>
 
+<details>
+  <summary><strong>Q384) What is `terraform apply`?</strong></summary>
+  <p>Executes the configuration to create/update infrastructure.</p>
+</details>
+
