@@ -1899,3 +1899,8 @@
   <p>Plugin that allows Terraform to interact with APIs of cloud platforms.</p>
 </details>
 
+<details>
+  <summary><strong>Q381) What is a Terraform backend?</strong></summary>
+  <p>Defines where Terraform stores its state file (e.g., S3, local).</p>
+</details>
+
