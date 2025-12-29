@@ -1919,3 +1919,8 @@
   <p>Executes the configuration to create/update infrastructure.</p>
 </details>
 
+<details>
+  <summary><strong>Q385) What is `terraform destroy`?</strong></summary>
+  <p>Removes all managed infrastructure resources.</p>
+</details>
+
