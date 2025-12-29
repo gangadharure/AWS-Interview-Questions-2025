@@ -1929,3 +1929,8 @@
   <p>A reusable group of Terraform configurations.</p>
 </details>
 
+<details>
+  <summary><strong>Q387) What is `terraform import`?</strong></summary>
+  <p>Brings existing resources into Terraform management.</p>
+</details>
+
