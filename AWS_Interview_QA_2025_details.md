@@ -1939,3 +1939,8 @@
   <p>Updates the state file with real resource states.</p>
 </details>
 
+<details>
+  <summary><strong>Q389) What is Docker?</strong></summary>
+  <p>Platform to package applications and dependencies into portable containers.</p>
+</details>
+
