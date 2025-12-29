@@ -1924,3 +1924,8 @@
   <p>Removes all managed infrastructure resources.</p>
 </details>
 
+<details>
+  <summary><strong>Q386) What is a Terraform module?</strong></summary>
+  <p>A reusable group of Terraform configurations.</p>
+</details>
+
