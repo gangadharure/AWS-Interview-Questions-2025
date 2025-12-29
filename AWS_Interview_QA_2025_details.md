@@ -1934,3 +1934,8 @@
   <p>Brings existing resources into Terraform management.</p>
 </details>
 
+<details>
+  <summary><strong>Q388) What is `terraform refresh`?</strong></summary>
+  <p>Updates the state file with real resource states.</p>
+</details>
+
