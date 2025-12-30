@@ -1954,3 +1954,8 @@
   <p>Running instance of a Docker image.</p>
 </details>
 
+<details>
+  <summary><strong>Q392) What is a Dockerfile?</strong></summary>
+  <p>Text file containing instructions to build a Docker image.</p>
+</details>
+
