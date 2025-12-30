@@ -1964,3 +1964,8 @@
   <p>Tool for defining and running multi-container Docker applications.</p>
 </details>
 
+<details>
+  <summary><strong>Q394) What is Docker Hub?</strong></summary>
+  <p>Public registry for storing and sharing Docker images.</p>
+</details>
+
