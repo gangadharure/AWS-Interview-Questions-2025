@@ -1949,3 +1949,8 @@
   <p>Immutable blueprint used to create containers.</p>
 </details>
 
+<details>
+  <summary><strong>Q391) What is a Docker container?</strong></summary>
+  <p>Running instance of a Docker image.</p>
+</details>
+
