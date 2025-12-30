@@ -1959,3 +1959,8 @@
   <p>Text file containing instructions to build a Docker image.</p>
 </details>
 
+<details>
+  <summary><strong>Q393) What is Docker Compose?</strong></summary>
+  <p>Tool for defining and running multi-container Docker applications.</p>
+</details>
+
