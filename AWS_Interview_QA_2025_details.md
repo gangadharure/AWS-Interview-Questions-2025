@@ -1944,3 +1944,8 @@
   <p>Platform to package applications and dependencies into portable containers.</p>
 </details>
 
+<details>
+  <summary><strong>Q390) What is a Docker image?</strong></summary>
+  <p>Immutable blueprint used to create containers.</p>
+</details>
+
