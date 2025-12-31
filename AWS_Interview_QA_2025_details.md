@@ -1969,3 +1969,8 @@
   <p>Public registry for storing and sharing Docker images.</p>
 </details>
 
+<details>
+  <summary><strong>Q395) What is the difference between CMD and ENTRYPOINT?</strong></summary>
+  <p>CMD provides defaults; ENTRYPOINT defines the executable.</p>
+</details>
+
