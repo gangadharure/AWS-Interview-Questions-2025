@@ -1974,3 +1974,8 @@
   <p>CMD provides defaults; ENTRYPOINT defines the executable.</p>
 </details>
 
+<details>
+  <summary><strong>Q396) What is a Docker volume?</strong></summary>
+  <p>Persistent storage for Docker containers.</p>
+</details>
+
