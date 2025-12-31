@@ -1979,3 +1979,8 @@
   <p>Persistent storage for Docker containers.</p>
 </details>
 
+<details>
+  <summary><strong>Q397) How do you remove unused containers and images?</strong></summary>
+  <p>`docker system prune -a`</p>
+</details>
+
