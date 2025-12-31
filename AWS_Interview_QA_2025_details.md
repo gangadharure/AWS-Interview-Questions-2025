@@ -1984,3 +1984,8 @@
   <p>`docker system prune -a`</p>
 </details>
 
+<details>
+  <summary><strong>Q398) What is Kubernetes?</strong></summary>
+  <p>Open-source system for automating deployment, scaling, and management of containers.</p>
+</details>
+
