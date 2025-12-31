@@ -1989,3 +1989,8 @@
   <p>Open-source system for automating deployment, scaling, and management of containers.</p>
 </details>
 
+<details>
+  <summary><strong>Q399) What is a Pod?</strong></summary>
+  <p>Smallest deployable unit in Kubernetes containing containers.</p>
+</details>
+
