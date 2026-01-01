@@ -2014,3 +2014,8 @@
   <p>Ensures pods run on all (or selected) nodes.</p>
 </details>
 
+<details>
+  <summary><strong>Q404) What is a Service in Kubernetes?</strong></summary>
+  <p>Provides stable networking for accessing pods.</p>
+</details>
+
