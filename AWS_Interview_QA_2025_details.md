@@ -1999,3 +1999,8 @@
   <p>Ensures a specified number of pod replicas are running.</p>
 </details>
 
+<details>
+  <summary><strong>Q401) What is a Deployment?</strong></summary>
+  <p>Manages rolling updates and rollback for pods.</p>
+</details>
+
