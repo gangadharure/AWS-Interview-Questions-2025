@@ -1994,3 +1994,8 @@
   <p>Smallest deployable unit in Kubernetes containing containers.</p>
 </details>
 
+<details>
+  <summary><strong>Q400) What is a ReplicaSet?</strong></summary>
+  <p>Ensures a specified number of pod replicas are running.</p>
+</details>
+
