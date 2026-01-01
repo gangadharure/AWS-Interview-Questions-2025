@@ -2004,3 +2004,8 @@
   <p>Manages rolling updates and rollback for pods.</p>
 </details>
 
+<details>
+  <summary><strong>Q402) What is a StatefulSet?</strong></summary>
+  <p>Manages stateful applications like databases.</p>
+</details>
+
