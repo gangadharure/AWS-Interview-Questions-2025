@@ -2009,3 +2009,8 @@
   <p>Manages stateful applications like databases.</p>
 </details>
 
+<details>
+  <summary><strong>Q403) What is a DaemonSet?</strong></summary>
+  <p>Ensures pods run on all (or selected) nodes.</p>
+</details>
+
