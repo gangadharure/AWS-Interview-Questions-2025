@@ -2024,3 +2024,8 @@
   <p>Manages external HTTP/HTTPS access to services.</p>
 </details>
 
+<details>
+  <summary><strong>Q406) What is a ConfigMap?</strong></summary>
+  <p>Stores configuration data as key-value pairs.</p>
+</details>
+
