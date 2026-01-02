@@ -2034,3 +2034,8 @@
   <p>Stores sensitive data such as passwords and tokens.</p>
 </details>
 
+<details>
+  <summary><strong>Q408) What is a Persistent Volume (PV)?</strong></summary>
+  <p>Cluster-wide storage resource.</p>
+</details>
+
