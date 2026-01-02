@@ -2039,3 +2039,8 @@
   <p>Cluster-wide storage resource.</p>
 </details>
 
+<details>
+  <summary><strong>Q409) What is a Persistent Volume Claim (PVC)?</strong></summary>
+  <p>User request for storage resource.</p>
+</details>
+
