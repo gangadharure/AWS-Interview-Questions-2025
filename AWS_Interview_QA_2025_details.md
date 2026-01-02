@@ -2029,3 +2029,8 @@
   <p>Stores configuration data as key-value pairs.</p>
 </details>
 
+<details>
+  <summary><strong>Q407) What is a Secret?</strong></summary>
+  <p>Stores sensitive data such as passwords and tokens.</p>
+</details>
+
