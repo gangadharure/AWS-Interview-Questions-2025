@@ -2019,3 +2019,8 @@
   <p>Provides stable networking for accessing pods.</p>
 </details>
 
+<details>
+  <summary><strong>Q405) What is an Ingress?</strong></summary>
+  <p>Manages external HTTP/HTTPS access to services.</p>
+</details>
+
