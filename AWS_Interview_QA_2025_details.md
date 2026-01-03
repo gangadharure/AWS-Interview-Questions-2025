@@ -2064,3 +2064,8 @@
   <p>Scripted process defining CI/CD stages.</p>
 </details>
 
+<details>
+  <summary><strong>Q414) What is a Jenkinsfile?</strong></summary>
+  <p>Text file containing pipeline-as-code.</p>
+</details>
+
