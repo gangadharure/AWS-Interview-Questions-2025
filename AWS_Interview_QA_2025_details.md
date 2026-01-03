@@ -2054,3 +2054,8 @@
   <p>Kubernetes package manager for managing deployments.</p>
 </details>
 
+<details>
+  <summary><strong>Q412) What is Jenkins?</strong></summary>
+  <p>Open-source automation server for building and deploying code.</p>
+</details>
+
