@@ -2049,3 +2049,8 @@
   <p>Logical partition of a Kubernetes cluster.</p>
 </details>
 
+<details>
+  <summary><strong>Q411) What is Helm?</strong></summary>
+  <p>Kubernetes package manager for managing deployments.</p>
+</details>
+
