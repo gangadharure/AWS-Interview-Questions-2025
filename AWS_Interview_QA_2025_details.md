@@ -2044,3 +2044,8 @@
   <p>User request for storage resource.</p>
 </details>
 
+<details>
+  <summary><strong>Q410) What is a Namespace?</strong></summary>
+  <p>Logical partition of a Kubernetes cluster.</p>
+</details>
+
