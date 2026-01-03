@@ -2059,3 +2059,8 @@
   <p>Open-source automation server for building and deploying code.</p>
 </details>
 
+<details>
+  <summary><strong>Q413) What is a Jenkins Pipeline?</strong></summary>
+  <p>Scripted process defining CI/CD stages.</p>
+</details>
+
