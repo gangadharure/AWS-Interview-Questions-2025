@@ -2084,3 +2084,8 @@
   <p>Worker nodes that execute jobs.</p>
 </details>
 
+<details>
+  <summary><strong>Q418) How do you trigger Jenkins builds automatically?</strong></summary>
+  <p>Using SCM webhooks or scheduled triggers.</p>
+</details>
+
