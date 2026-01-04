@@ -2074,3 +2074,8 @@
   <p>Jenkins UI for visualizing pipelines.</p>
 </details>
 
+<details>
+  <summary><strong>Q416) What is a Freestyle job?</strong></summary>
+  <p>Manually configured Jenkins job.</p>
+</details>
+
