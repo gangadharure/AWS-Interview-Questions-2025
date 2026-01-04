@@ -2089,3 +2089,8 @@
   <p>Using SCM webhooks or scheduled triggers.</p>
 </details>
 
+<details>
+  <summary><strong>Q419) What is a post-build action?</strong></summary>
+  <p>Step performed after build success or failure.</p>
+</details>
+
