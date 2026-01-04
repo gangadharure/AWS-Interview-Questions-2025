@@ -2069,3 +2069,8 @@
   <p>Text file containing pipeline-as-code.</p>
 </details>
 
+<details>
+  <summary><strong>Q415) What is Blue Ocean?</strong></summary>
+  <p>Jenkins UI for visualizing pipelines.</p>
+</details>
+
