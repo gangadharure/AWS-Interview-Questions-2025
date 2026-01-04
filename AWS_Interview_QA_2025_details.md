@@ -2079,3 +2079,8 @@
   <p>Manually configured Jenkins job.</p>
 </details>
 
+<details>
+  <summary><strong>Q417) What are Jenkins agents?</strong></summary>
+  <p>Worker nodes that execute jobs.</p>
+</details>
+
