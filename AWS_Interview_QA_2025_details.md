@@ -2104,3 +2104,8 @@
   <p>Build output stored for later use or deployment.</p>
 </details>
 
+<details>
+  <summary><strong>Q422) What is Continuous Integration (CI)?</strong></summary>
+  <p>Automatically integrating and testing code changes frequently.</p>
+</details>
+
