@@ -2099,3 +2099,8 @@
   <p>Build, tag, and push Docker images through pipeline steps.</p>
 </details>
 
+<details>
+  <summary><strong>Q421) What is a Jenkins artifact?</strong></summary>
+  <p>Build output stored for later use or deployment.</p>
+</details>
+
