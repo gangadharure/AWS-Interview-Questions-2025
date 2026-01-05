@@ -2094,3 +2094,8 @@
   <p>Step performed after build success or failure.</p>
 </details>
 
+<details>
+  <summary><strong>Q420) How can Jenkins integrate with Docker?</strong></summary>
+  <p>Build, tag, and push Docker images through pipeline steps.</p>
+</details>
+
