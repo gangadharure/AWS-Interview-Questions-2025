@@ -2109,3 +2109,8 @@
   <p>Automatically integrating and testing code changes frequently.</p>
 </details>
 
+<details>
+  <summary><strong>Q423) What is Continuous Deployment (CD)?</strong></summary>
+  <p>Automatically deploying validated builds to production.</p>
+</details>
+
