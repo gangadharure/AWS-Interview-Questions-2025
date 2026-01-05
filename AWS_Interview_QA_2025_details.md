@@ -2114,3 +2114,8 @@
   <p>Automatically deploying validated builds to production.</p>
 </details>
 
+<details>
+  <summary><strong>Q424) What is a build trigger?</strong></summary>
+  <p>Event that initiates a build (e.g., Git push, cron).</p>
+</details>
+
