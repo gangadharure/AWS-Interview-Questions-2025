@@ -2139,3 +2139,8 @@
   <p>Gradual release to a small user subset before full rollout.</p>
 </details>
 
+<details>
+  <summary><strong>Q429) What is Blue-Green Deployment?</strong></summary>
+  <p>Two identical environments, one live and one standby for zero-downtime deployment.</p>
+</details>
+
