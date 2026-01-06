@@ -2124,3 +2124,8 @@
   <p>Reverting to a previous version after failed deployment.</p>
 </details>
 
+<details>
+  <summary><strong>Q426) What is version tagging?</strong></summary>
+  <p>Assigning version identifiers to builds or releases.</p>
+</details>
+
