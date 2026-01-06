@@ -2119,3 +2119,8 @@
   <p>Event that initiates a build (e.g., Git push, cron).</p>
 </details>
 
+<details>
+  <summary><strong>Q425) What is rollback?</strong></summary>
+  <p>Reverting to a previous version after failed deployment.</p>
+</details>
+
