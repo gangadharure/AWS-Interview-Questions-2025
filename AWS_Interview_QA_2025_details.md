@@ -2129,3 +2129,8 @@
   <p>Assigning version identifiers to builds or releases.</p>
 </details>
 
+<details>
+  <summary><strong>Q427) What is artifact repository?</strong></summary>
+  <p>Central storage for built binaries (e.g., Nexus, Artifactory).</p>
+</details>
+
