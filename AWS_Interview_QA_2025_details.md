@@ -2134,3 +2134,8 @@
   <p>Central storage for built binaries (e.g., Nexus, Artifactory).</p>
 </details>
 
+<details>
+  <summary><strong>Q428) What is Canary Deployment?</strong></summary>
+  <p>Gradual release to a small user subset before full rollout.</p>
+</details>
+
