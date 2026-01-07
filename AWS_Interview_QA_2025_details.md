@@ -2164,3 +2164,8 @@
   <p>Visualization tool for metrics dashboards.</p>
 </details>
 
+<details>
+  <summary><strong>Q434) What is ELK Stack?</strong></summary>
+  <p>Elasticsearch, Logstash, and Kibana for log analysis.</p>
+</details>
+
