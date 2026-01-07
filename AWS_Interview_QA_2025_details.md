@@ -2149,3 +2149,8 @@
   <p>Managing CI/CD pipelines using code in version control.</p>
 </details>
 
+<details>
+  <summary><strong>Q431) What is infrastructure automation?</strong></summary>
+  <p>Provisioning and managing infrastructure through code.</p>
+</details>
+
