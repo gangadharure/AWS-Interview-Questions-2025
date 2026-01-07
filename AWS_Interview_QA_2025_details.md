@@ -2159,3 +2159,8 @@
   <p>Open-source metrics monitoring and alerting system.</p>
 </details>
 
+<details>
+  <summary><strong>Q433) What is Grafana?</strong></summary>
+  <p>Visualization tool for metrics dashboards.</p>
+</details>
+
