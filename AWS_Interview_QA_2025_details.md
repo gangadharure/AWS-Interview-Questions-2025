@@ -2144,3 +2144,8 @@
   <p>Two identical environments, one live and one standby for zero-downtime deployment.</p>
 </details>
 
+<details>
+  <summary><strong>Q430) What is pipeline as code?</strong></summary>
+  <p>Managing CI/CD pipelines using code in version control.</p>
+</details>
+
