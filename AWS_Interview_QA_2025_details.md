@@ -2154,3 +2154,8 @@
   <p>Provisioning and managing infrastructure through code.</p>
 </details>
 
+<details>
+  <summary><strong>Q432) What is Prometheus?</strong></summary>
+  <p>Open-source metrics monitoring and alerting system.</p>
+</details>
+
