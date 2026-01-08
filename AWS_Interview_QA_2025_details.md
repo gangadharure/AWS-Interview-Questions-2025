@@ -2169,3 +2169,8 @@
   <p>Elasticsearch, Logstash, and Kibana for log analysis.</p>
 </details>
 
+<details>
+  <summary><strong>Q435) What is CloudWatch Metrics?</strong></summary>
+  <p>AWS service for real-time monitoring.</p>
+</details>
+
