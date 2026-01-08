@@ -2179,3 +2179,8 @@
   <p>Automated notifications when thresholds are breached.</p>
 </details>
 
+<details>
+  <summary><strong>Q437) What is Application Performance Monitoring (APM)?</strong></summary>
+  <p>Tracking application performance metrics like latency, errors, etc.</p>
+</details>
+
