@@ -2189,3 +2189,8 @@
   <p>Tracking request flow across distributed systems.</p>
 </details>
 
+<details>
+  <summary><strong>Q439) What is DevSecOps?</strong></summary>
+  <p>Integrating security practices into DevOps processes.</p>
+</details>
+
