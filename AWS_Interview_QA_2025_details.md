@@ -2174,3 +2174,8 @@
   <p>AWS service for real-time monitoring.</p>
 </details>
 
+<details>
+  <summary><strong>Q436) What is alerting in DevOps?</strong></summary>
+  <p>Automated notifications when thresholds are breached.</p>
+</details>
+
