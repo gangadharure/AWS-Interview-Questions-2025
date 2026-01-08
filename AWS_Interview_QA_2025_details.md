@@ -2184,3 +2184,8 @@
   <p>Tracking application performance metrics like latency, errors, etc.</p>
 </details>
 
+<details>
+  <summary><strong>Q438) What is tracing in observability?</strong></summary>
+  <p>Tracking request flow across distributed systems.</p>
+</details>
+
