@@ -2194,3 +2194,8 @@
   <p>Integrating security practices into DevOps processes.</p>
 </details>
 
+<details>
+  <summary><strong>Q440) What is vulnerability scanning?</strong></summary>
+  <p>Identifying known security weaknesses in code or images.</p>
+</details>
+
