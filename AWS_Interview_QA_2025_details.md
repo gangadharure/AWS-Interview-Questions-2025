@@ -2199,3 +2199,8 @@
   <p>Identifying known security weaknesses in code or images.</p>
 </details>
 
+<details>
+  <summary><strong>Q441) What is secrets management?</strong></summary>
+  <p>Securely storing and managing sensitive credentials.</p>
+</details>
+
