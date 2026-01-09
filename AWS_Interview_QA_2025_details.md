@@ -2204,3 +2204,8 @@
   <p>Securely storing and managing sensitive credentials.</p>
 </details>
 
+<details>
+  <summary><strong>Q442) What is least privilege principle?</strong></summary>
+  <p>Giving users only the permissions they need.</p>
+</details>
+
