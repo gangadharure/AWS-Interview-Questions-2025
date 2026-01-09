@@ -2209,3 +2209,8 @@
   <p>Giving users only the permissions they need.</p>
 </details>
 
+<details>
+  <summary><strong>Q443) What is compliance as code?</strong></summary>
+  <p>Automating compliance checks using policy tools.</p>
+</details>
+
